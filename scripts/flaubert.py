@@ -49,7 +49,6 @@ nlp_ner = pipeline("ner", model="Jean-Baptiste/camembert-ner")
 base_path = "/content/drive/My Drive/Poemes/"
 dic = {}
 
-# Dictionnaires pour stocker les stats par auteur
 entites_par_auteur = {}
 tokens_par_auteur = {}
 
@@ -67,15 +66,12 @@ for autor in tqdm(os.listdir(base_path), desc="Autors", unit="auteur"):
                 with open(file_path, "r", encoding="utf-8") as f:
                     conteudo = f.read()
 
-                # Tokenisation du texte
                 tokens = tokenizer.tokenize(conteudo)
                 nb_tokens = len(tokens)
 
-                # Extraction des entités nommées
                 entidades = nlp_ner(conteudo)
                 nb_entites = len(entidades)
 
-                # Ajouter les tokens et entités pour cet auteur
                 tokens_par_auteur[autor] += nb_tokens
                 entites_par_auteur[autor] += nb_entites
 
@@ -90,17 +86,14 @@ json_file_path = "/content/drive/My Drive/premier_resultat_flaubert.json"
 with open(json_file_path, "w", encoding="utf-8") as json_file:
     json.dump(dic, json_file, ensure_ascii=False, indent=4)
 
-# 🔹 Affichage du nombre total de tokens par auteur
 print("\nNombre total de tokens par auteur :")
 for auteur, nb_tokens in tokens_par_auteur.items():
     print(f"- {auteur}: {nb_tokens} tokens")
 
-# 🔹 Affichage du nombre total d'entités nommées par auteur
 print("\nNombre total d'entités nommées par auteur :")
 for auteur, nb_entites in entites_par_auteur.items():
     print(f"- {auteur}: {nb_entites} entités nommées")
 
-# 🔹 Calcul et affichage des totaux globaux
 total_tokens = sum(tokens_par_auteur.values())
 total_entites = sum(entites_par_auteur.values())
 

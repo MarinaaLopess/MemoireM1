@@ -1,0 +1,19 @@
+
+\begin{table}[ht]
+\captionsetup{skip=0.5cm}
+\centering
+\small
+\caption{NOMBRE DE TOKENS, NOMBRE D'ENTITÉS NOMMÉES, DENSITÉ ET DURÉE D'EXÉCUTION SUR L'ENSEMBLE DU CORPUS}
+\begin{tblr}{
+  colspec={@{}lccccc@{}},
+  row{1}={font=\itshape}
+}
+
+ & \textbf{spaCy (sm)} & \textbf{spaCy (lg)} & \textbf{Flaubert} & \textbf{Camembert} & \textbf{Stanza} \\
+\hline
+\textbf{Tokens} & 298973.00 & 298973.00 & 337503.00 & 375172.00 & 296191.00 \\
+\textbf{Entités Nommées} & 21039.00 & 18162.00 & 1011.00 & 225.00 & 8596.00 \\
+\textbf{Densité EN (\%)} & 7.04 & 6.07 & 0.30 & 0.06 & 2.90 \\
+\textbf{Durée (s)} & 72.00 & 68.00 & 98.00 & 23.07 & 374.13 \\
+\end{tblr}
+\end{table}

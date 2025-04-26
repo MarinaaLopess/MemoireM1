@@ -1,4 +1,4 @@
-# au format de MLA
+######### au format de MLA
 1.Koudoro-Parfait, Caroline, Gaël Lejeune, and Glenn Roe. "Spatial Named Entity Recognition in Literary Texts: What is the Influence of OCR Noise?." Proceedings of the 5th ACM SIGSPATIAL International Workshop on Geospatial Humanities. 2021.
 Exploring text collections through named entities remains a very common need for scholars. Despite the recent advances of Named Entity Recognition (NER) systems, more efficient and easier to use, the task remains problematic when the data is not born digital and thus more prone to Optical Character Recognition errors. In this paper, we investigate the real influence of noise on the extraction of locations in a collection of ten books in French exhibiting different levels of difficulties for NER systems (digitization quality, complexity of layout, variation in language). We compare the results of various systems on the "clean" version of the documents and on different OCRed versions. We show that NER systems do not yield many more errors in noisy documents, most of the errors being already there on a reference version, and in some cases NER performs better on noisy versions. According to our results, the main problem is rare entities (especially hapax) which are more likely to disappear from of the output.
 https://dl.acm.org/doi/abs/10.1145/3486187.3490206?casa_token=aL53XW1wirsAAAAA:mwJGhIfPfnJseSHj6QPuMyFat9ZpL1f32fzr0JOe7tvNveCsL0ImJ8MTSnLMDuGT0euZW1YcLPbJeA
@@ -44,3 +44,13 @@ https://dl.acm.org/doi/10.1145/3149858.3149859
 10.Kogkitsidou, Eleni, and Philippe Gambette. "Normalisation of 16th and 17th century texts in French and geographical named entity recognition." Proceedings of the 4th ACM SIGSPATIAL Workshop on Geospatial Humanities. 2020.
 Both statistical and rule-based methods for named entity recognition are quite sensitive to the type of language used in the analysed texts. Former studies have shown for example that it was harder to detect named entities in SMS or microblog messages where words are abridged or changed to lowercase. In this article, we focus on old French texts to evaluate the impact of manual and automatic normalisation before applying five geographical named entity recognition tools, as well as an improved version of one of them, in order to help building maps displaying the locations mentioned in ancient texts. Our results show that manual normalisation leads to better results for all methods and that automatic normalisation performs differently depending on the tool used to extract geographical named entities, but with a significant improvement on most methods.
 https://dl.acm.org/doi/10.1145/3423337.3429437
+
+###### 0426  reste à ajouter :
+
+11. Koudoro-Parfait C., Lejeune G. & Buth R. (2022). « Reconnaissance d’entités nommées sur des sorties OCR bruitées : des pistes pour la désambiguïsation morphologique automatique », in Actes de la 29e Conférence sur le Traitement Automatique des Langues Naturelles. Atelier TAL et Humanités Numériques (TAL-HN), 45-55. https://aclanthology.org/2022.jeptalnrecital-humanum.6.
+
+12.Koudoro-Parfait C., Petkovic L. & Roe G. (2024). « Analyse multilingue de l’impact de la correction automatique de la ROC sur la reconnaissance d’entités nommées spatiales dans des corpus littéraires », Revue TAL : Robustesse et limites des modèles de traitement automatique des langues 64(2) [à paraître].
+https://journals.openedition.org/corpus/9059
+
+
+13. des articles scientifiques qui définissent la REN

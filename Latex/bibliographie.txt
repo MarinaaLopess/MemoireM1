@@ -45,6 +45,17 @@ https://dl.acm.org/doi/10.1145/3149858.3149859
 Both statistical and rule-based methods for named entity recognition are quite sensitive to the type of language used in the analysed texts. Former studies have shown for example that it was harder to detect named entities in SMS or microblog messages where words are abridged or changed to lowercase. In this article, we focus on old French texts to evaluate the impact of manual and automatic normalisation before applying five geographical named entity recognition tools, as well as an improved version of one of them, in order to help building maps displaying the locations mentioned in ancient texts. Our results show that manual normalisation leads to better results for all methods and that automatic normalisation performs differently depending on the tool used to extract geographical named entities, but with a significant improvement on most methods.
 https://dl.acm.org/doi/10.1145/3423337.3429437
 
+11.Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoit Crabbé, Laurent Besacier, and Didier Schwab. 2020. FlauBERT: Unsupervised Language Model Pre-training for French. In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 2479–2490, Marseille, France. European Language Resources Association.
+https://aclanthology.org/2020.lrec-1.302/
+
+12.Louis Martin, Benjamin Muller, Pedro Javier Ortiz Suárez, Yoann Dupont, Laurent Romary, Éric de la Clergerie, Djamé Seddah, and Benoît Sagot. 2020. CamemBERT: a Tasty French Language Model. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7203–7219, Online. Association for Computational Linguistics.
+https://aclanthology.org/2020.acl-main.645/
+
+13.Bannour, N., Servan, C., Névéol, A., & Tannier, X. (2024). A Benchmark Evaluation of Clinical Named Entity Recognition in French. arXiv preprint arXiv:2403.19726.
+https://arxiv.org/abs/2403.19726
+
+
+
 ###### 0426  reste à ajouter :
 
 11. Koudoro-Parfait C., Lejeune G. & Buth R. (2022). « Reconnaissance d’entités nommées sur des sorties OCR bruitées : des pistes pour la désambiguïsation morphologique automatique », in Actes de la 29e Conférence sur le Traitement Automatique des Langues Naturelles. Atelier TAL et Humanités Numériques (TAL-HN), 45-55. https://aclanthology.org/2022.jeptalnrecital-humanum.6.

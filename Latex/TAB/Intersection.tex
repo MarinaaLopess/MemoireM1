@@ -1,0 +1,35 @@
+\begin{table}[h]
+\centering
+\resizebox{1.1\textwidth}{!}{ % 增加表格的缩放比例
+\begin{tabular}{|l|l|r|r|r|r|r|r|}
+\hline
+\textbf{Modèle 1} & \textbf{Modèle 2} & \textbf{Entités en Intersection} & \textbf{Entités uniquement dans Spacy\_lg} & \textbf{Entités uniquement dans Spacy\_sm} & \textbf{Entités uniquement dans Flaubert} & \textbf{Entités uniquement dans Camembert} & \textbf{Entités uniquement dans Stanza} \\
+\hline
+Spacy\_lg & Spacy\_sm & 6004 & 8080 & 6413 &  &  &  \\
+Spacy\_lg & Flaubert & 65 & 14019 &  & 109 &  &  \\
+Spacy\_lg & Camembert & 65 & 14019 &  &  & 109 &  \\
+Spacy\_lg & Stanza & 3592 & 10492 &  &  &  & 3457 \\
+Spacy\_sm & Spacy\_lg & 6004 & 8080 & 6413 &  &  &  \\
+Spacy\_sm & Flaubert & 73 &  & 12344 & 101 &  &  \\
+Spacy\_sm & Camembert & 73 &  & 12344 &  & 101 &  \\
+Spacy\_sm & Stanza & 3581 &  & 8836 &  &  & 3468 \\
+Flaubert & Spacy\_lg & 65 & 14019 &  & 109 &  &  \\
+Flaubert & Spacy\_sm & 73 &  & 12344 & 101 &  &  \\
+Flaubert & Camembert & 174 &  &  & 0 & 0 &  \\
+Flaubert & Stanza & 93 &  &  & 81 &  & 6956 \\
+Camembert & Spacy\_lg & 65 & 14019 &  &  & 109 &  \\
+Camembert & Spacy\_sm & 73 &  & 12344 &  & 101 &  \\
+Camembert & Flaubert & 174 &  &  & 0 & 0 &  \\
+Camembert & Stanza & 93 &  &  & 81 &  & 6956 \\
+Stanza & Spacy\_lg & 3592 & 10492 &  &  &  & 3457 \\
+Stanza & Spacy\_sm & 3581 &  & 8836 &  &  & 3468 \\
+Stanza & Flaubert & 93 &  &  & 81 &  & 6956 \\
+Stanza & Camembert & 93 &  &  & 81 &  & 6956 \\
+\hline
+\end{tabular}
+}
+\caption{Intersection des entités entre différents modèles} % 这是表格标题
+\end{table}
+
+
+

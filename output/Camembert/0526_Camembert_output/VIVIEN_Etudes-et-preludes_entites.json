@@ -1,0 +1,7972 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes de",
+            "type": "MISC"
+        },
+        {
+            "mot": "Renée Vivien",
+            "type": "PER"
+        },
+        {
+            "mot": "Étude",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres et poussières",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Vénus des aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vivien, Renée",
+            "type": "PER"
+        },
+        {
+            "mot": "(1877-1909",
+            "type": "DATE"
+        },
+        {
+            "mot": "A. Lemerre",
+            "type": "ORG"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1923",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf.",
+            "type": "ORG"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "XML DTBook",
+            "type": "MISC"
+        },
+        {
+            "mot": "2005-3",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Littérature",
+            "type": "MISC"
+        },
+        {
+            "mot": "Biblioth",
+            "type": "ORG"
+        },
+        {
+            "mot": "èq",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "27/06/2016",
+            "type": "DATE"
+        },
+        {
+            "mot": "PO<unk>MES D F Renée Vivien",
+            "type": "PER"
+        },
+        {
+            "mot": "\"P ré u des – Cendres et Poussières Évocations Sapho – La Venus des Aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIBRAIRIE ALPHONSE",
+            "type": "ORG"
+        },
+        {
+            "mot": "La Venus des Aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIBRAIRIE ALPHONSE",
+            "type": "ORG"
+        },
+        {
+            "mot": "LE MERRE",
+            "type": "LOC"
+        },
+        {
+            "mot": "PASSAGE CHOISEUL",
+            "type": "MISC"
+        },
+        {
+            "mot": "PO<unk>MES D E",
+            "type": "MISC"
+        },
+        {
+            "mot": "Renée Vivien",
+            "type": "PER"
+        },
+        {
+            "mot": "papier",
+            "type": "MISC"
+        },
+        {
+            "mot": "de Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "PO<unk>MES DE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Renée Vivi",
+            "type": "PER"
+        },
+        {
+            "mot": "en Études et Préludes – Cendres et Poussières Évocations Sapho – La Vénus des Aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARIS LI",
+            "type": "LOC"
+        },
+        {
+            "mot": "BRAIRIE ALPHONSE",
+            "type": "ORG"
+        },
+        {
+            "mot": "LE M ERRE",
+            "type": "LOC"
+        },
+        {
+            "mot": "PASSAGE CHOISEUL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Renée Vivien",
+            "type": "PER"
+        },
+        {
+            "mot": "ETUDES ET PRÉLUDES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1901",
+            "type": "DATE"
+        },
+        {
+            "mot": "1903.",
+            "type": "DATE"
+        },
+        {
+            "mot": "CENDRES ET POUSSIERES",
+            "type": "MISC"
+        },
+        {
+            "mot": "190",
+            "type": "DATE"
+        },
+        {
+            "mot": "1903.",
+            "type": "DATE"
+        },
+        {
+            "mot": "CENDRES ET POUSSIERES",
+            "type": "MISC"
+        },
+        {
+            "mot": "190",
+            "type": "DATE"
+        },
+        {
+            "mot": "1903",
+            "type": "DATE"
+        },
+        {
+            "mot": "EVOCATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "1905",
+            "type": "DATE"
+        },
+        {
+            "mot": "SAPHO",
+            "type": "MISC"
+        },
+        {
+            "mot": "190",
+            "type": "DATE"
+        },
+        {
+            "mot": "LA VÉNUS DES AVEUGLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "190",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES KITHAREDES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1904",
+            "type": "DATE"
+        },
+        {
+            "mot": "A L'HEURE DES MAINS JOINTES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1906",
+            "type": "DATE"
+        },
+        {
+            "mot": "CHANSONS POUR MON OMBRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "1907",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pauline M. Tarn",
+            "type": "PER"
+        },
+        {
+            "mot": "). SILLAGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1908",
+            "type": "DATE"
+        },
+        {
+            "mot": "FLAMBEAUX ÉTEINTS",
+            "type": "MISC"
+        },
+        {
+            "mot": "19",
+            "type": "DATE"
+        },
+        {
+            "mot": "08",
+            "type": "MISC"
+        },
+        {
+            "mot": "PO<unk>MES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1909",
+            "type": "DATE"
+        },
+        {
+            "mot": "DANS UN COIN DE VIOLETTES",
+            "type": "MISC"
+        },
+        {
+            "mot": "1910",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE VENT DES VAISSEAUX",
+            "type": "MISC"
+        },
+        {
+            "mot": "1910",
+            "type": "DATE"
+        },
+        {
+            "mot": "HAILLONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "1910",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chansons pour mon Ombre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": ". A mon Amie H.L.C.B. Etudes et Préludes A la Femm",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Amie H.L.C.B. Etudes et Préludes A la Femme aimée",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Blonde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Reflet naif",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vers ta Divinité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'ORGUEIL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "TA voix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études, I",
+            "type": "MISC"
+        },
+        {
+            "mot": ", 15",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lys",
+            "type": "PER"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": ", 15",
+            "type": "DATE"
+        },
+        {
+            "mot": "II, 19",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sonnet PARLE-MOI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Espoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chimère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Études, I",
+            "type": "MISC"
+        },
+        {
+            "mot": ", 23",
+            "type": "DATE"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "Aurore",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "E",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ondine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Amie",
+            "type": "PER"
+        },
+        {
+            "mot": "DAN S",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sérénité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Foi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Eternelle Vengeance",
+            "type": "MISC"
+        },
+        {
+            "mot": "DAULA",
+            "type": "PER"
+        },
+        {
+            "mot": "'une heure et",
+            "type": "DATE"
+        },
+        {
+            "mot": "Samson",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tortur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet à la Mort J'ATTENDS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet à la Mort J'ATTENDS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "1,",
+            "type": "DATE"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'OMBRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Matinal",
+            "type": "LOC"
+        },
+        {
+            "mot": "Matinal",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Odeur des Vignes L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "treilles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "'aconit",
+            "type": "LOC"
+        },
+        {
+            "mot": "rolles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "PS",
+            "type": "MISC"
+        },
+        {
+            "mot": "APP",
+            "type": "PER"
+        },
+        {
+            "mot": "HA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ici",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Aède",
+            "type": "PER"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études) I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Les Yeux gris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Naïade",
+            "type": "PER"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet É",
+            "type": "MISC"
+        },
+        {
+            "mot": "Musiciennes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mercure de France",
+            "type": "ORG"
+        },
+        {
+            "mot": "1er juillet 1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "août",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "Son",
+            "type": "MISC"
+        },
+        {
+            "mot": "I L'OMBRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etudes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amazone L'AMAZONE",
+            "type": "PER"
+        },
+        {
+            "mot": "Jas",
+            "type": "MISC"
+        },
+        {
+            "mot": "luttes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "Bien-Aimée",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Immortelle",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Immortelle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Études",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres et Poussières In",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amante",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Poètes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paphôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Poète",
+            "type": "MISC"
+        },
+        {
+            "mot": "Prêtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres. I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Let the Dead",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dead",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amazones O",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Artémis",
+            "type": "PER"
+        },
+        {
+            "mot": "Amazones",
+            "type": "PER"
+        },
+        {
+            "mot": "Fier",
+            "type": "PER"
+        },
+        {
+            "mot": "En",
+            "type": "PER"
+        },
+        {
+            "mot": "utis",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "d'Artémis",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I, 15",
+            "type": "DATE"
+        },
+        {
+            "mot": "II, 15",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres,",
+            "type": "MISC"
+        },
+        {
+            "mot": "1, 25",
+            "type": "DATE"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sirène",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II, 31",
+            "type": "DATE"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse du",
+            "type": "PER"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ja",
+            "type": "DATE"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tentatrice",
+            "type": "PER"
+        },
+        {
+            "mot": "l'éternelle Tentatrice",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "La",
+            "type": "PER"
+        },
+        {
+            "mot": "Pleureuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Séléné",
+            "type": "PER"
+        },
+        {
+            "mot": "Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Séléné",
+            "type": "PER"
+        },
+        {
+            "mot": "Séléné",
+            "type": "PER"
+        },
+        {
+            "mot": "Séléné",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres,",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Reptile",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Velléité",
+            "type": "PER"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Sang des Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ton Ame",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ton",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ton âme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rythme saphique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pléiades",
+            "type": "MISC"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Riait",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Pléiades",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Locusta NUL",
+            "type": "PER"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Triomphe",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "désir d'un jour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Créature d'un jour !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Créature",
+            "type": "MISC"
+        },
+        {
+            "mot": "'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lassitude",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Arbres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les arbres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Levant",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cendres, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "J. KEATS",
+            "type": "PER"
+        },
+        {
+            "mot": "J",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aèdes fervents",
+            "type": "MISC"
+        },
+        {
+            "mot": "Musiciennes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mortes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crépuscule",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "N",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Grâces solennelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Aube",
+            "type": "PER"
+        },
+        {
+            "mot": "d'une heure et",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Solitaires CEUX-LA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Feuilles sur l'Eau L'ONDE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pro",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Dé",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Toucher",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Toucher",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le crépuscule passe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Suive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le rêve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": ",",
+            "type": "DATE"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Mort d'une Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "La mort d'une Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "Styx",
+            "type": "PER"
+        },
+        {
+            "mot": "La mort d'une Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "La mort d'une Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rançon",
+            "type": "PER"
+        },
+        {
+            "mot": "Et j",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": ", 17",
+            "type": "DATE"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sonnet T",
+            "type": "MISC"
+        },
+        {
+            "mot": "Du Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grave",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hamlet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ophélie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Comme Elle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Comme Lui",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Un",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Autre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPH A",
+            "type": "PER"
+        },
+        {
+            "mot": "Blanches",
+            "type": "MISC"
+        },
+        {
+            "mot": "regret",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Bleus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jadis !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vent",
+            "type": "MISC"
+        },
+        {
+            "mot": "du Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "CHOEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHOEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ne",
+            "type": "MISC"
+        },
+        {
+            "mot": "OEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vision",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rêve",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHOEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "'",
+            "type": "MISC"
+        },
+        {
+            "mot": "URORE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Alkestis",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphoné",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "Alkestis",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "1, 31",
+            "type": "DATE"
+        },
+        {
+            "mot": "Violettes d'Automne L",
+            "type": "MISC"
+        },
+        {
+            "mot": "'AIR",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ma Maîtresse et ma Volupté",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Odeur de la Montagne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Toglieva",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dalle",
+            "type": "MISC"
+        },
+        {
+            "mot": "D",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Inferno, canto secondo",
+            "type": "MISC"
+        },
+        {
+            "mot": "Coule",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": ", 3 5",
+            "type": "DATE"
+        },
+        {
+            "mot": "II, 19",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Conque",
+            "type": "PER"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Water Lilies",
+            "type": "MISC"
+        },
+        {
+            "mot": "Water Lilies",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Ophélie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Léthé",
+            "type": "PER"
+        },
+        {
+            "mot": "Persé",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fleur du Sorbier",
+            "type": "MISC"
+        },
+        {
+            "mot": "ale",
+            "type": "PER"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Valkyries",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Mort de",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Égée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "ÉRANNA DE TÉLOS",
+            "type": "PER"
+        },
+        {
+            "mot": "Prokné",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Atthis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE",
+            "type": "MISC"
+        },
+        {
+            "mot": "II L",
+            "type": "PER"
+        },
+        {
+            "mot": "'Étrangère",
+            "type": "MISC"
+        },
+        {
+            "mot": "D",
+            "type": "MISC"
+        },
+        {
+            "mot": "AM",
+            "type": "PER"
+        },
+        {
+            "mot": "OPHYLA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vierge",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "'",
+            "type": "MISC"
+        },
+        {
+            "mot": "ÉTRANG",
+            "type": "PER"
+        },
+        {
+            "mot": "<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "DAMOPHYLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesses",
+            "type": "MISC"
+        },
+        {
+            "mot": "ATTH IS",
+            "type": "PER"
+        },
+        {
+            "mot": "ÉRANNA",
+            "type": "PER"
+        },
+        {
+            "mot": "GORG<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "DIKA",
+            "type": "PER"
+        },
+        {
+            "mot": "DIKA",
+            "type": "PER"
+        },
+        {
+            "mot": "GURINN<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "DIKA",
+            "type": "PER"
+        },
+        {
+            "mot": "ÉRANNA",
+            "type": "PER"
+        },
+        {
+            "mot": "<unk>NE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "HOEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aphrodi",
+            "type": "PER"
+        },
+        {
+            "mot": "Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Im",
+            "type": "PER"
+        },
+        {
+            "mot": "Ondo",
+            "type": "PER"
+        },
+        {
+            "mot": "Kupros",
+            "type": "PER"
+        },
+        {
+            "mot": "Kupros",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Dée",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "DAMOPHYLA",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "GORG<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "ATTHIS",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk> NE IV L'ÉTRANG<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "RANNA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Leucade",
+            "type": "LOC"
+        },
+        {
+            "mot": "D",
+            "type": "MISC"
+        },
+        {
+            "mot": "AMOPHYLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "ÉRANNA",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "ATTHIS",
+            "type": "PER"
+        },
+        {
+            "mot": "GORG<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sillages",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lamentation L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adônis",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Insomnie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Désir farouche",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "er",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bleue",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chardons",
+            "type": "MISC"
+        },
+        {
+            "mot": "emb",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Épouse",
+            "type": "PER"
+        },
+        {
+            "mot": "Très Chaste",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Celle que j'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "PER"
+        },
+        {
+            "mot": "Merwynn",
+            "type": "PER"
+        },
+        {
+            "mot": "Mer",
+            "type": "PER"
+        },
+        {
+            "mot": "wynn",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "PER"
+        },
+        {
+            "mot": "Penseur",
+            "type": "PER"
+        },
+        {
+            "mot": "Pen",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Merwynn",
+            "type": "PER"
+        },
+        {
+            "mot": "Per",
+            "type": "MISC"
+        },
+        {
+            "mot": "de Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Perfide Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Insin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "De l'Enchanteur",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amante",
+            "type": "PER"
+        },
+        {
+            "mot": "L'astre",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gellô GELL<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "l'É",
+            "type": "PER"
+        },
+        {
+            "mot": "po",
+            "type": "MISC"
+        },
+        {
+            "mot": "use",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Épouse",
+            "type": "PER"
+        },
+        {
+            "mot": "Gellô",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Épouse",
+            "type": "PER"
+        },
+        {
+            "mot": "Gellô",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet J'AIME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Ville",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Ville",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Avenir",
+            "type": "LOC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "ILITH",
+            "type": "MISC"
+        },
+        {
+            "mot": "<unk>ve",
+            "type": "PER"
+        },
+        {
+            "mot": "Serpent",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Irréel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Terre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "CASSIOPÉE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Éternité",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "RHODOPIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Pyramides",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pyramides",
+            "type": "LOC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Lyre de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "BETHSABÉE",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "CAMPASPE",
+            "type": "PER"
+        },
+        {
+            "mot": "Alexandre",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Apelle",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Art",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Astarté",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Astarté",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "CLÉOPATRE",
+            "type": "PER"
+        },
+        {
+            "mot": "CLÉOPATRE",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Isis",
+            "type": "PER"
+        },
+        {
+            "mot": "Immuable",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "PAULINA",
+            "type": "PER"
+        },
+        {
+            "mot": "La mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'astre fatal de la Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luxure",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "L'astre fatal de la Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'astre fatal de la Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "ÉLÉONORE DE GUYENNE",
+            "type": "PER"
+        },
+        {
+            "mot": "L'astre fatal de la Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "ÉLISABETH WOODVILLE",
+            "type": "PER"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "LADY JANE GREY",
+            "type": "MISC"
+        },
+        {
+            "mot": "Destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Les Ébauches",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Égée",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Égée",
+            "type": "PER"
+        },
+        {
+            "mot": "qu'Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Ménade",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'opale",
+            "type": "LOC"
+        },
+        {
+            "mot": "Les mouettes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": ",",
+            "type": "DATE"
+        },
+        {
+            "mot": "II,",
+            "type": "DATE"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": ",",
+            "type": "DATE"
+        },
+        {
+            "mot": "Elle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Elle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "El",
+            "type": "PER"
+        },
+        {
+            "mot": "es",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "1, 91 ; 11, 51",
+            "type": "DATE"
+        },
+        {
+            "mot": "Velléda",
+            "type": "PER"
+        },
+        {
+            "mot": "Velléda",
+            "type": "PER"
+        },
+        {
+            "mot": "Druidesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Prêtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Prêtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Prophétesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Prophétesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Druidesse",
+            "type": "PER"
+        },
+        {
+            "mot": "ante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eranna",
+            "type": "PER"
+        },
+        {
+            "mot": "Gurinnô",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations, II",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Océanide",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Fusée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Étoiles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "D'ivoire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pléiade",
+            "type": "LOC"
+        },
+        {
+            "mot": "Silence",
+            "type": "MISC"
+        },
+        {
+            "mot": "",
+            "type": "LOC"
+        },
+        {
+            "mot": "Eternel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruines",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ruines",
+            "type": "LOC"
+        },
+        {
+            "mot": "MA Fée et ma Princesse aux paupières divines",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ma Fée et ma Princesse aux paupières divines",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fée",
+            "type": "PER"
+        },
+        {
+            "mot": "Princesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roses du Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Satyresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Satyresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Danses sacrées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crète",
+            "type": "LOC"
+        },
+        {
+            "mot": "Evocations, I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Revenants",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Invisible",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etranglée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noyée",
+            "type": "PER"
+        },
+        {
+            "mot": "Mortes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Revenants",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Autrefois",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Autrefois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "ATTHIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "'",
+            "type": "PER"
+        },
+        {
+            "mot": "Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "et demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Piéria",
+            "type": "PER"
+        },
+        {
+            "mot": "d'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Phoibos",
+            "type": "PER"
+        },
+        {
+            "mot": "Gurinnô",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Eranna",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Dé",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesses",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Artémis",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphoné",
+            "type": "PER"
+        },
+        {
+            "mot": "ATTHIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "ède",
+            "type": "PER"
+        },
+        {
+            "mot": "Disparue",
+            "type": "MISC"
+        },
+        {
+            "mot": "Disparue",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Androméda",
+            "type": "LOC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Psappba",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Couleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Couleurs de la Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "une",
+            "type": "LOC"
+        },
+        {
+            "mot": "Myst",
+            "type": "PER"
+        },
+        {
+            "mot": "é",
+            "type": "LOC"
+        },
+        {
+            "mot": "rieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mystérieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "D'",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Léthé",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sirènes",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Ulysse",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Ulysse",
+            "type": "PER"
+        },
+        {
+            "mot": "Moi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sirènes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sirènes",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Ulysse",
+            "type": "PER"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'OMBRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Korinn",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Korinna",
+            "type": "PER"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "PER"
+        },
+        {
+            "mot": "El ! e",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Korinna",
+            "type": "PER"
+        },
+        {
+            "mot": "Léda",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Ouranos",
+            "type": "PER"
+        },
+        {
+            "mot": "Pléi",
+            "type": "PER"
+        },
+        {
+            "mot": "Pléiades",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphoné",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphné",
+            "type": "MISC"
+        },
+        {
+            "mot": "Parfument le silence où rêvent les Poètes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fugitive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Femme aux yeux d'amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Korinna triomphante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Kitharèdes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sunset Goddess",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Faunesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Été",
+            "type": "MISC"
+        },
+        {
+            "mot": "Neige",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noyées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "(Évocations) I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Couleurs É LOI G N EZ",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "DATE"
+        },
+        {
+            "mot": "Les Couleurs É LOI G N",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rouge",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jaune",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rose",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bleu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mauve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Violet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vert",
+            "type": "MISC"
+        },
+        {
+            "mot": "Béatrice",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crépuscule",
+            "type": "MISC"
+        },
+        {
+            "mot": "Brun",
+            "type": "MISC"
+        },
+        {
+            "mot": "Blanc",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noir",
+            "type": "MISC"
+        },
+        {
+            "mot": "(Évocations) I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Bloc de Ma",
+            "type": "MISC"
+        },
+        {
+            "mot": "uit du Noir",
+            "type": "MISC"
+        },
+        {
+            "mot": "(Évocations) I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bloc de Marbre",
+            "type": "MISC"
+        },
+        {
+            "mot": "J E",
+            "type": "PER"
+        },
+        {
+            "mot": "Statue",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gémi",
+            "type": "LOC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Néréide",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Divinité",
+            "type": "PER"
+        },
+        {
+            "mot": "Divinité",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pêcheurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pélagôn",
+            "type": "PER"
+        },
+        {
+            "mot": "Destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Téthys la Divine",
+            "type": "PER"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pélagôn",
+            "type": "PER"
+        },
+        {
+            "mot": "Destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sa",
+            "type": "MISC"
+        },
+        {
+            "mot": "pho",
+            "type": "PER"
+        },
+        {
+            "mot": "Amantes fidèles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉ ESSE de la Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphoné",
+            "type": "PER"
+        },
+        {
+            "mot": "Hades",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse de la Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphoné",
+            "type": "PER"
+        },
+        {
+            "mot": "Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Egypte",
+            "type": "LOC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Doge",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Ode à l'Aphrodita",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Blanche Bie",
+            "type": "PER"
+        },
+        {
+            "mot": "Blanche Bienheureuse",
+            "type": "PER"
+        },
+        {
+            "mot": "Peithô",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Nuit ardente",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Evocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Am",
+            "type": "MISC"
+        },
+        {
+            "mot": "ante",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Androméda",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Androméda",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Androméda",
+            "type": "PER"
+        },
+        {
+            "mot": "Androméda",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Androméda",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Pléiade",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Séléné",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "ATTHIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Eranna",
+            "type": "PER"
+        },
+        {
+            "mot": "Euneika",
+            "type": "PER"
+        },
+        {
+            "mot": "Gurinnô",
+            "type": "PER"
+        },
+        {
+            "mot": "Anactoria",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesses",
+            "type": "PER"
+        },
+        {
+            "mot": "Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Vierges",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aube",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "PER"
+        },
+        {
+            "mot": "'Aube",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Hespérôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sa",
+            "type": "PER"
+        },
+        {
+            "mot": "pho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Les",
+            "type": "PER"
+        },
+        {
+            "mot": "b",
+            "type": "LOC"
+        },
+        {
+            "mot": "ô",
+            "type": "PER"
+        },
+        {
+            "mot": "s",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "5",
+            "type": "DATE"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Déesse de Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Hespérôs",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Immortelle",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs M'appelle",
+            "type": "PER"
+        },
+        {
+            "mot": "Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho)",
+            "type": "PER"
+        },
+        {
+            "mot": "Kupros",
+            "type": "PER"
+        },
+        {
+            "mot": "Kupros",
+            "type": "PER"
+        },
+        {
+            "mot": "Kuprôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Léthé",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pandion",
+            "type": "PER"
+        },
+        {
+            "mot": "Pandion",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Elle",
+            "type": "PER"
+        },
+        {
+            "mot": "Procné",
+            "type": "PER"
+        },
+        {
+            "mot": "Printemps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "d",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Loi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pallas Athéné",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "5 5",
+            "type": "DATE"
+        },
+        {
+            "mot": "Aithopia",
+            "type": "PER"
+        },
+        {
+            "mot": "Arista",
+            "type": "PER"
+        },
+        {
+            "mot": "d'une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "d'une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "LOC"
+        },
+        {
+            "mot": "'",
+            "type": "PER"
+        },
+        {
+            "mot": "Ha",
+            "type": "LOC"
+        },
+        {
+            "mot": "dès",
+            "type": "PER"
+        },
+        {
+            "mot": "Terre sombre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Resplendis",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Pélagôn",
+            "type": "PER"
+        },
+        {
+            "mot": "Méniskos",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort maritime",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Pléiade",
+            "type": "MISC"
+        },
+        {
+            "mot": "Leucade",
+            "type": "PER"
+        },
+        {
+            "mot": "Assombrit la mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Piéria",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dema",
+            "type": "PER"
+        },
+        {
+            "mot": "Piéria",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'Hadès",
+            "type": "PER"
+        },
+        {
+            "mot": "d",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Maison des Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "... Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sapbo",
+            "type": "MISC"
+        },
+        {
+            "mot": "Doulour",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Sang des Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphona",
+            "type": "PER"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphona",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "Hespéros",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Ile",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Ile",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Mnasidika",
+            "type": "PER"
+        },
+        {
+            "mot": "Gurinnô",
+            "type": "PER"
+        },
+        {
+            "mot": "GURINN<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Mnasidika",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Bienheureuses",
+            "type": "PER"
+        },
+        {
+            "mot": "Dika",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesses",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Artémis",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Perséphona",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saph",
+            "type": "PER"
+        },
+        {
+            "mot": "Pour Une",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Pour Une",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Sa",
+            "type": "PER"
+        },
+        {
+            "mot": "pho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "PER"
+        },
+        {
+            "mot": "Véné",
+            "type": "PER"
+        },
+        {
+            "mot": "Sa",
+            "type": "PER"
+        },
+        {
+            "mot": "pho",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénérable",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aurore Vénérable",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sa",
+            "type": "PER"
+        },
+        {
+            "mot": "pho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "PER"
+        },
+        {
+            "mot": "Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gorgô",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sa",
+            "type": "PER"
+        },
+        {
+            "mot": "pho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres et Poussières",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sur le Rythme saphique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rythme saphique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crète",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Évocations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Danses sacrées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Apaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Peithô",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Grâces",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hérô",
+            "type": "PER"
+        },
+        {
+            "mot": "Guara",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Bienheureuse",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Destin",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Aphrodita",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Maître",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Terre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Aède de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Paphôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "Maison du Poète",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Sourire dans la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Erôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbôs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Psappha de Lesbôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Prolonge la nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus des Aveug",
+            "type": "PER"
+        },
+        {
+            "mot": "les Incipit Liber Veneris Caecorum",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus des Aveugles",
+            "type": "PER"
+        },
+        {
+            "mot": "La Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "La Déesse Noire",
+            "type": "PER"
+        },
+        {
+            "mot": "Aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fourrure JE",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Femme que je crains",
+            "type": "MISC"
+        },
+        {
+            "mot": "les Fauves que j",
+            "type": "MISC"
+        },
+        {
+            "mot": "aime",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Fourrure",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Neiges",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fourrure",
+            "type": "LOC"
+        },
+        {
+            "mot": "Toisons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Arums",
+            "type": "MISC"
+        },
+        {
+            "mot": "Palestine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "PER"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Arums",
+            "type": "MISC"
+        },
+        {
+            "mot": "Palestine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Succubes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Reflets d'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ard",
+            "type": "LOC"
+        },
+        {
+            "mot": "oise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tourment",
+            "type": "PER"
+        },
+        {
+            "mot": "mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ruisse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Comme la mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Doute",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avec le Souvenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un toit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "After Glow",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femmes de Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Femmes de Douceur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "L'AUBE",
+            "type": "PER"
+        },
+        {
+            "mot": "Venge",
+            "type": "MISC"
+        },
+        {
+            "mot": "",
+            "type": "MISC"
+        },
+        {
+            "mot": "Electre",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Donna",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sopra",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Donna m'apparve Sopra candido",
+            "type": "MISC"
+        },
+        {
+            "mot": "Donna m'apparve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vestita di color di fiamma viva",
+            "type": "MISC"
+        },
+        {
+            "mot": "DANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Purgatorio,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Béatrix",
+            "type": "PER"
+        },
+        {
+            "mot": "prof",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dies",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nativités",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Saint Jean",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Péché des Musiques",
+            "type": "MISC"
+        },
+        {
+            "mot": "Musique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lupanar",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hindou",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rhodopis",
+            "type": "PER"
+        },
+        {
+            "mot": "Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vashti",
+            "type": "PER"
+        },
+        {
+            "mot": "Eranna de Télos",
+            "type": "PER"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Ile",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ophélie",
+            "type": "PER"
+        },
+        {
+            "mot": "Ophélie",
+            "type": "PER"
+        },
+        {
+            "mot": "hier dans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ophélie",
+            "type": "PER"
+        },
+        {
+            "mot": "D'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson pour Elle L'ORGUEIL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ténébreux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Présences Invisibles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit latente",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fra Diavolo",
+            "type": "PER"
+        },
+        {
+            "mot": "Diavolo",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vésuve",
+            "type": "LOC"
+        },
+        {
+            "mot": "Désespoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "uc",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet de Porcelaine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saxe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saxe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Succubes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lune",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lune",
+            "type": "LOC"
+        },
+        {
+            "mot": "Succubes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Banshees",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jettatori",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Cérès",
+            "type": "PER"
+        },
+        {
+            "mot": "Éle",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Evohé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchantes",
+            "type": "PER"
+        },
+        {
+            "mot": "Cérès",
+            "type": "PER"
+        },
+        {
+            "mot": "Cérès",
+            "type": "PER"
+        },
+        {
+            "mot": "Musiciennes",
+            "type": "PER"
+        },
+        {
+            "mot": "Syrinx",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Bonne Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Deus Sabaoth",
+            "type": "PER"
+        },
+        {
+            "mot": "Te Deum",
+            "type": "MISC"
+        },
+        {
+            "mot": "De profundis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "profundis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Sonnet à une Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Hier",
+            "type": "MISC"
+        },
+        {
+            "mot": "Martyre",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "ASHTAR",
+            "type": "PER"
+        },
+        {
+            "mot": "OTH",
+            "type": "MISC"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Suburra",
+            "type": "LOC"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Khéroubim",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Épouse",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Sur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Béli",
+            "type": "PER"
+        },
+        {
+            "mot": "al Sur les ventres gonflés",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Loth",
+            "type": "PER"
+        },
+        {
+            "mot": "Sodome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gomorrhe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Belzébuth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ashtaroth",
+            "type": "PER"
+        },
+        {
+            "mot": "Sodome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Go",
+            "type": "LOC"
+        },
+        {
+            "mot": "mor",
+            "type": "MISC"
+        },
+        {
+            "mot": "rhe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Naples",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Image Divine",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus latine",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viviane",
+            "type": "PER"
+        },
+        {
+            "mot": "Viviane",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Les Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lesbos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "LOC"
+        },
+        {
+            "mot": "x",
+            "type": "PER"
+        },
+        {
+            "mot": "Lesbos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Leucade",
+            "type": "LOC"
+        },
+        {
+            "mot": "Psapp",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Iles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vierge",
+            "type": "PER"
+        },
+        {
+            "mot": "Tapis",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Orient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Monna Lisa",
+            "type": "PER"
+        },
+        {
+            "mot": "San Giovanni",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Ombre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Implacable",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poèmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Madone aux Lys",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lys",
+            "type": "MISC"
+        },
+        {
+            "mot": "Japon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Anémones",
+            "type": "PER"
+        },
+        {
+            "mot": "Lys",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Emmurées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Emmurées",
+            "type": "PER"
+        },
+        {
+            "mot": "Vers l'Ouest",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Oliviers Et je regrette",
+            "type": "MISC"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "MISC"
+        },
+        {
+            "mot": "iviers",
+            "type": "LOC"
+        },
+        {
+            "mot": "PS",
+            "type": "MISC"
+        },
+        {
+            "mot": "HA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Mangeurs d'herbe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Agonise",
+            "type": "PER"
+        },
+        {
+            "mot": "Mangeurs d'herbe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mangeurs d'herbe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Florentine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Insidieus",
+            "type": "PER"
+        },
+        {
+            "mot": "musical avril",
+            "type": "DATE"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Dédain",
+            "type": "MISC"
+        },
+        {
+            "mot": "Psappha",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPHA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Changeantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Statue",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "El Greco",
+            "type": "PER"
+        },
+        {
+            "mot": "Irra",
+            "type": "PER"
+        },
+        {
+            "mot": "Nyctalopes",
+            "type": "PER"
+        },
+        {
+            "mot": "Musiciens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Séraphim",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Éloïm",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Éloïm",
+            "type": "PER"
+        },
+        {
+            "mot": "Ondine",
+            "type": "PER"
+        },
+        {
+            "mot": "Nixe",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Labyrinthe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit aux cheveux d'hyacinthe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maîtresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Labyrinthe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Oripeaux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Lèvres pareilles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Faste des Tissus",
+            "type": "PER"
+        },
+        {
+            "mot": "Faste des Tissus",
+            "type": "PER"
+        },
+        {
+            "mot": "Purs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Silencieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Océanide",
+            "type": "PER"
+        },
+        {
+            "mot": "Loreley",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Litanie de la Haine LA Haine",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Foule",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Monde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lili",
+            "type": "PER"
+        },
+        {
+            "mot": "th",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lilith",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Éblis",
+            "type": "PER"
+        },
+        {
+            "mot": "l'",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ha",
+            "type": "PER"
+        },
+        {
+            "mot": "ine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mortes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgo Hebraïca",
+            "type": "MISC"
+        },
+        {
+            "mot": "iaphane des Mortes",
+            "type": "PER"
+        },
+        {
+            "mot": "Vé",
+            "type": "MISC"
+        },
+        {
+            "mot": "nus",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgo Hebraïca",
+            "type": "PER"
+        },
+        {
+            "mot": "Palestine",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bethsabée",
+            "type": "PER"
+        },
+        {
+            "mot": "Tamar",
+            "type": "PER"
+        },
+        {
+            "mot": "Rébecca",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Agar",
+            "type": "PER"
+        },
+        {
+            "mot": "Jahel",
+            "type": "PER"
+        },
+        {
+            "mot": "Judith",
+            "type": "PER"
+        },
+        {
+            "mot": "Palestine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Brûl",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Quelqu'un",
+            "type": "PER"
+        },
+        {
+            "mot": "PSAPPIIA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Volupté",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Souci. e Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dans les lendemains",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sara",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adonis",
+            "type": "PER"
+        },
+        {
+            "mot": "Adonéa",
+            "type": "PER"
+        },
+        {
+            "mot": "Adonis",
+            "type": "PER"
+        },
+        {
+            "mot": "Adonéa",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Ondines",
+            "type": "LOC"
+        },
+        {
+            "mot": "Griffon",
+            "type": "PER"
+        },
+        {
+            "mot": "Monstre",
+            "type": "PER"
+        },
+        {
+            "mot": "Sombre Lion",
+            "type": "PER"
+        },
+        {
+            "mot": "Chimère",
+            "type": "PER"
+        },
+        {
+            "mot": "Chimère",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "15 5.",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Dogaresse",
+            "type": "PER"
+        },
+        {
+            "mot": "palais des Doges",
+            "type": "LOC"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "PER"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rougit",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mir",
+            "type": "LOC"
+        },
+        {
+            "mot": "GEM",
+            "type": "PER"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIOL",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "PER"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "PER"
+        },
+        {
+            "mot": "Dogaresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dogaresse",
+            "type": "PER"
+        },
+        {
+            "mot": "VIOL",
+            "type": "LOC"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dogaresse",
+            "type": "PER"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "LOC"
+        },
+        {
+            "mot": "SCENE II La Dogaresse",
+            "type": "PER"
+        },
+        {
+            "mot": "LA DOGARESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vaste appel",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA DOGARESS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA DOGARESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "LA DOGARESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "Viola",
+            "type": "LOC"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "PER"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "PER"
+        },
+        {
+            "mot": "DOGARESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "Viola",
+            "type": "PER"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "meurs de cuivre",
+            "type": "MISC"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "MISC"
+        },
+        {
+            "mot": "DOGARESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "DOGARESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Séraphim",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Azraël",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Eloïm",
+            "type": "PER"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dog",
+            "type": "PER"
+        },
+        {
+            "mot": "a",
+            "type": "LOC"
+        },
+        {
+            "mot": "resse",
+            "type": "PER"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "OL",
+            "type": "PER"
+        },
+        {
+            "mot": "GEMMA",
+            "type": "PER"
+        },
+        {
+            "mot": "VIOLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Cygnes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Cygnes sauvages CHANSON NORVÉGIENNE CHOEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Battements",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "Passe",
+            "type": "MISC"
+        },
+        {
+            "mot": "ssés",
+            "type": "MISC"
+        },
+        {
+            "mot": "C H OE U R",
+            "type": "MISC"
+        },
+        {
+            "mot": "Battements d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "Passe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Battements d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Passe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Battements d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Passe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vibre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vi",
+            "type": "LOC"
+        },
+        {
+            "mot": "bre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chassés",
+            "type": "MISC"
+        },
+        {
+            "mot": "Svanhild",
+            "type": "PER"
+        },
+        {
+            "mot": "Neiges et du Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "cheur des Neiges et du Nord",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Morts aveugles L Es Morts aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Morts aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vendeuses de Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vendeuses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vendeuses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleu",
+            "type": "MISC"
+        },
+        {
+            "mot": "les Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sud",
+            "type": "LOC"
+        },
+        {
+            "mot": "Talmud",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sud",
+            "type": "LOC"
+        },
+        {
+            "mot": "Les Vendeuses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Vendeuses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roulent",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Douve L'AUBE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Moiré",
+            "type": "PER"
+        },
+        {
+            "mot": "ste",
+            "type": "PER"
+        },
+        {
+            "mot": "Moiré",
+            "type": "PER"
+        },
+        {
+            "mot": "Venus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Liber Veneris Caecorum DAN S",
+            "type": "MISC"
+        },
+        {
+            "mot": "Liber Veneris Caecorum DAN",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rébec",
+            "type": "PER"
+        },
+        {
+            "mot": "ca",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mort qui",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "é",
+            "type": "MISC"
+        },
+        {
+            "mot": "nus",
+            "type": "PER"
+        },
+        {
+            "mot": "TA B L E TABLE Etudes et Préludes A la Femme aimée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bacchante triste",
+            "type": "MISC"
+        },
+        {
+            "mot": "Préludes A la Femme aimée 5 Bacchante triste",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson S Le couchant adoucit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet 10 Ta forme est un éclair II Soir 12 Aurore sur la Mer................. 13 Chanson M A l'Amie..................... 16 , Ondine 1 > Victoire 1 > Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Éternelle Vengeance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet à la Mort 20 Nudité 21 Aube incertaine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson 23 Lucidité",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Odeur des Vignes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Elle écarte en passant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sourire dans la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Yeux gris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Naïade moderne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cri 32 Chanso",
+            "type": "MISC"
+        },
+        {
+            "mot": "gris 29 Naïade moderne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet 31 Cri 32 Chanson 32 Sonnet 33 Morts inquiets",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sommeil 35 Sonnets",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amazone.....",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nocturne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cendres et Poussières Invocation 43 Let the Dead bury their Dead",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Amazones",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sommeil",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Automne...................",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet 49 Chanson 50 Prophétie 50 Désir 5 1 Chanson 52 La Pleureuse 53 Fleurs de Séléné",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ressemblance inquiétante 56 Velléité 57 Le Sang des Fleurs 58 Ton Ame 59 Sur le Rythme saphique",
+            "type": "MISC"
+        },
+        {
+            "mot": "s Fleurs 58 Ton Ame 59 Sur le Rythme saphique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Locusta 60 Lucidité 62 Lassitude",
+            "type": "MISC"
+        },
+        {
+            "mot": "Devant la mort d'une amie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Arbres",
+            "type": "MISC"
+        },
+        {
+            "mot": "I'",
+            "type": "MISC"
+        },
+        {
+            "mot": "ranger",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Épitaphe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Evocations Douceur de mes chants",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Solitaires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Feuilles sur l'Eau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Prolonge la Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Toucher",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mort d'une Bacchante",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Rançon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Aurore triste",
+            "type": "MISC"
+        },
+        {
+            "mot": "Violettes d'",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Aurore triste",
+            "type": "MISC"
+        },
+        {
+            "mot": "Violettes d'Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Odeur de la Montagne.............. 84 La Conque 84 Water Lilies 86 La Fleur du Sorbier 87 Elle habite les Ruines................ 115 La Mort de Psappha 88 Lamentation 94 Départ 94 Les Chardons .. 95 Violettes blanches 96 Viviane 97 Gellô 99 Sonnet ico Souveraines 100 La Nuit est à nous 104 Les Ébauches : 05 Gorgô 106 Vers le Nord 107 Chanson 108 Victoire funèbre 109 Twilight 110 Velléda 1 : 1 Soir.... 112 Aigues-marines",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fusée 114 Roses du",
+            "type": "MISC"
+        },
+        {
+            "mot": "112 Aigues-marines 114 La Fusée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roses du Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Satyresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Danses sacrées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Atthis délaissée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Revenants",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Couleurs de la Nuit 123 Hiver. 124 Vers les Sirènes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet..",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "Korinna triomphante",
+            "type": "MISC"
+        },
+        {
+            "mot": "To the Sunset Goddess",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Faunesse .",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Noyées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Couleurs 132 Le Bloc de Marbre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ressouvenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la Divinité inconnue...",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort maritime",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paysage mystique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Timas",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Venise................",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sapho Ode à l'Ap",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sapho",
+            "type": "PER"
+        },
+        {
+            "mot": "Ode à l'Aphrodita",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ode à une Femme aimée",
+            "type": "MISC"
+        },
+        {
+            "mot": "14 5",
+            "type": "DATE"
+        },
+        {
+            "mot": "Androméda",
+            "type": "PER"
+        },
+        {
+            "mot": "Atthis",
+            "type": "PER"
+        },
+        {
+            "mot": "Dors entre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fille de Kuprôs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lasse",
+            "type": "MISC"
+        },
+        {
+            "mot": "jardin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Timas",
+            "type": "PER"
+        },
+        {
+            "mot": "Gurinnô",
+            "type": "PER"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Érôs",
+            "type": "PER"
+        },
+        {
+            "mot": "Zens",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Zeus",
+            "type": "PER"
+        },
+        {
+            "mot": "J",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'É rôs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dominant la Terre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Compagnes, voici",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit de pourpre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Erôs",
+            "type": "MISC"
+        },
+        {
+            "mot": "de tes",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Vénus des Aveugles Incipit Liber Veneris Csecorum",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fourrure",
+            "type": "MISC"
+        },
+        {
+            "mot": "Arums de Palestine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Reflets d'Ardoise",
+            "type": "MISC"
+        },
+        {
+            "mot": "After Glow",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Aurore vengeresse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Donna m'apparve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Péché des Musiques",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la perverse O",
+            "type": "MISC"
+        },
+        {
+            "mot": "Péché des Musiques",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la perverse Ophélie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson pour Elle",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Nuit latente",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet de Porcelaine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Succubes disent",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cérès Éleusine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sonnet à une Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Treize",
+            "type": "MISC"
+        },
+        {
+            "mot": "Naples",
+            "type": "MISC"
+        },
+        {
+            "mot": "Telle que Viviane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Iles",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Vierge au Tapis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chanson pour mon Ombre.............",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Madone aux Lys",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Emmurées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Dédain de Psappha",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Oliviers",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Mangeurs d'herbe",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la Florentine Paysage d",
+            "type": "MISC"
+        },
+        {
+            "mot": "El Greco",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Labyrinthe Les",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paysage",
+            "type": "MISC"
+        },
+        {
+            "mot": "El Greco",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Labyrinthe Les Oripeaux Les Lèvres pareilles Faste des Tissus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Litanie de la Haine...",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgo Hebraïca",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pour Une",
+            "type": "MISC"
+        },
+        {
+            "mot": "Intervalle crépusculaire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chevauchée",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Dogaresse Les Cygnes sauvages",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Morts aveugles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Vendeuses de Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Douve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Explicit Liber Veneris Caecorum...",
+            "type": "MISC"
+        },
+        {
+            "mot": "-6",
+            "type": "MISC"
+        },
+        {
+            "mot": "A. LEMERRE",
+            "type": "PER"
+        },
+        {
+            "mot": "rue des Bergers",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        }
+    ]
+}

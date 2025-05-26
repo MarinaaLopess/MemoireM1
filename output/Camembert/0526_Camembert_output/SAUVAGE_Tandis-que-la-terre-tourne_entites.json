@@ -1,0 +1,984 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tandis que la terre tourne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cécile Sauvage",
+            "type": "PER"
+        },
+        {
+            "mot": "Sauvage, Cécile",
+            "type": "PER"
+        },
+        {
+            "mot": "(1883-1927",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mercure de France",
+            "type": "ORG"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1910",
+            "type": "DATE"
+        },
+        {
+            "mot": "nf",
+            "type": "ORG"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "28/01/2020",
+            "type": "DATE"
+        },
+        {
+            "mot": "CÉCILE SA",
+            "type": "PER"
+        },
+        {
+            "mot": "UV",
+            "type": "MISC"
+        },
+        {
+            "mot": "AGE",
+            "type": "PER"
+        },
+        {
+            "mot": "’andis",
+            "type": "MISC"
+        },
+        {
+            "mot": "sTOnifè POEMES — PARIS MERCVRE DE FRANGE XXVI, RVE DE CONDÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXVI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hollande",
+            "type": "LOC"
+        },
+        {
+            "mot": "C. S. I PLEINE LUNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "CROISSANT DONNONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "PtEI",
+            "type": "MISC"
+        },
+        {
+            "mot": "JOUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "TAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "4 TANDIS QUE LA TERRE TOURNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANGOISSE",
+            "type": "PER"
+        },
+        {
+            "mot": "UNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ROISS",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "UNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "iFu",
+            "type": "PER"
+        },
+        {
+            "mot": "Cétoine",
+            "type": "PER"
+        },
+        {
+            "mot": "Bonbon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gâteau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pomme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pomme",
+            "type": "PER"
+        },
+        {
+            "mot": "Céleste",
+            "type": "PER"
+        },
+        {
+            "mot": "Belle",
+            "type": "PER"
+        },
+        {
+            "mot": "Lune",
+            "type": "PER"
+        },
+        {
+            "mot": "Lune",
+            "type": "PER"
+        },
+        {
+            "mot": "Lune",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lune",
+            "type": "LOC"
+        },
+        {
+            "mot": "Et maintenant en",
+            "type": "DATE"
+        },
+        {
+            "mot": "ien",
+            "type": "PER"
+        },
+        {
+            "mot": "Oui",
+            "type": "PER"
+        },
+        {
+            "mot": "ont vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "novembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "madame Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "JARDIN",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "fil-de-la-Vierge",
+            "type": "LOC"
+        },
+        {
+            "mot": "la-Vierge",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vois",
+            "type": "PER"
+        },
+        {
+            "mot": "Ronsard",
+            "type": "PER"
+        },
+        {
+            "mot": "Hollande",
+            "type": "LOC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "PLEINE LUNE OU CHOISSANT 4l",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gela",
+            "type": "MISC"
+        },
+        {
+            "mot": "Légers,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Alo",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA NUIT DU PATRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Musard",
+            "type": "PER"
+        },
+        {
+            "mot": "AND",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE TOURNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Montère",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean de La Fontaine",
+            "type": "PER"
+        },
+        {
+            "mot": "un mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "Quat",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "novembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pan Sylvain",
+            "type": "PER"
+        },
+        {
+            "mot": "grande Ourse",
+            "type": "MISC"
+        },
+        {
+            "mot": "dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "juillet",
+            "type": "DATE"
+        },
+        {
+            "mot": "d’Aphrodite",
+            "type": "PER"
+        },
+        {
+            "mot": "ARC",
+            "type": "LOC"
+        },
+        {
+            "mot": "EN",
+            "type": "LOC"
+        },
+        {
+            "mot": "D’AVRIL",
+            "type": "PER"
+        },
+        {
+            "mot": "RISIER D’AVRIL",
+            "type": "PER"
+        },
+        {
+            "mot": "Cerisier",
+            "type": "LOC"
+        },
+        {
+            "mot": "erise",
+            "type": "PER"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "j",
+            "type": "DATE"
+        },
+        {
+            "mot": "trois jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "V<unk>UX SIMPLES",
+            "type": "PER"
+        },
+        {
+            "mot": "octobre",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’aubépin",
+            "type": "PER"
+        },
+        {
+            "mot": "Chinoise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ronsard",
+            "type": "PER"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "Od",
+            "type": "PER"
+        },
+        {
+            "mot": "l’arc-EN-CIEL",
+            "type": "LOC"
+        },
+        {
+            "mot": "oseaux",
+            "type": "LOC"
+        },
+        {
+            "mot": "LA MAISON SUR LA MONTAGNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Septembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "Danse dans son anneau",
+            "type": "MISC"
+        },
+        {
+            "mot": "dalhia",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉLITTA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mélitta",
+            "type": "PER"
+        },
+        {
+            "mot": "janvier",
+            "type": "DATE"
+        },
+        {
+            "mot": "uve chouette",
+            "type": "PER"
+        },
+        {
+            "mot": "Mélitta",
+            "type": "PER"
+        },
+        {
+            "mot": "LA MORT EN CROUPE 8",
+            "type": "MISC"
+        },
+        {
+            "mot": "Arrête",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grande Ourse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gallus",
+            "type": "PER"
+        },
+        {
+            "mot": "UITE",
+            "type": "MISC"
+        },
+        {
+            "mot": "D’AUTOMNE",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "avril",
+            "type": "DATE"
+        },
+        {
+            "mot": "GYB<unk>LE",
+            "type": "PER"
+        },
+        {
+            "mot": "Cybèle",
+            "type": "PER"
+        },
+        {
+            "mot": "TANDIS g",
+            "type": "PER"
+        },
+        {
+            "mot": "mt I.A TB Kit K TOUftNR",
+            "type": "MISC"
+        },
+        {
+            "mot": "E",
+            "type": "PER"
+        },
+        {
+            "mot": "Cybèl",
+            "type": "PER"
+        },
+        {
+            "mot": "Cybèle",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cybélo",
+            "type": "PER"
+        },
+        {
+            "mot": "LA MORT EN CROUPE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SAISON",
+            "type": "MISC"
+        },
+        {
+            "mot": "TE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Recueille",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "TANDIS QU K LA TERRE TOURNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE TOURNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pégase",
+            "type": "PER"
+        },
+        {
+            "mot": "Titania",
+            "type": "PER"
+        },
+        {
+            "mot": "JARDIN",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mars",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES ÉTREINTES DU SANG",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA MOUT EN CUODPE IO7",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE CAVEAU",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "maine",
+            "type": "LOC"
+        },
+        {
+            "mot": "d",
+            "type": "PER"
+        },
+        {
+            "mot": "PRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SOLEIL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pompadours",
+            "type": "PER"
+        },
+        {
+            "mot": "Pompadours",
+            "type": "PER"
+        },
+        {
+            "mot": "LA MORT EN CROUPE",
+            "type": "MISC"
+        },
+        {
+            "mot": "IT",
+            "type": "MISC"
+        },
+        {
+            "mot": "s",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "n4 TAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nymphes",
+            "type": "MISC"
+        },
+        {
+            "mot": "IV L’AME EN BOURGEON I",
+            "type": "MISC"
+        },
+        {
+            "mot": "NATURE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Soleil",
+            "type": "PER"
+        },
+        {
+            "mot": "Jupiter",
+            "type": "PER"
+        },
+        {
+            "mot": "Cybèle",
+            "type": "PER"
+        },
+        {
+            "mot": "ntrailles",
+            "type": "PER"
+        },
+        {
+            "mot": "EN BOUBGEON I 2.5",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tunivers",
+            "type": "LOC"
+        },
+        {
+            "mot": "PALE EMBRYON",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "ou",
+            "type": "MISC"
+        },
+        {
+            "mot": "cassolette",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "TANDIS QUE LA TERRE TOURNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "rnoise",
+            "type": "PER"
+        },
+        {
+            "mot": "Indulgent",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "PER"
+        },
+        {
+            "mot": "essus",
+            "type": "PER"
+        },
+        {
+            "mot": "i5o",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’AGNEAU",
+            "type": "PER"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "lera",
+            "type": "PER"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Un",
+            "type": "DATE"
+        },
+        {
+            "mot": "remier éveil",
+            "type": "PER"
+        },
+        {
+            "mot": "Gambader",
+            "type": "PER"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "sule",
+            "type": "PER"
+        },
+        {
+            "mot": "ILA",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA TASSE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ABEILLE",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "isant",
+            "type": "PER"
+        },
+        {
+            "mot": "SAUTERELLE",
+            "type": "PER"
+        },
+        {
+            "mot": "Elan",
+            "type": "PER"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "TABLE I PLEINE LUNE OU DONNONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "BLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JOUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANGOISSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "CORBEILLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LUNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ROUET",
+            "type": "MISC"
+        },
+        {
+            "mot": "SOLEIL",
+            "type": "MISC"
+        },
+        {
+            "mot": "NONNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JARDIN MUSIQUE LA NUIT DU PATRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "35",
+            "type": "DATE"
+        },
+        {
+            "mot": "43 49 5",
+            "type": "DATE"
+        },
+        {
+            "mot": "II L’ARC-EN-CIEL LE CERISIER d’àVRIL",
+            "type": "MISC"
+        },
+        {
+            "mot": "V<unk>UX SIMPLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "DATE"
+        },
+        {
+            "mot": "TES",
+            "type": "MISC"
+        },
+        {
+            "mot": "O ECOUTE, TOUT MON C<unk>UR",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA MAISON SUR LA MONTAGNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "III LA MORT EN CROUPE",
+            "type": "MISC"
+        },
+        {
+            "mot": "TE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MéLITTA",
+            "type": "MISC"
+        },
+        {
+            "mot": "NON, VOU8 NE FEREZ PAS",
+            "type": "MISC"
+        },
+        {
+            "mot": "FUITE D’AUTOMNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SAISON MORTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "OIR RAMENAIT LA LUNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ÉTÉ DANSE AU JARDIN",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES ÉTREINTES DU SANG",
+            "type": "MISC"
+        },
+        {
+            "mot": "3 SOLITUDE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE CAVEAU",
+            "type": "MISC"
+        },
+        {
+            "mot": "08 LE PREMIER SOLEIL 3E COUCIIE III IV L’AME EN BOURGEON NATURE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LAISSE-MOI",
+            "type": "MISC"
+        },
+        {
+            "mot": "VOILA",
+            "type": "MISC"
+        },
+        {
+            "mot": "O FRUIT SAUVAGE ET VERT",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA TASSE",
+            "type": "LOC"
+        },
+        {
+            "mot": "LUNE ROSE",
+            "type": "LOC"
+        },
+        {
+            "mot": "ENA",
+            "type": "LOC"
+        },
+        {
+            "mot": "SAUTERELLE",
+            "type": "LOC"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "BLAIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "ET",
+            "type": "PER"
+        },
+        {
+            "mot": "ROY",
+            "type": "LOC"
+        },
+        {
+            "mot": "POITIERS",
+            "type": "LOC"
+        },
+        {
+            "mot": "MERCVRE BK FRANCE",
+            "type": "ORG"
+        }
+    ]
+}

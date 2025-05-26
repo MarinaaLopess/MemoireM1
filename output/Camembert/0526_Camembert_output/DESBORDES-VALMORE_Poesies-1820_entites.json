@@ -1,0 +1,3352 @@
+{
+    "entites": [
+        {
+            "mot": "Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poésies de",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mme Desbordes-Valmore",
+            "type": "PER"
+        },
+        {
+            "mot": "Desbordes-Valmore",
+            "type": "PER"
+        },
+        {
+            "mot": "Marceline",
+            "type": "PER"
+        },
+        {
+            "mot": "(1786-1859",
+            "type": "DATE"
+        },
+        {
+            "mot": "F. Louis",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1820",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "GTextes1",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Réserve",
+            "type": "LOC"
+        },
+        {
+            "mot": "P-YE-785",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "19/06/2013",
+            "type": "DATE"
+        },
+        {
+            "mot": "FRANÇOIS LOUIS",
+            "type": "PER"
+        },
+        {
+            "mot": "y 7 1820",
+            "type": "DATE"
+        },
+        {
+            "mot": "É L É G1E S. ELEGIES",
+            "type": "ORG"
+        },
+        {
+            "mot": "'",
+            "type": "DATE"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "ARBRISSEAU",
+            "type": "LOC"
+        },
+        {
+            "mot": "MONSIEUR ALIBERT",
+            "type": "PER"
+        },
+        {
+            "mot": "DOCTEUR-MÉDECIN",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Aurore",
+            "type": "LOC"
+        },
+        {
+            "mot": "L’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jusque dans sa racine",
+            "type": "MISC"
+        },
+        {
+            "mot": "",
+            "type": "LOC"
+        },
+        {
+            "mot": "ort",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Aquilon Laisse",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Immortels",
+            "type": "PER"
+        },
+        {
+            "mot": "MAAA",
+            "type": "MISC"
+        },
+        {
+            "mot": "AIAAAIAAM",
+            "type": "MISC"
+        },
+        {
+            "mot": "PS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fonde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruisseau !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruisseau !",
+            "type": "MISC"
+        },
+        {
+            "mot": "houlette",
+            "type": "MISC"
+        },
+        {
+            "mot": "houlette",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "AMAAIMAtMIMMu",
+            "type": "MISC"
+        },
+        {
+            "mot": "ve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nveve MI/ LES LETTRES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lettres d’amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "prières",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "deux jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "La",
+            "type": "MISC"
+        },
+        {
+            "mot": "Phil",
+            "type": "LOC"
+        },
+        {
+            "mot": "is",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Berger",
+            "type": "MISC"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "dix années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "dans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Philis",
+            "type": "PER"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "llon",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu !",
+            "type": "MISC"
+        },
+        {
+            "mot": "MMVvveetieivs MtUvMeII",
+            "type": "MISC"
+        },
+        {
+            "mot": "/ LES ROSES",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "Printemps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "RUBAN",
+            "type": "MISC"
+        },
+        {
+            "mot": "RUBAN",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "AWWMIAAAMtMtvva L’ADIEU DU SOIR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Die",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "te IwvMewve",
+            "type": "PER"
+        },
+        {
+            "mot": "MUSES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "Par pitié pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Par pitié pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu’Ovide",
+            "type": "PER"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amo",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "AAAI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE RUISSEAU",
+            "type": "PER"
+        },
+        {
+            "mot": "Chloé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Belle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Fonde pure",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui !",
+            "type": "DATE"
+        },
+        {
+            "mot": "Daphnis",
+            "type": "PER"
+        },
+        {
+            "mot": "Chloé",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Enfant",
+            "type": "PER"
+        },
+        {
+            "mot": "AA/MIIIMTM",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONCERT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Art d’Orphée",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd",
+            "type": "DATE"
+        },
+        {
+            "mot": "hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ve MMwMit M/AItIs LA",
+            "type": "MISC"
+        },
+        {
+            "mot": "nKIMIAIMWI//MM/Mve L’ORAGE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vois-tu bien",
+            "type": "MISC"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "demain ! Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Adieu!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "wMIv",
+            "type": "PER"
+        },
+        {
+            "mot": "MA FAUVETTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "PER"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "PER"
+        },
+        {
+            "mot": "Plaisir",
+            "type": "MISC"
+        },
+        {
+            "mot": "ix",
+            "type": "PER"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "PER"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "PER"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "PER"
+        },
+        {
+            "mot": "Plaisir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Plaisir",
+            "type": "PER"
+        },
+        {
+            "mot": "Fauvette",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "UVV",
+            "type": "LOC"
+        },
+        {
+            "mot": "UV",
+            "type": "LOC"
+        },
+        {
+            "mot": "VIVUV",
+            "type": "LOC"
+        },
+        {
+            "mot": "MWVl",
+            "type": "LOC"
+        },
+        {
+            "mot": "VUV",
+            "type": "LOC"
+        },
+        {
+            "mot": "VV",
+            "type": "LOC"
+        },
+        {
+            "mot": "VU",
+            "type": "LOC"
+        },
+        {
+            "mot": "V",
+            "type": "LOC"
+        },
+        {
+            "mot": "U VUVIVV LA NUIT D’HIVER",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "Après un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "Poésie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "L’hiver",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cruel",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fraîche",
+            "type": "MISC"
+        },
+        {
+            "mot": "Peux-",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "Poésie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "WttMwt MMttwMMttve L’INS",
+            "type": "PER"
+        },
+        {
+            "mot": "Insomnie",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain ! demain",
+            "type": "MISC"
+        },
+        {
+            "mot": "Douce Insomnie",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain me trouve",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MAGE",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mwwe MoIM/",
+            "type": "MISC"
+        },
+        {
+            "mot": "/ LES DEUX AMOURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "quinze ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES DEUX AMITIÉS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ALBERTINE GANTIER",
+            "type": "PER"
+        },
+        {
+            "mot": "Amitiés",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Imprudence",
+            "type": "MISC"
+        },
+        {
+            "mot": "Confiance",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pâlit",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "MewMe",
+            "type": "MISC"
+        },
+        {
+            "mot": "n MMKIMtewenn",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA COL<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L HIRONDELLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE ROSSIGNOL",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "’Hirondelle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rossignol",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "7",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Fontaine",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Hirondelle",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Hirondelle",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu !",
+            "type": "MISC"
+        },
+        {
+            "mot": "7'",
+            "type": "DATE"
+        },
+        {
+            "mot": "UIM",
+            "type": "PER"
+        },
+        {
+            "mot": "ADIEU MES AMOURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jeunesse",
+            "type": "ORG"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Un mois après",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉLIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "d",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Folie",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "AAWI",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Délie",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Délie",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "mes vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Thalie",
+            "type": "PER"
+        },
+        {
+            "mot": "Folie",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Folie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ie W",
+            "type": "PER"
+        },
+        {
+            "mot": "Mww",
+            "type": "MISC"
+        },
+        {
+            "mot": "WMteMwMw",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉL",
+            "type": "PER"
+        },
+        {
+            "mot": "IE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cruelle",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "AA",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉLIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Délie",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tout un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "WUIIWM/UtWttMtttvetMMte",
+            "type": "MISC"
+        },
+        {
+            "mot": "OU",
+            "type": "MISC"
+        },
+        {
+            "mot": "MONSI",
+            "type": "PER"
+        },
+        {
+            "mot": "IItUetttMtvtee",
+            "type": "MISC"
+        },
+        {
+            "mot": "DOULEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rêve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gloire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "cinq ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "ieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "REGRETS",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "-Laddex-É/res",
+            "type": "PER"
+        },
+        {
+            "mot": "LES DEUX M<unk>RES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Petit enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Petit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "MIIMItMMt/IIIInwAe LE SOMMEIL DE JULIEN",
+            "type": "MISC"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "JEUNE ÉP",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roi des rois",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Forage",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "Heureuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ange",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélène",
+            "type": "PER"
+        },
+        {
+            "mot": "Doris",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "BORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "Grâces recueillies",
+            "type": "MISC"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "Doris",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "Bergère",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "DORIS",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "Oh ! n’a",
+            "type": "MISC"
+        },
+        {
+            "mot": "HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "La terre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Oh",
+            "type": "MISC"
+        },
+        {
+            "mot": "AAA/IWMIMM",
+            "type": "MISC"
+        },
+        {
+            "mot": "JOURNÉE PERDUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "1 s",
+            "type": "DATE"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "Tout",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dormait",
+            "type": "MISC"
+        },
+        {
+            "mot": "A demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "CLÉMENTINE",
+            "type": "MISC"
+        },
+        {
+            "mot": "RICHARDSON",
+            "type": "MISC"
+        },
+        {
+            "mot": "uquet de fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Clémentine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dou",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Eglantine",
+            "type": "MISC"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gémissait",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ange",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Est une année",
+            "type": "DATE"
+        },
+        {
+            "mot": "AWUI DORS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roi",
+            "type": "PER"
+        },
+        {
+            "mot": "Dor",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Demain.",
+            "type": "DATE"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Olivier",
+            "type": "PER"
+        },
+        {
+            "mot": "WMMevun",
+            "type": "PER"
+        },
+        {
+            "mot": "PORT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "AAAUMMUIMI",
+            "type": "PER"
+        },
+        {
+            "mot": "AAAUMMUIMI",
+            "type": "PER"
+        },
+        {
+            "mot": "AM LE SERMENT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je veux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je veux",
+            "type": "MISC"
+        },
+        {
+            "mot": "WIIIAMItt LE BILLET",
+            "type": "MISC"
+        },
+        {
+            "mot": "Si",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "UVV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "TROIS HEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "TROIS HEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Espé",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "MM",
+            "type": "MISC"
+        },
+        {
+            "mot": "MIAM/A/AAARAN",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "POÉSIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poésie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "plaisirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MvwwMMMns",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARDON",
+            "type": "MISC"
+        },
+        {
+            "mot": "AA//MvwwMMMns",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARDON",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ton pardon",
+            "type": "MISC"
+        },
+        {
+            "mot": "SOUVENIR",
+            "type": "MISC"
+        },
+        {
+            "mot": "’une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "WVI/AWMAMMI/IUVIIIII",
+            "type": "MISC"
+        },
+        {
+            "mot": "AA/W",
+            "type": "LOC"
+        },
+        {
+            "mot": "LA SEINE",
+            "type": "LOC"
+        },
+        {
+            "mot": "RIVE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "qu’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "FLEUR RENVOYÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Orgueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bélisaire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Henri Quatre",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pastourelle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Écolière d’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lyre",
+            "type": "MISC"
+        },
+        {
+            "mot": "WM VewM M",
+            "type": "PER"
+        },
+        {
+            "mot": "IL VA PARLER",
+            "type": "MISC"
+        },
+        {
+            "mot": "usques",
+            "type": "PER"
+        },
+        {
+            "mot": "de l’Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "Mn",
+            "type": "MISC"
+        },
+        {
+            "mot": "A LA NUIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Douce Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "O Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA",
+            "type": "MISC"
+        },
+        {
+            "mot": "URE",
+            "type": "PER"
+        },
+        {
+            "mot": "Laure",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Asie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "W",
+            "type": "PER"
+        },
+        {
+            "mot": "W",
+            "type": "PER"
+        },
+        {
+            "mot": "RIMUIWIWIUUUII",
+            "type": "PER"
+        },
+        {
+            "mot": "tt/",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ÉCHO",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "ou",
+            "type": "MISC"
+        },
+        {
+            "mot": "! Espoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Constance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tout pour l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "VVMWM L EXILÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "TOURELLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "TOURELLE",
+            "type": "PER"
+        },
+        {
+            "mot": "Espoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "'55",
+            "type": "DATE"
+        },
+        {
+            "mot": "A/MIMIVM",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mirez",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Aurore",
+            "type": "LOC"
+        },
+        {
+            "mot": "Baiser",
+            "type": "MISC"
+        },
+        {
+            "mot": "A/AMIMNM",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "M/WIWIMIMAAMItevew",
+            "type": "PER"
+        },
+        {
+            "mot": "LA P<unk>LERINE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hermite",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Que la pitié t",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pleure",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Hermite",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pèlerine",
+            "type": "MISC"
+        },
+        {
+            "mot": "JONE ET SOPHIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JONE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SOPHIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jone",
+            "type": "PER"
+        },
+        {
+            "mot": "Jone",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dans le silence",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Orgueil en pleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sophie",
+            "type": "PER"
+        },
+        {
+            "mot": "M",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "D’OLIVIER",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roi",
+            "type": "PER"
+        },
+        {
+            "mot": "Plaisir",
+            "type": "LOC"
+        },
+        {
+            "mot": "d",
+            "type": "PER"
+        },
+        {
+            "mot": "’Olivier",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu'Olivier",
+            "type": "MISC"
+        },
+        {
+            "mot": "LÉTRANG",
+            "type": "PER"
+        },
+        {
+            "mot": "RE",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉLANGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "IMITÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ARABE",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "17°",
+            "type": "DATE"
+        },
+        {
+            "mot": "Providence",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "PER"
+        },
+        {
+            "mot": "VUI",
+            "type": "PER"
+        },
+        {
+            "mot": "t VW wVVVVVVVU UVUwvU VVV",
+            "type": "PER"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "VVVVVIUVUVVU L ORPHELINE",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Six mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Edmond",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pauline",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "un",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pauline",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Pi",
+            "type": "MISC"
+        },
+        {
+            "mot": "tié",
+            "type": "PER"
+        },
+        {
+            "mot": "Mensonge",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Pitié",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mensonge",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Edmond",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauline",
+            "type": "PER"
+        },
+        {
+            "mot": "Edmond",
+            "type": "PER"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gloire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gloire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Songe de la Volupté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "vU wvwv",
+            "type": "MISC"
+        },
+        {
+            "mot": "ve WWW wVv WWW W* V",
+            "type": "MISC"
+        },
+        {
+            "mot": "VvVVwvVVeVV",
+            "type": "LOC"
+        },
+        {
+            "mot": "UVU VVw",
+            "type": "MISC"
+        },
+        {
+            "mot": "ON",
+            "type": "PER"
+        },
+        {
+            "mot": "GO<unk>DELIN",
+            "type": "PER"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grâce",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "L’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "un",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "PER"
+        },
+        {
+            "mot": "Lyris",
+            "type": "PER"
+        },
+        {
+            "mot": "NYMPHE TOULOUSAINE",
+            "type": "LOC"
+        },
+        {
+            "mot": "GOUDELIN",
+            "type": "PER"
+        },
+        {
+            "mot": "IN",
+            "type": "LOC"
+        },
+        {
+            "mot": "l",
+            "type": "PER"
+        },
+        {
+            "mot": "’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Plaisir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Printemps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nymphe T",
+            "type": "PER"
+        },
+        {
+            "mot": "oulousaine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Le voile du Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Espérance",
+            "type": "PER"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "'83",
+            "type": "DATE"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "la Fortune",
+            "type": "PER"
+        },
+        {
+            "mot": "Sort",
+            "type": "PER"
+        },
+        {
+            "mot": "Mort",
+            "type": "PER"
+        },
+        {
+            "mot": "Assise",
+            "type": "PER"
+        },
+        {
+            "mot": "'84",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "E",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Hercule",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Atlas",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Roi",
+            "type": "PER"
+        },
+        {
+            "mot": "Chante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gabrielle et l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Il Fatteint",
+            "type": "PER"
+        },
+        {
+            "mot": "Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Danser",
+            "type": "MISC"
+        },
+        {
+            "mot": "d",
+            "type": "MISC"
+        },
+        {
+            "mot": "un petit agneau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dedans",
+            "type": "LOC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sage",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Aurore",
+            "type": "PER"
+        },
+        {
+            "mot": "BER",
+            "type": "LOC"
+        },
+        {
+            "mot": "EAU D’HÉL<unk>NE",
+            "type": "LOC"
+        },
+        {
+            "mot": "d’Hélène",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Hélène",
+            "type": "PER"
+        },
+        {
+            "mot": "Espérance",
+            "type": "PER"
+        },
+        {
+            "mot": "Espérance",
+            "type": "PER"
+        },
+        {
+            "mot": "Muses",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Courir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Echo",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruisseau",
+            "type": "PER"
+        },
+        {
+            "mot": "LÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ARBRISSEAU",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le RETOUR AUX CHAMPS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Lettres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Philis",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Promenade d’automne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Roses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Ruban",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Adieu du soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Prière aux muses",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Inquiétude",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Ruisseau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Concert",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Prière perdue",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "A ma Fauvette",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Prière perdue",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "A ma Fauvette",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Inconstance",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Nuit d’hiver",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le BILLET",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Insomnie",
+            "type": "MISC"
+        },
+        {
+            "mot": "( 194 ) Son Image",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les deux AMOURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les deux Amitiés",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’TPRUDENCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Colère",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Hirondelle et le Rossignol",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Séparation",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu, mes Amours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Pressentiment",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Délie",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Délie",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Délie",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Délie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Miroir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Souvenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Douleur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Regrets",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les deux Mères",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Sommeil de Julien",
+            "type": "MISC"
+        },
+        {
+            "mot": "La jeune Épous",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Sommeil de Julien",
+            "type": "MISC"
+        },
+        {
+            "mot": "97",
+            "type": "DATE"
+        },
+        {
+            "mot": "La jeune Épouse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les deux Bergères",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Journée perdue",
+            "type": "MISC"
+        },
+        {
+            "mot": "ROMANCES. Clémentine",
+            "type": "MISC"
+        },
+        {
+            "mot": "A un Trompeur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dors, ma Mère",
+            "type": "MISC"
+        },
+        {
+            "mot": ") Le Bouquet",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Aveu permis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Portrait",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Serment",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Billet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Réveil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les trois heures du Jour",
+            "type": "MISC"
+        },
+        {
+            "mot": "C’est toi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Reprends ton rien",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la Poésie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Pardon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Souvenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la Seine",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fleur renvoyée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Troubadour en voyage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Il va parler",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Troubadour en voyage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Il va parler",
+            "type": "MISC"
+        },
+        {
+            "mot": "A la Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Prière de Laure",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Écho",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Exilé",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Pastourelle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Réveil créole",
+            "type": "MISC"
+        },
+        {
+            "mot": "La même romance",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Pèlerine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jone et Sophie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Regard",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le premier Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Chien d’Olivier",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'ÉTRANG<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MÉLANGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Orpheline",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un beau Jour",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Montre",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Nymphe toulousaine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Conte d’enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Berceau d’Hélène",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'IMPRIMERIE DE DIDOT LE JEUNE",
+            "type": "LOC"
+        },
+        {
+            "mot": "RUE DES MAÇONS-SORBONNE",
+            "type": "LOC"
+        }
+    ]
+}

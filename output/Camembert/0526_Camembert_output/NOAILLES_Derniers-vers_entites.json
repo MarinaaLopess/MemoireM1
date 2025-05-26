@@ -1,0 +1,1204 @@
+{
+    "entites": [
+        {
+            "mot": "Comtesse de Noailles",
+            "type": "PER"
+        },
+        {
+            "mot": "Noailles, Anna de",
+            "type": "PER"
+        },
+        {
+            "mot": "(1876-1933",
+            "type": "DATE"
+        },
+        {
+            "mot": "1933",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf.fr",
+            "type": "ORG"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Réserve",
+            "type": "LOC"
+        },
+        {
+            "mot": "G-YE-122",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "10/09/2019",
+            "type": "DATE"
+        },
+        {
+            "mot": "COMTESSE DE NOAILLES DERNIERS VERS GRASSET",
+            "type": "LOC"
+        },
+        {
+            "mot": "(O DERNIERS VERS COMTESSE DE NOAILLES DERNIERS",
+            "type": "LOC"
+        },
+        {
+            "mot": "VERS ' 4 GRASSET",
+            "type": "LOC"
+        },
+        {
+            "mot": "ANNE-JULES & HÉL<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "Constantin PHOTIAD<unk>S",
+            "type": "PER"
+        },
+        {
+            "mot": "En novembre 1932, après une année",
+            "type": "DATE"
+        },
+        {
+            "mot": "comtesse de Noailles",
+            "type": "PER"
+        },
+        {
+            "mot": "Poème de P amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "V Honneur de souffrir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvenirs d^un jardin d^Angleterre^",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vivants et des morts",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un soir à Londres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Forces éternelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Revue de Paris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bonaparte",
+            "type": "PER"
+        },
+        {
+            "mot": "Napoléon",
+            "type": "PER"
+        },
+        {
+            "mot": "Revue de France",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ Illustration",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvenir des aïeux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Foyage de Sparte",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Eblouissements",
+            "type": "MISC"
+        },
+        {
+            "mot": "Accueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’héroïsme et la volupté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Héroïsme",
+            "type": "MISC"
+        },
+        {
+            "mot": "madame de Noailles",
+            "type": "PER"
+        },
+        {
+            "mot": "février 1933",
+            "type": "DATE"
+        },
+        {
+            "mot": "la comtesse de Noailles",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Derniers vers",
+            "type": "MISC"
+        },
+        {
+            "mot": "mars",
+            "type": "DATE"
+        },
+        {
+            "mot": "Monde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Monde",
+            "type": "LOC"
+        },
+        {
+            "mot": "OBSESSION",
+            "type": "MISC"
+        },
+        {
+            "mot": "VISITE A PORT",
+            "type": "MISC"
+        },
+        {
+            "mot": "-ROYAL-DES-CHAMPS",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pascal",
+            "type": "PER"
+        },
+        {
+            "mot": "Racine",
+            "type": "PER"
+        },
+        {
+            "mot": "Port-Royal-des-Champs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Jardin des Olives",
+            "type": "LOC"
+        },
+        {
+            "mot": "César",
+            "type": "PER"
+        },
+        {
+            "mot": "Sicile",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pascal",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Hellade",
+            "type": "LOC"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Diogène",
+            "type": "PER"
+        },
+        {
+            "mot": "Pascal",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "JOURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "AMITIÉ POUR LA MORT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cieux",
+            "type": "LOC"
+        },
+        {
+            "mot": "LE SOUVENIR DES A<unk>EUX",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélène VACARESCO",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélène VACARESCO",
+            "type": "PER"
+        },
+        {
+            "mot": "Gaule",
+            "type": "LOC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ronsard",
+            "type": "PER"
+        },
+        {
+            "mot": "CHLOÉ PETIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chloé",
+            "type": "PER"
+        },
+        {
+            "mot": "Mytilène",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chloé",
+            "type": "PER"
+        },
+        {
+            "mot": "Eros",
+            "type": "PER"
+        },
+        {
+            "mot": "CHATTE PERSANE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES ILES BIENHEUREUSES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gérard de Nerval",
+            "type": "PER"
+        },
+        {
+            "mot": "sainte Gudule",
+            "type": "PER"
+        },
+        {
+            "mot": "MIRAGE DE NO",
+            "type": "MISC"
+        },
+        {
+            "mot": "sainte Gudule",
+            "type": "PER"
+        },
+        {
+            "mot": "MIRAGE DE NO<unk>L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noël",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saint-Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "Vierge",
+            "type": "PER"
+        },
+        {
+            "mot": "Azur",
+            "type": "LOC"
+        },
+        {
+            "mot": "Noël de",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nazareth",
+            "type": "LOC"
+        },
+        {
+            "mot": "AGESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "zareth",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "BONAPARTE",
+            "type": "PER"
+        },
+        {
+            "mot": "de mai",
+            "type": "DATE"
+        },
+        {
+            "mot": "mai",
+            "type": "DATE"
+        },
+        {
+            "mot": "Robespierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Pareil aux autres",
+            "type": "MISC"
+        },
+        {
+            "mot": "A l",
+            "type": "MISC"
+        },
+        {
+            "mot": "odeur de la Corse",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Nouvelle Héloïse",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Histoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Turin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Millesimo",
+            "type": "LOC"
+        },
+        {
+            "mot": "Millesimo",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Équateur",
+            "type": "LOC"
+        },
+        {
+            "mot": "Joséphine",
+            "type": "PER"
+        },
+        {
+            "mot": "Rhin",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Thémistocle",
+            "type": "PER"
+        },
+        {
+            "mot": "Marseille",
+            "type": "LOC"
+        },
+        {
+            "mot": "Toulon",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Empereur",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Arc",
+            "type": "LOC"
+        },
+        {
+            "mot": "République",
+            "type": "LOC"
+        },
+        {
+            "mot": "RUDYARD KIPLING",
+            "type": "PER"
+        },
+        {
+            "mot": "Grecs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Inde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Collines",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lahore",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Egypte",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bouddhas",
+            "type": "PER"
+        },
+        {
+            "mot": "la Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Shakspeare",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "d’Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Feu, l’Energie",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Exemple",
+            "type": "PER"
+        },
+        {
+            "mot": "Consolateur",
+            "type": "PER"
+        },
+        {
+            "mot": "BAUDELAIRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Baudelaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Malabaraise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Palmyre",
+            "type": "LOC"
+        },
+        {
+            "mot": "ANATOLE FRANCE",
+            "type": "PER"
+        },
+        {
+            "mot": "PASCAL",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Pytha",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Pythagore",
+            "type": "PER"
+        },
+        {
+            "mot": "Montaigne",
+            "type": "PER"
+        },
+        {
+            "mot": "Frère Angelico",
+            "type": "PER"
+        },
+        {
+            "mot": "France!",
+            "type": "PER"
+        },
+        {
+            "mot": "l’",
+            "type": "PER"
+        },
+        {
+            "mot": "Hella",
+            "type": "LOC"
+        },
+        {
+            "mot": "de",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fronton",
+            "type": "PER"
+        },
+        {
+            "mot": "Temple",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cité",
+            "type": "LOC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Eros",
+            "type": "PER"
+        },
+        {
+            "mot": "JAUR<unk>S",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean Jaurès",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTHÉON",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean Jaurès",
+            "type": "PER"
+        },
+        {
+            "mot": "Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean Jaurès",
+            "type": "PER"
+        },
+        {
+            "mot": "COSTES",
+            "type": "PER"
+        },
+        {
+            "mot": "BRIX Victor Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Grecs",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Oiseau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Secrète Marseillaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Attique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bach",
+            "type": "PER"
+        },
+        {
+            "mot": "Mozart",
+            "type": "PER"
+        },
+        {
+            "mot": "Colombes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Schumann",
+            "type": "PER"
+        },
+        {
+            "mot": "Venise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Chopin",
+            "type": "PER"
+        },
+        {
+            "mot": "Clairon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Liszt",
+            "type": "PER"
+        },
+        {
+            "mot": "Villa d’Este",
+            "type": "MISC"
+        },
+        {
+            "mot": "Wagner",
+            "type": "PER"
+        },
+        {
+            "mot": "Bizet",
+            "type": "PER"
+        },
+        {
+            "mot": "Arrogante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Strauss",
+            "type": "PER"
+        },
+        {
+            "mot": "Rose au calice rond",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rose",
+            "type": "MISC"
+        },
+        {
+            "mot": "Musset",
+            "type": "PER"
+        },
+        {
+            "mot": "Heine",
+            "type": "PER"
+        },
+        {
+            "mot": "Fulgurante Russie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pâques",
+            "type": "PER"
+        },
+        {
+            "mot": "FRANZ SCHUBERT",
+            "type": "PER"
+        },
+        {
+            "mot": "phant",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Vienne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lichtenthal",
+            "type": "PER"
+        },
+        {
+            "mot": "Source",
+            "type": "LOC"
+        },
+        {
+            "mot": "Postillon",
+            "type": "PER"
+        },
+        {
+            "mot": "Postillon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Franz Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Florence",
+            "type": "LOC"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Voyage d'hiver",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voyage d'hiver",
+            "type": "MISC"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Chopin",
+            "type": "PER"
+        },
+        {
+            "mot": "Goethe",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "à trente ans !",
+            "type": "DATE"
+        },
+        {
+            "mot": "Trente ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "r",
+            "type": "PER"
+        },
+        {
+            "mot": "Trente ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "Franz Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "SCHUBERT",
+            "type": "PER"
+        },
+        {
+            "mot": "Soumise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le lac",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le paradis vivace",
+            "type": "MISC"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "Schubert",
+            "type": "PER"
+        },
+        {
+            "mot": "LISZT",
+            "type": "PER"
+        },
+        {
+            "mot": "Prédicateur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Wagner",
+            "type": "PER"
+        },
+        {
+            "mot": "Liszt",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Ancien",
+            "type": "PER"
+        },
+        {
+            "mot": "Enivré",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jean ROSTAND",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour le",
+            "type": "DATE"
+        },
+        {
+            "mot": "Jean ROSTAND",
+            "type": "PER"
+        },
+        {
+            "mot": "Pair",
+            "type": "PER"
+        },
+        {
+            "mot": "d",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONSCIENCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’INDÉCHIFFRABLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ant",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd",
+            "type": "DATE"
+        },
+        {
+            "mot": "hui!",
+            "type": "DATE"
+        },
+        {
+            "mot": "SOU",
+            "type": "MISC"
+        },
+        {
+            "mot": "IRS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ARD",
+            "type": "MISC"
+        },
+        {
+            "mot": "’ANGLETERRE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Manche",
+            "type": "LOC"
+        },
+        {
+            "mot": "mon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "ESPACE",
+            "type": "MISC"
+        },
+        {
+            "mot": "IO",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Véga de la Lyre",
+            "type": "PER"
+        },
+        {
+            "mot": "Pégase",
+            "type": "PER"
+        },
+        {
+            "mot": "Sextant",
+            "type": "PER"
+        },
+        {
+            "mot": "Andromède",
+            "type": "PER"
+        },
+        {
+            "mot": "Orion",
+            "type": "PER"
+        },
+        {
+            "mot": "Songe à ce",
+            "type": "MISC"
+        },
+        {
+            "mot": "ouge oiseau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sicile",
+            "type": "LOC"
+        },
+        {
+            "mot": "le Temps",
+            "type": "PER"
+        },
+        {
+            "mot": "PORT-ROYAL-DES-CHAMPS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LES JOURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "AMITIÉ POUR LA MORT",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA MORT 34",
+            "type": "MISC"
+        },
+        {
+            "mot": "12",
+            "type": "DATE"
+        },
+        {
+            "mot": "5 ÉGALITÉ 36 INTERROGATION",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE SOUVENIR DES A<unk>EUX",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHLOÉ 43 CHATTE PERSANE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES ILES BIENHEUREUSES",
+            "type": "MISC"
+        },
+        {
+            "mot": "MIRAGE DE NO<unk>L 49 SAGESSE 51 II BONAPARTE 55 A RUDYARD KIPLING",
+            "type": "MISC"
+        },
+        {
+            "mot": "HOMMAGE A BAUDELAIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "POUR ANATOLE FRANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JAUR<unk>S AU PANTHÉON 69 HOMMAGE A COSTES ET A LE BRIX",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA MUSIQUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "HOMMAGE A FRANZ SCHUBERT",
+            "type": "MISC"
+        },
+        {
+            "mot": "REMERCIEMENT A SCHUBERT",
+            "type": "MISC"
+        },
+        {
+            "mot": "LISZT",
+            "type": "MISC"
+        },
+        {
+            "mot": "III L’ANC<unk>TRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’INDÉCHIFFRABLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "IO i SOUVENIRS",
+            "type": "MISC"
+        },
+        {
+            "mot": "D’ANGLETERRE",
+            "type": "LOC"
+        },
+        {
+            "mot": "CAS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LON ROMAIN",
+            "type": "PER"
+        },
+        {
+            "mot": "CORPS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LOUIS KALDOR",
+            "type": "PER"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "VERG",
+            "type": "PER"
+        },
+        {
+            "mot": "HOLLANDE VAN GELDER-ZONEN",
+            "type": "PER"
+        },
+        {
+            "mot": "LE 1 5 DÉCEMBRE 1933",
+            "type": "DATE"
+        },
+        {
+            "mot": "COMTESSE DE NOAILLES DERNIERS VERS GRASSET",
+            "type": "LOC"
+        }
+    ]
+}

@@ -1,0 +1,1968 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sagesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paul Verlaine",
+            "type": "PER"
+        },
+        {
+            "mot": "Verlaine",
+            "type": "PER"
+        },
+        {
+            "mot": "Paul",
+            "type": "PER"
+        },
+        {
+            "mot": "(1844-1896",
+            "type": "DATE"
+        },
+        {
+            "mot": "L",
+            "type": "ORG"
+        },
+        {
+            "mot": ". Vanier",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1893",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "b",
+            "type": "LOC"
+        },
+        {
+            "mot": "n",
+            "type": "ORG"
+        },
+        {
+            "mot": "f",
+            "type": "LOC"
+        },
+        {
+            "mot": "fr",
+            "type": "LOC"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "[Sagesse (français)",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Littérature",
+            "type": "MISC"
+        },
+        {
+            "mot": "art",
+            "type": "MISC"
+        },
+        {
+            "mot": "YE-3265",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "16/04/2013",
+            "type": "DATE"
+        },
+        {
+            "mot": "16/04/2013",
+            "type": "DATE"
+        },
+        {
+            "mot": "PAUL VERLAINE",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "LOC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "TROISI<unk>ME ÉDITIUA",
+            "type": "MISC"
+        },
+        {
+            "mot": "REVUE El CORUIUKE PARIS LEON VA NI EH, LI HUA ME-fi DIT KUH 1U, QUAI SAINT-MIC II KL,",
+            "type": "LOC"
+        },
+        {
+            "mot": "19 1893",
+            "type": "DATE"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "LOC"
+        },
+        {
+            "mot": "PAUL VERLAIE VERS",
+            "type": "PER"
+        },
+        {
+            "mot": "La bonne Chanson",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fêtes galantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Romances sans paroles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sagesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jadis et naguère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "3 Il Bonheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "EN PRÉPARATION",
+            "type": "MISC"
+        },
+        {
+            "mot": "Odes eja son honneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "3 Il - Elégies",
+            "type": "MISC"
+        },
+        {
+            "mot": "Liturgies intimes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Invectives 3 PROSF",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Poètes maudits",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louise Leclercq",
+            "type": "PER"
+        },
+        {
+            "mot": "Mémoires d'un veuf",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mes hôpitau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Leclercq",
+            "type": "PER"
+        },
+        {
+            "mot": "Mémoires d'un veuf",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mes hôpitaux",
+            "type": "MISC"
+        },
+        {
+            "mot": "1' A RATION Mes prisons",
+            "type": "MISC"
+        },
+        {
+            "mot": "les Hommes d'aujourd'hui",
+            "type": "MISC"
+        },
+        {
+            "mot": "THÉATRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les uns et les autres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Album de vers et de prose",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHARLES DIORME Paul Verlaine",
+            "type": "PER"
+        },
+        {
+            "mot": "PAUL VERLAINE",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE v TROISI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LÉON VANIER",
+            "type": "PER"
+        },
+        {
+            "mot": "QUAI SAINT-MICHEL",
+            "type": "LOC"
+        },
+        {
+            "mot": "19 1893",
+            "type": "DATE"
+        },
+        {
+            "mot": "R, LIBRAIRE",
+            "type": "ORG"
+        },
+        {
+            "mot": "ÉDI",
+            "type": "ORG"
+        },
+        {
+            "mot": "QUAI SAINT-MICHEL",
+            "type": "LOC"
+        },
+        {
+            "mot": "19 1893",
+            "type": "DATE"
+        },
+        {
+            "mot": "A LA lÉMOI HE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA M<unk>RE P. V.",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Autel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Toute-Bonté",
+            "type": "PER"
+        },
+        {
+            "mot": "Toute-Puis",
+            "type": "PER"
+        },
+        {
+            "mot": "Toute-Bonté",
+            "type": "PER"
+        },
+        {
+            "mot": "Toute-Puissance",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Eglise",
+            "type": "MISC"
+        },
+        {
+            "mot": "a une dizaine et une douzaine d'années",
+            "type": "DATE"
+        },
+        {
+            "mot": "et une douzaine d'années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sisyphe",
+            "type": "PER"
+        },
+        {
+            "mot": "Hercule",
+            "type": "PER"
+        },
+        {
+            "mot": "Achille",
+            "type": "PER"
+        },
+        {
+            "mot": "illé",
+            "type": "PER"
+        },
+        {
+            "mot": "Gorgone",
+            "type": "PER"
+        },
+        {
+            "mot": "Chair",
+            "type": "PER"
+        },
+        {
+            "mot": "Monstre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dame",
+            "type": "PER"
+        },
+        {
+            "mot": "Ma Dame",
+            "type": "PER"
+        },
+        {
+            "mot": "Les effets",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hommes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Veillez, Quelqu'un l'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Veillez",
+            "type": "MISC"
+        },
+        {
+            "mot": "crainte",
+            "type": "MISC"
+        },
+        {
+            "mot": "Suborneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Veille",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jour suprême",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Enfer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Roi",
+            "type": "PER"
+        },
+        {
+            "mot": "Noir",
+            "type": "PER"
+        },
+        {
+            "mot": "Deuves",
+            "type": "MISC"
+        },
+        {
+            "mot": "Deuves",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Politique",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chrétien",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Malheureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "De ce passé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hercule",
+            "type": "PER"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chrétien",
+            "type": "MISC"
+        },
+        {
+            "mot": "Athée",
+            "type": "PER"
+        },
+        {
+            "mot": "Science",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Imbécile !",
+            "type": "PER"
+        },
+        {
+            "mot": "Imbécile",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Orgueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Orgueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Faute",
+            "type": "MISC"
+        },
+        {
+            "mot": "Matinal Appel",
+            "type": "MISC"
+        },
+        {
+            "mot": "ontagne",
+            "type": "PER"
+        },
+        {
+            "mot": "Bonté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chagrins et Joies",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bon voyage !",
+            "type": "MISC"
+        },
+        {
+            "mot": "le Rire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bon voyage !",
+            "type": "MISC"
+        },
+        {
+            "mot": "le Rire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Toi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tristesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "hiers",
+            "type": "DATE"
+        },
+        {
+            "mot": "demains",
+            "type": "DATE"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Ange Gardien",
+            "type": "PER"
+        },
+        {
+            "mot": "Louis Racine",
+            "type": "PER"
+        },
+        {
+            "mot": "Rollin",
+            "type": "PER"
+        },
+        {
+            "mot": "Maintenon",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Messe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Auteuils",
+            "type": "LOC"
+        },
+        {
+            "mot": "les Auteuils",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Garo",
+            "type": "PER"
+        },
+        {
+            "mot": "Moyen Age",
+            "type": "MISC"
+        },
+        {
+            "mot": "Croix",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cathédrale",
+            "type": "LOC"
+        },
+        {
+            "mot": "A",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Histoire",
+            "type": "ORG"
+        },
+        {
+            "mot": "Tradition",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aïeux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "dernière",
+            "type": "DATE"
+        },
+        {
+            "mot": "Moïse",
+            "type": "PER"
+        },
+        {
+            "mot": "de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Ignorant-chiffre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Suffrage-nombre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Total",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cabré",
+            "type": "PER"
+        },
+        {
+            "mot": "Béhémot",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nabuchodonosor",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus-Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Français",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Eglise",
+            "type": "MISC"
+        },
+        {
+            "mot": "'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bastille",
+            "type": "LOC"
+        },
+        {
+            "mot": "La France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Téniers",
+            "type": "PER"
+        },
+        {
+            "mot": "XIII",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Et maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "H",
+            "type": "MISC"
+        },
+        {
+            "mot": "Humble",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "Louis Seize",
+            "type": "PER"
+        },
+        {
+            "mot": "Napoléon",
+            "type": "PER"
+        },
+        {
+            "mot": "G",
+            "type": "MISC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "XIV",
+            "type": "PER"
+        },
+        {
+            "mot": "Béni",
+            "type": "PER"
+        },
+        {
+            "mot": "Béni",
+            "type": "PER"
+        },
+        {
+            "mot": "Béni",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "naguère",
+            "type": "DATE"
+        },
+        {
+            "mot": "ire",
+            "type": "PER"
+        },
+        {
+            "mot": "Rêves",
+            "type": "MISC"
+        },
+        {
+            "mot": "en un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chanson pure",
+            "type": "MISC"
+        },
+        {
+            "mot": "rétien",
+            "type": "PER"
+        },
+        {
+            "mot": "Chanson pure",
+            "type": "MISC"
+        },
+        {
+            "mot": "Innocence",
+            "type": "MISC"
+        },
+        {
+            "mot": "avenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voix de l'Orgueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voix de la Haine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voix de la Chair",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voix.d'Autrui",
+            "type": "MISC"
+        },
+        {
+            "mot": "Von",
+            "type": "PER"
+        },
+        {
+            "mot": "Ah, les Voix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ah, les Voi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "les Voix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Parole",
+            "type": "MISC"
+        },
+        {
+            "mot": "PAmour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mourez",
+            "type": "MISC"
+        },
+        {
+            "mot": "PAmour",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Ennui",
+            "type": "PER"
+        },
+        {
+            "mot": "Chair",
+            "type": "PER"
+        },
+        {
+            "mot": "Ange De",
+            "type": "PER"
+        },
+        {
+            "mot": "Espérance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paix",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Ange Gardien",
+            "type": "PER"
+        },
+        {
+            "mot": "XXII",
+            "type": "MISC"
+        },
+        {
+            "mot": "Devoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Devoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "II",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Croix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Humilité",
+            "type": "PER"
+        },
+        {
+            "mot": "Mère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Troie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Hirsute",
+            "type": "PER"
+        },
+        {
+            "mot": "Bavant",
+            "type": "PER"
+        },
+        {
+            "mot": "Hirsute",
+            "type": "PER"
+        },
+        {
+            "mot": "Niobé",
+            "type": "PER"
+        },
+        {
+            "mot": "Calvaire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Calvaire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Supplice",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pervers",
+            "type": "PER"
+        },
+        {
+            "mot": "Pervers",
+            "type": "PER"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pain",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Calvaire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pénitence",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voici",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "cinq Plaies",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Mère de",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie Immaculée",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Agneau",
+            "type": "PER"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Agneau",
+            "type": "PER"
+        },
+        {
+            "mot": "Pacifiques",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "PER"
+        },
+        {
+            "mot": "Ch",
+            "type": "LOC"
+        },
+        {
+            "mot": "air",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sang",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Père",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "Père",
+            "type": "PER"
+        },
+        {
+            "mot": "en l'Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "II Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Baiser",
+            "type": "MISC"
+        },
+        {
+            "mot": "Baiser",
+            "type": "MISC"
+        },
+        {
+            "mot": "M'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Rose Immense",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jaloux",
+            "type": "MISC"
+        },
+        {
+            "mot": "D'Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jaloux D'Israël",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saint Augustin",
+            "type": "PER"
+        },
+        {
+            "mot": "Père",
+            "type": "PER"
+        },
+        {
+            "mot": "Fils",
+            "type": "PER"
+        },
+        {
+            "mot": "Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Fous",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fous",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sparte",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sodome",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Croix",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour à",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Église",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vin qui désaltère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pain",
+            "type": "MISC"
+        },
+        {
+            "mot": "Père",
+            "type": "PER"
+        },
+        {
+            "mot": "Mère",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Hérode",
+            "type": "PER"
+        },
+        {
+            "mot": "Pilate",
+            "type": "PER"
+        },
+        {
+            "mot": "Judas",
+            "type": "PER"
+        },
+        {
+            "mot": "Pierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Mystiques",
+            "type": "MISC"
+        },
+        {
+            "mot": "Calice Eternel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ah! Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ilélas",
+            "type": "PER"
+        },
+        {
+            "mot": "Ilélas",
+            "type": "PER"
+        },
+        {
+            "mot": "Sage",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Sage",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Opéra",
+            "type": "LOC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Regret",
+            "type": "MISC"
+        },
+        {
+            "mot": "Regret ou désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ravage",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Meuse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nouvelle Archangel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mirage",
+            "type": "MISC"
+        },
+        {
+            "mot": "De",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nouvelle Archangel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mirage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nouvelle Archangel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vipère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Juge",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grondeuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "G",
+            "type": "MISC"
+        },
+        {
+            "mot": "Viendra d'un Messie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Naufragé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Croix",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Bête Ignore sa tête",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Chair et le Sang Méconnaissent l'Acte",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vipère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abel",
+            "type": "PER"
+        },
+        {
+            "mot": "JÉsus",
+            "type": "PER"
+        },
+        {
+            "mot": "Bois-la",
+            "type": "MISC"
+        },
+        {
+            "mot": "Midi",
+            "type": "LOC"
+        },
+        {
+            "mot": "Midi",
+            "type": "LOC"
+        },
+        {
+            "mot": "septembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "IV tinspard Hanser",
+            "type": "PER"
+        },
+        {
+            "mot": "vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Gaspart",
+            "type": "PER"
+        },
+        {
+            "mot": "Dormez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dormez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dormez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon Dieu, mon Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Loi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mouette",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mouette",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mouette",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Chair",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saints",
+            "type": "PER"
+        },
+        {
+            "mot": "càline",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tiède",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tiède",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Purgatoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dimanche",
+            "type": "DATE"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'Ordre obéi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Respect",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seule Eglise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nourrice",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ber",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Vierge Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Gronder",
+            "type": "PER"
+        },
+        {
+            "mot": "Rose",
+            "type": "MISC"
+        },
+        {
+            "mot": "le Sage",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Sainte Thérèse",
+            "type": "PER"
+        },
+        {
+            "mot": "Pauvreté",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Parisien",
+            "type": "LOC"
+        },
+        {
+            "mot": "Montmartre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pantin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Le « Théâtre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le « Journal",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Chair et le Sang",
+            "type": "MISC"
+        },
+        {
+            "mot": "T^X",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malheureux V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louis Racine",
+            "type": "PER"
+        },
+        {
+            "mot": "29 XII",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVTf",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon Dieu m'a dit",
+            "type": "MISC"
+        },
+        {
+            "mot": "I",
+            "type": "MISC"
+        },
+        {
+            "mot": "Désormais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je",
+            "type": "MISC"
+        },
+        {
+            "mot": "sais pourquoi",
+            "type": "MISC"
+        },
+        {
+            "mot": "XI",
+            "type": "MISC"
+        },
+        {
+            "mot": "La",
+            "type": "MISC"
+        },
+        {
+            "mot": "La",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sainte Thérèse",
+            "type": "PER"
+        },
+        {
+            "mot": "Parisien",
+            "type": "MISC"
+        },
+        {
+            "mot": "Librairie LÉONVANIER",
+            "type": "LOC"
+        },
+        {
+            "mot": "quai Saint-Michel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "JEAN MORÉAS",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Syrtes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Cantilènes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Pèlerin passionné",
+            "type": "MISC"
+        },
+        {
+            "mot": ".J.-H. HIJYSMAMS",
+            "type": "PER"
+        },
+        {
+            "mot": "Croquis Parisiens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eu",
+            "type": "MISC"
+        },
+        {
+            "mot": "STÉPHANE MALLARMÉ",
+            "type": "PER"
+        },
+        {
+            "mot": "L'après-midi d'un faune",
+            "type": "MISC"
+        },
+        {
+            "mot": "STÉPHANE MALLARMÉ",
+            "type": "PER"
+        },
+        {
+            "mot": "L'après-midi d'un faune",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANET",
+            "type": "PER"
+        },
+        {
+            "mot": "Poès",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Edgar Poe",
+            "type": "PER"
+        },
+        {
+            "mot": "MANET",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Ten O'Clock",
+            "type": "MISC"
+        },
+        {
+            "mot": "Whistler",
+            "type": "PER"
+        },
+        {
+            "mot": "ARTHUR R1M3AUD",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Illuminations",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA SAISON EN ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "TRISTAN CORRI<unk>RE",
+            "type": "PER"
+        },
+        {
+            "mot": "Amours jaunes",
+            "type": "MISC"
+        },
+        {
+            "mot": "HENRI DE RÉGNIER",
+            "type": "PER"
+        },
+        {
+            "mot": "Episodes",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIÉTiÉ-tiRIFFIN",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Cygnes",
+            "type": "MISC"
+        },
+        {
+            "mot": "STUART lI-EBRILL",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Gammes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Fastes",
+            "type": "MISC"
+        },
+        {
+            "mot": "LAURENT TAtLHADC",
+            "type": "PER"
+        },
+        {
+            "mot": "Vitraux",
+            "type": "MISC"
+        },
+        {
+            "mot": "MAURIC",
+            "type": "PER"
+        },
+        {
+            "mot": "LAURENT TAtLHADC",
+            "type": "PER"
+        },
+        {
+            "mot": "Vitraux",
+            "type": "MISC"
+        },
+        {
+            "mot": "MAURICE DU PLESSYS",
+            "type": "PER"
+        },
+        {
+            "mot": "CHARLES VIGIER",
+            "type": "PER"
+        },
+        {
+            "mot": "Centon",
+            "type": "MISC"
+        },
+        {
+            "mot": "ERNEST RAYNAUD",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Signe",
+            "type": "MISC"
+        }
+    ]
+}

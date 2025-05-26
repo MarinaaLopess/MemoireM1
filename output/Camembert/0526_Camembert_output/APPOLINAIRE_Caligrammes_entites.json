@@ -1,0 +1,2932 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Calligrammes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guillaume Apollinaire",
+            "type": "PER"
+        },
+        {
+            "mot": "de La Fresnaye",
+            "type": "PER"
+        },
+        {
+            "mot": "Apollinaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Guillaume",
+            "type": "PER"
+        },
+        {
+            "mot": "(1880-1918",
+            "type": "DATE"
+        },
+        {
+            "mot": "(Lausanne)",
+            "type": "LOC"
+        },
+        {
+            "mot": "1952",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Fresnaye, Roger de",
+            "type": "PER"
+        },
+        {
+            "mot": "(1885-1925",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf.fr",
+            "type": "LOC"
+        },
+        {
+            "mot": "bnf",
+            "type": "LOC"
+        },
+        {
+            "mot": "atalogue",
+            "type": "MISC"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "in",
+            "type": "DATE"
+        },
+        {
+            "mot": "[Calligrammes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Collection",
+            "type": "MISC"
+        },
+        {
+            "mot": "Collection du Bouquet ; 52",
+            "type": "MISC"
+        },
+        {
+            "mot": "Collection : Collection du Bouquet ; 52",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Z",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "01/05/2017",
+            "type": "DATE"
+        },
+        {
+            "mot": "GUILLAUME APOLLINAIRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Il CALLIGRAMMES Dessins de La Fresnaye M E R M O D CALLIGRAMMES GU",
+            "type": "MISC"
+        },
+        {
+            "mot": "ILLAUME APOLLIN",
+            "type": "PER"
+        },
+        {
+            "mot": "AIRE CALLIGRAMMES Dessins de La Fresnaye M E R M O D",
+            "type": "MISC"
+        },
+        {
+            "mot": "RENÉ DALIZE",
+            "type": "PER"
+        },
+        {
+            "mot": "Champ d'Honneur",
+            "type": "LOC"
+        },
+        {
+            "mot": "le 7 mai 1917",
+            "type": "DATE"
+        },
+        {
+            "mot": "ONDES LIENS",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Libres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vio",
+            "type": "MISC"
+        },
+        {
+            "mot": "Libres",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cordes Cordes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tours de Babel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pontifes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cordes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Concorde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Abatis de pihis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Trauma",
+            "type": "MISC"
+        },
+        {
+            "mot": "Turinaises",
+            "type": "LOC"
+        },
+        {
+            "mot": "Et maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Araignées",
+            "type": "MISC"
+        },
+        {
+            "mot": "à minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bigorneaux Lotte multiples Soleils",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Oursin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tours Les Tours",
+            "type": "LOC"
+        },
+        {
+            "mot": "Puits Puits",
+            "type": "LOC"
+        },
+        {
+            "mot": "Puits Arbres creux",
+            "type": "LOC"
+        },
+        {
+            "mot": "Câpresses vagabondes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chabins",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chabines",
+            "type": "LOC"
+        },
+        {
+            "mot": "Etincelant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vancouver",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris Vancouver Hyères Maintenon New-York",
+            "type": "LOC"
+        },
+        {
+            "mot": "Antilles",
+            "type": "LOC"
+        },
+        {
+            "mot": "PAYSAGE LES COLLINES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lucifer L'Archange",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Psylles",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "T",
+            "type": "LOC"
+        },
+        {
+            "mot": "deur",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Noël",
+            "type": "MISC"
+        },
+        {
+            "mot": "Méditerranée",
+            "type": "LOC"
+        },
+        {
+            "mot": "ée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sept ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sept ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "ort",
+            "type": "PER"
+        },
+        {
+            "mot": "Torche",
+            "type": "PER"
+        },
+        {
+            "mot": "rs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "pleure",
+            "type": "MISC"
+        },
+        {
+            "mot": "Frédéric Boutet",
+            "type": "PER"
+        },
+        {
+            "mot": "Ispahan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lyon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Engoulevent",
+            "type": "PER"
+        },
+        {
+            "mot": "Blaireau Et la Taupe-Ariane",
+            "type": "MISC"
+        },
+        {
+            "mot": "Leipzig",
+            "type": "LOC"
+        },
+        {
+            "mot": "Intelligence",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dame-",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abonde",
+            "type": "PER"
+        },
+        {
+            "mot": "Rouen",
+            "type": "LOC"
+        },
+        {
+            "mot": "Finlande",
+            "type": "LOC"
+        },
+        {
+            "mot": "Finlande",
+            "type": "LOC"
+        },
+        {
+            "mot": "Corogne",
+            "type": "LOC"
+        },
+        {
+            "mot": "LUNDI R",
+            "type": "MISC"
+        },
+        {
+            "mot": "UE CHRISTINE",
+            "type": "LOC"
+        },
+        {
+            "mot": "ac",
+            "type": "PER"
+        },
+        {
+            "mot": "Tunis",
+            "type": "LOC"
+        },
+        {
+            "mot": "à 20 h. 27",
+            "type": "DATE"
+        },
+        {
+            "mot": "onner",
+            "type": "PER"
+        },
+        {
+            "mot": "à 20 h. 27",
+            "type": "DATE"
+        },
+        {
+            "mot": "Louise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Danois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Robe",
+            "type": "MISC"
+        },
+        {
+            "mot": "monsieur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ecoute",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jacques",
+            "type": "PER"
+        },
+        {
+            "mot": "Compagnie de navigation mixte",
+            "type": "ORG"
+        },
+        {
+            "mot": "du Luxembourg",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ecoutez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Smyrne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Naples",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tunisie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "a huit",
+            "type": "DATE"
+        },
+        {
+            "mot": "neuf ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'Honneur",
+            "type": "LOC"
+        },
+        {
+            "mot": "LETTRE-OCÉAN SUR LES PROPHÉTIES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Salmajour",
+            "type": "PER"
+        },
+        {
+            "mot": "Océanie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marguerite",
+            "type": "PER"
+        },
+        {
+            "mot": "sais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madame Deroy",
+            "type": "PER"
+        },
+        {
+            "mot": "M'a",
+            "type": "MISC"
+        },
+        {
+            "mot": "norv",
+            "type": "PER"
+        },
+        {
+            "mot": "mbre",
+            "type": "PER"
+        },
+        {
+            "mot": "Diriks",
+            "type": "PER"
+        },
+        {
+            "mot": "André Billy",
+            "type": "PER"
+        },
+        {
+            "mot": "SAINT-MERRY",
+            "type": "LOC"
+        },
+        {
+            "mot": "mai 1913",
+            "type": "DATE"
+        },
+        {
+            "mot": "Passeur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sébasto",
+            "type": "LOC"
+        },
+        {
+            "mot": "rue Aubry-le-Boucher",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ah ! Ariane",
+            "type": "PER"
+        },
+        {
+            "mot": "rue Saint-Martin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Merry",
+            "type": "LOC"
+        },
+        {
+            "mot": "rue Simon-Le-Franc",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Merry",
+            "type": "PER"
+        },
+        {
+            "mot": "rue de la Verrerie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Moluques",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mission catholique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bôma",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ailleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bonn",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beuel",
+            "type": "LOC"
+        },
+        {
+            "mot": "P<unk>tzchen",
+            "type": "LOC"
+        },
+        {
+            "mot": "Et maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant et",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "rue de la Verrerie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vincennes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Suger",
+            "type": "PER"
+        },
+        {
+            "mot": "Seine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Merry",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ariane",
+            "type": "PER"
+        },
+        {
+            "mot": "Pâquette",
+            "type": "PER"
+        },
+        {
+            "mot": "Amine",
+            "type": "PER"
+        },
+        {
+            "mot": "Mia",
+            "type": "PER"
+        },
+        {
+            "mot": "Simone",
+            "type": "PER"
+        },
+        {
+            "mot": "Mavise",
+            "type": "PER"
+        },
+        {
+            "mot": "Colette",
+            "type": "PER"
+        },
+        {
+            "mot": "Geneviève",
+            "type": "PER"
+        },
+        {
+            "mot": "de la Verrerie",
+            "type": "LOC"
+        },
+        {
+            "mot": "ue de la Verre",
+            "type": "PER"
+        },
+        {
+            "mot": "rie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Merry",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Merry",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Angélus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cortège",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vincennes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Troupeau",
+            "type": "MISC"
+        },
+        {
+            "mot": "quatorze juillet",
+            "type": "DATE"
+        },
+        {
+            "mot": "quatre heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "boulevard Saint-Germain",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Germain-des-Prés",
+            "type": "LOC"
+        },
+        {
+            "mot": "Danton",
+            "type": "PER"
+        },
+        {
+            "mot": "int-Germain-des-Prés",
+            "type": "LOC"
+        },
+        {
+            "mot": "Danton",
+            "type": "PER"
+        },
+        {
+            "mot": "Belgique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Longwy",
+            "type": "LOC"
+        },
+        {
+            "mot": "de Barbarie",
+            "type": "MISC"
+        },
+        {
+            "mot": "uacs",
+            "type": "PER"
+        },
+        {
+            "mot": "Peau-Rouge",
+            "type": "PER"
+        },
+        {
+            "mot": "<unk>",
+            "type": "LOC"
+        },
+        {
+            "mot": "UR",
+            "type": "MISC"
+        },
+        {
+            "mot": "COURONNE",
+            "type": "LOC"
+        },
+        {
+            "mot": "MIROIR",
+            "type": "LOC"
+        },
+        {
+            "mot": "R. D.",
+            "type": "LOC"
+        },
+        {
+            "mot": "Zénith Nadir",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Tour à la Roue",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'EUROPE",
+            "type": "LOC"
+        },
+        {
+            "mot": "M. Ch.",
+            "type": "PER"
+        },
+        {
+            "mot": "la Roue S",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'EUROPE",
+            "type": "LOC"
+        },
+        {
+            "mot": "M. Ch. Rotsoge",
+            "type": "PER"
+        },
+        {
+            "mot": "M. Panado",
+            "type": "PER"
+        },
+        {
+            "mot": "M. D",
+            "type": "PER"
+        },
+        {
+            "mot": "Ouv",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ouvre ouvre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Regarde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chè vuoi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "ARD",
+            "type": "MISC"
+        },
+        {
+            "mot": "1914",
+            "type": "DATE"
+        },
+        {
+            "mot": "Deauville",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rouveyre",
+            "type": "PER"
+        },
+        {
+            "mot": "Rouveyre",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Belgique Francorchamps",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Eau Rouge",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fontainebleau",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fontainebleau",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "NIMES",
+            "type": "LOC"
+        },
+        {
+            "mot": "Emile Léonard",
+            "type": "PER"
+        },
+        {
+            "mot": "Nice",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine",
+            "type": "ORG"
+        },
+        {
+            "mot": "Nîmes",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nîmes L'Amour dit Reste ici",
+            "type": "MISC"
+        },
+        {
+            "mot": "Girault",
+            "type": "PER"
+        },
+        {
+            "mot": "après 9 heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Magne",
+            "type": "PER"
+        },
+        {
+            "mot": "Réveil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nancéenne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fantassins Marchantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Victoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "André Rouveyre Troudla",
+            "type": "PER"
+        },
+        {
+            "mot": "Champignon Tabatière",
+            "type": "PER"
+        },
+        {
+            "mot": "Tabatière",
+            "type": "PER"
+        },
+        {
+            "mot": "Mercure de France",
+            "type": "ORG"
+        },
+        {
+            "mot": "Quel Ciel Triste Piste Où Va le Pâle Sourire",
+            "type": "MISC"
+        },
+        {
+            "mot": "OMBRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvenirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'olive",
+            "type": "MISC"
+        },
+        {
+            "mot": "temps Souvenirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "La",
+            "type": "MISC"
+        },
+        {
+            "mot": "changeante",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ombre",
+            "type": "MISC"
+        },
+        {
+            "mot": "rampe",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Soldats",
+            "type": "MISC"
+        },
+        {
+            "mot": "Empires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Césars",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vampires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Rouveyre",
+            "type": "PER"
+        },
+        {
+            "mot": "qu'Epin",
+            "type": "MISC"
+        },
+        {
+            "mot": "al",
+            "type": "PER"
+        },
+        {
+            "mot": "Vendait",
+            "type": "MISC"
+        },
+        {
+            "mot": "Geor",
+            "type": "PER"
+        },
+        {
+            "mot": "iers qu'Epinal Vendait Images populaires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Georgin",
+            "type": "PER"
+        },
+        {
+            "mot": "Soldats",
+            "type": "MISC"
+        },
+        {
+            "mot": "Où",
+            "type": "MISC"
+        },
+        {
+            "mot": "Où",
+            "type": "MISC"
+        },
+        {
+            "mot": "CASE D'ARMONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Case d'Armons",
+            "type": "MISC"
+        },
+        {
+            "mot": "le 17 juin 1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "RECONNAISSANCE A Mademoiselle P...",
+            "type": "MISC"
+        },
+        {
+            "mot": "REC",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Mademoiselle",
+            "type": "MISC"
+        },
+        {
+            "mot": "P",
+            "type": "PER"
+        },
+        {
+            "mot": "...",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "André Level",
+            "type": "PER"
+        },
+        {
+            "mot": "Salut A",
+            "type": "MISC"
+        },
+        {
+            "mot": "de verdure Grain",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Rapace L",
+            "type": "MISC"
+        },
+        {
+            "mot": "U",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Rapace",
+            "type": "PER"
+        },
+        {
+            "mot": "U",
+            "type": "MISC"
+        },
+        {
+            "mot": "GUERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "Après après",
+            "type": "DATE"
+        },
+        {
+            "mot": "Métal Feu Cristal",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Au-delà",
+            "type": "MISC"
+        },
+        {
+            "mot": "MUTATION",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eh ! Oh ! Ha !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eh ! Oh ! Ha !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eh ! Oh ! Ha !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eh ! Oh ! Ha !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eh ! Oh ! Ha",
+            "type": "MISC"
+        },
+        {
+            "mot": "Et tout A tant changé En moi Tout Sauf mon Amour Eh ! Oh ! Ha ! ORACLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tu sais Tout au plus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guerre ! Multiplication",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "14 JUIN 1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "On",
+            "type": "MISC"
+        },
+        {
+            "mot": "Secteur Ah !",
+            "type": "MISC"
+        },
+        {
+            "mot": "la Marseillaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rude",
+            "type": "PER"
+        },
+        {
+            "mot": "Marseillaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rude",
+            "type": "PER"
+        },
+        {
+            "mot": "Glaive",
+            "type": "MISC"
+        },
+        {
+            "mot": "BATTERIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "G. Bodard",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Atlantides",
+            "type": "LOC"
+        },
+        {
+            "mot": "Négrities",
+            "type": "LOC"
+        },
+        {
+            "mot": "Elderados",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cimméries",
+            "type": "LOC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Est",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Arc-en-terre",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Arc-en-Ciel",
+            "type": "LOC"
+        },
+        {
+            "mot": "ÉCHE",
+            "type": "LOC"
+        },
+        {
+            "mot": "LON",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crapauds",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ascèse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ciel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Coquelicots Fla",
+            "type": "MISC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Loriot",
+            "type": "LOC"
+        },
+        {
+            "mot": "SUD Zénith",
+            "type": "LOC"
+        },
+        {
+            "mot": "DAKAR",
+            "type": "LOC"
+        },
+        {
+            "mot": "Achantis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Anglais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Anglais",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fétiche dans l'arbre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Similitudes Pâleurs Et ma sœur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Arras",
+            "type": "LOC"
+        },
+        {
+            "mot": "Le Village Viole les femmes Emmène",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "A Madame",
+            "type": "MISC"
+        },
+        {
+            "mot": "Faure-Favier",
+            "type": "PER"
+        },
+        {
+            "mot": "vier",
+            "type": "PER"
+        },
+        {
+            "mot": "don Juan",
+            "type": "PER"
+        },
+        {
+            "mot": "Christophe Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "La vie",
+            "type": "MISC"
+        },
+        {
+            "mot": "La vie pour trouver la Victoire F<unk>TE A André",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rouve",
+            "type": "PER"
+        },
+        {
+            "mot": "yre",
+            "type": "MISC"
+        },
+        {
+            "mot": "IL SUT AIMER",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saadi",
+            "type": "PER"
+        },
+        {
+            "mot": "Saadi",
+            "type": "PER"
+        },
+        {
+            "mot": "Guy",
+            "type": "MISC"
+        },
+        {
+            "mot": "G",
+            "type": "MISC"
+        },
+        {
+            "mot": "lop",
+            "type": "ORG"
+        },
+        {
+            "mot": "As",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy au galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "As",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy au galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "As",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy au galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy",
+            "type": "MISC"
+        },
+        {
+            "mot": "galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy au galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "C",
+            "type": "MISC"
+        },
+        {
+            "mot": "La",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Servants",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Conducteur",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy",
+            "type": "MISC"
+        },
+        {
+            "mot": "galop",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guy",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA NUIT D'AVRIL 1915 A L. de C.-C.",
+            "type": "MISC"
+        },
+        {
+            "mot": "Boches",
+            "type": "MISC"
+        },
+        {
+            "mot": "En",
+            "type": "MISC"
+        },
+        {
+            "mot": "s",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pourpre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ulysse",
+            "type": "PER"
+        },
+        {
+            "mot": "Ulysse",
+            "type": "PER"
+        },
+        {
+            "mot": "Ithaque",
+            "type": "LOC"
+        },
+        {
+            "mot": "LUEURS DES TIRS LA GRACE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Inf",
+            "type": "PER"
+        },
+        {
+            "mot": "LA BOUCLE RETROUVÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "boulevard de la Chapelle",
+            "type": "LOC"
+        },
+        {
+            "mot": "Montmartre",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Auteuil",
+            "type": "LOC"
+        },
+        {
+            "mot": "REFUS DE LA COLOMBE Mensonge de l'Annonciade La Noël fut la Passion",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mensonge de l'Annonciade",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noël",
+            "type": "MISC"
+        },
+        {
+            "mot": "Passion",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES FEUX DU BIVOUAC",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES GRENADINES REPENTANTES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grenade",
+            "type": "LOC"
+        },
+        {
+            "mot": "Infante",
+            "type": "PER"
+        },
+        {
+            "mot": "TOURBILLON DE MOUCHES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mitylène",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'ADIEU DU CAVALIER Ah Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE PALAIS DU TONNERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "élinite",
+            "type": "LOC"
+        },
+        {
+            "mot": "fulminate",
+            "type": "LOC"
+        },
+        {
+            "mot": "cheva",
+            "type": "LOC"
+        },
+        {
+            "mot": "deux semaines",
+            "type": "DATE"
+        },
+        {
+            "mot": "PHOTOGRAPHIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pourrait m'attirer une fleur",
+            "type": "MISC"
+        },
+        {
+            "mot": "phie",
+            "type": "PER"
+        },
+        {
+            "mot": "Soleil",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marseille",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marseille",
+            "type": "LOC"
+        },
+        {
+            "mot": "Champagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "oldat",
+            "type": "PER"
+        },
+        {
+            "mot": "L'ABRI-CAVERNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "soir",
+            "type": "DATE"
+        },
+        {
+            "mot": "Grecs",
+            "type": "MISC"
+        },
+        {
+            "mot": "USÉE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu des Armées",
+            "type": "PER"
+        },
+        {
+            "mot": "Carillonnez",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉSIR",
+            "type": "MISC"
+        },
+        {
+            "mot": "butte du Mesnil",
+            "type": "LOC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Butte du Mesnil",
+            "type": "LOC"
+        },
+        {
+            "mot": "Decauville",
+            "type": "LOC"
+        },
+        {
+            "mot": "Massiges",
+            "type": "PER"
+        },
+        {
+            "mot": "boyau Gœthe",
+            "type": "LOC"
+        },
+        {
+            "mot": "boyau Nietzsche Déc",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nietzsche",
+            "type": "PER"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit des hommes seulement Nuit du 24 septembre Demain l'assaut Nuit violente ô nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit qui criait",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit des hommes seulement CHANT DE L'HORIZON EN CHAMPAGNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Joseph Granié",
+            "type": "PER"
+        },
+        {
+            "mot": "Promission",
+            "type": "MISC"
+        },
+        {
+            "mot": "20 ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paon",
+            "type": "PER"
+        },
+        {
+            "mot": "Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "Champagne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Champagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Caméléon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Breton",
+            "type": "PER"
+        },
+        {
+            "mot": "Pierre Boyaux",
+            "type": "PER"
+        },
+        {
+            "mot": "Zénon",
+            "type": "PER"
+        },
+        {
+            "mot": "Pointe-t-il",
+            "type": "LOC"
+        },
+        {
+            "mot": "Parsi",
+            "type": "MISC"
+        },
+        {
+            "mot": "TERRE A. G. de Chir",
+            "type": "PER"
+        },
+        {
+            "mot": "OCÉAN DE TERRE A. G. de Chirico",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "OB",
+            "type": "MISC"
+        },
+        {
+            "mot": "US",
+            "type": "PER"
+        },
+        {
+            "mot": "OULEUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "LUNE MERVEILLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "GUERRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bérénices",
+            "type": "MISC"
+        },
+        {
+            "mot": "giorno",
+            "type": "LOC"
+        },
+        {
+            "mot": "Balthasar",
+            "type": "PER"
+        },
+        {
+            "mot": "Balthasar",
+            "type": "PER"
+        },
+        {
+            "mot": "uerre",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Icare",
+            "type": "PER"
+        },
+        {
+            "mot": "Guillaume Apollinaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Guillaume Apollinaire",
+            "type": "PER"
+        },
+        {
+            "mot": "L'I",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'ITALIE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ardengo Soffici",
+            "type": "PER"
+        },
+        {
+            "mot": "1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "von Kluck",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marne",
+            "type": "LOC"
+        },
+        {
+            "mot": "sac de Rome",
+            "type": "MISC"
+        },
+        {
+            "mot": "Allemands",
+            "type": "MISC"
+        },
+        {
+            "mot": "sac de Rome",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bonaparte",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bonaparte",
+            "type": "PER"
+        },
+        {
+            "mot": "Delicado",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Arétin",
+            "type": "PER"
+        },
+        {
+            "mot": "Esclaves",
+            "type": "MISC"
+        },
+        {
+            "mot": "SUS AUX TUDESQUES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Armées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Boches",
+            "type": "MISC"
+        },
+        {
+            "mot": "75",
+            "type": "MISC"
+        },
+        {
+            "mot": "Boches",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vatican",
+            "type": "LOC"
+        },
+        {
+            "mot": "Messine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Colleoni équestre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Boches",
+            "type": "ORG"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bien-Aimées",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lille Saint-Quentin Laon Maubeuge Vouziers",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Reims",
+            "type": "LOC"
+        },
+        {
+            "mot": "Arras",
+            "type": "LOC"
+        },
+        {
+            "mot": "Et maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "des années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "des années",
+            "type": "DATE"
+        },
+        {
+            "mot": "LA TRAVERSÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Port-Vendres",
+            "type": "LOC"
+        },
+        {
+            "mot": "Palos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nietzsche",
+            "type": "PER"
+        },
+        {
+            "mot": "Goethe",
+            "type": "PER"
+        },
+        {
+            "mot": "Cologne",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Arbre isolé",
+            "type": "LOC"
+        },
+        {
+            "mot": "T",
+            "type": "LOC"
+        },
+        {
+            "mot": "S",
+            "type": "ORG"
+        },
+        {
+            "mot": "F",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Atlantique",
+            "type": "LOC"
+        },
+        {
+            "mot": "à minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Mexico",
+            "type": "LOC"
+        },
+        {
+            "mot": "G",
+            "type": "LOC"
+        },
+        {
+            "mot": "ulf Stream",
+            "type": "MISC"
+        },
+        {
+            "mot": "ream",
+            "type": "MISC"
+        },
+        {
+            "mot": "Algérie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Hindous",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'ESPIONNE Pâle",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Forteresse",
+            "type": "LOC"
+        },
+        {
+            "mot": "une heure un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ruse",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE CHANT D'AMOUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jason",
+            "type": "PER"
+        },
+        {
+            "mot": "Memnon",
+            "type": "PER"
+        },
+        {
+            "mot": "Sabines",
+            "type": "LOC"
+        },
+        {
+            "mot": "jardins de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Brunette",
+            "type": "MISC"
+        },
+        {
+            "mot": "Phare",
+            "type": "LOC"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "DU COTON DANS LES OREILLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "ALL",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA TRUIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CÉNOBITES TRANQUILLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CÉNOBITES TRANQUILLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Allô la truie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Allô la truie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Allô la truie",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Etoile",
+            "type": "LOC"
+        },
+        {
+            "mot": "du",
+            "type": "MISC"
+        },
+        {
+            "mot": "Benin",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Anglais",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gênes",
+            "type": "LOC"
+        },
+        {
+            "mot": "D'siré",
+            "type": "PER"
+        },
+        {
+            "mot": "Rose",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ecoute s",
+            "type": "MISC"
+        },
+        {
+            "mot": "Flan fon",
+            "type": "MISC"
+        },
+        {
+            "mot": "tom gles",
+            "type": "PER"
+        },
+        {
+            "mot": "1'",
+            "type": "DATE"
+        },
+        {
+            "mot": "Napoléon",
+            "type": "PER"
+        },
+        {
+            "mot": "Allô",
+            "type": "LOC"
+        },
+        {
+            "mot": "VIGNERON CHAMPENOIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant le",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Artillerie",
+            "type": "LOC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "OUVEN",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "ncore",
+            "type": "PER"
+        },
+        {
+            "mot": "semaine",
+            "type": "DATE"
+        },
+        {
+            "mot": "dimanche",
+            "type": "DATE"
+        },
+        {
+            "mot": "Oise",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHEVAUX DE FRISE",
+            "type": "MISC"
+        },
+        {
+            "mot": "novembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "novembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Méditerranée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rose",
+            "type": "PER"
+        },
+        {
+            "mot": "Madeleine",
+            "type": "PER"
+        },
+        {
+            "mot": "Paraclet",
+            "type": "PER"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Panthère",
+            "type": "PER"
+        },
+        {
+            "mot": "Toutefleur",
+            "type": "PER"
+        },
+        {
+            "mot": "Toutefleur",
+            "type": "PER"
+        },
+        {
+            "mot": "Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "Madeleine CHANT DE L'HONNEUR LE PO<unk>TE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Chariot d'Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "six jours au",
+            "type": "DATE"
+        },
+        {
+            "mot": "is six jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "x",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tahure",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Alerte la Mort et la Démangeaison LA TRANCHÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES BALLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abeilles",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE PO<unk>TE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grâce Vertu Courage Honneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA",
+            "type": "PER"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Po",
+            "type": "PER"
+        },
+        {
+            "mot": "LE PO<unk>TE",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Avenir Multitude",
+            "type": "MISC"
+        },
+        {
+            "mot": "En l",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Honneur la beauté du Devoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "17 décembre 1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "CHEF DE SECTION",
+            "type": "MISC"
+        },
+        {
+            "mot": "ée",
+            "type": "PER"
+        },
+        {
+            "mot": "Minerve",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "LA VICTOIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Icare",
+            "type": "PER"
+        },
+        {
+            "mot": "Saint-Claude",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'Eros",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Antéros",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lerne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lerne",
+            "type": "LOC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Victoire",
+            "type": "LOC"
+        },
+        {
+            "mot": "LA JOLIE ROUSSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Artillerie",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Infanterie",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Ordre de l'Aventure",
+            "type": "ORG"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "rs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ay",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lien",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lundi rue Christine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lettre-",
+            "type": "MISC"
+        },
+        {
+            "mot": "musicien de Saint-Merry",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voyage",
+            "type": "MISC"
+        },
+        {
+            "mot": "travers",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "ÉTENDARDS La petite",
+            "type": "MISC"
+        },
+        {
+            "mot": "La petite auto",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fumées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nîmes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ombre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lou",
+            "type": "MISC"
+        },
+        {
+            "mot": "CASE D'AR<unk>fONS Loin du pigeonnier",
+            "type": "MISC"
+        },
+        {
+            "mot": "S. P",
+            "type": "MISC"
+        },
+        {
+            "mot": "Visée",
+            "type": "MISC"
+        },
+        {
+            "mot": "1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "Carte postale",
+            "type": "MISC"
+        },
+        {
+            "mot": "Reconnaissance 90 Saillant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Guerre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mutation",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oracles",
+            "type": "MISC"
+        },
+        {
+            "mot": "14 juin 1915",
+            "type": "DATE"
+        },
+        {
+            "mot": "Echelon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dakar",
+            "type": "MISC"
+        },
+        {
+            "mot": "Toujours",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fête",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madele",
+            "type": "MISC"
+        },
+        {
+            "mot": "",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dakar",
+            "type": "LOC"
+        },
+        {
+            "mot": "Toujours 106 Fête 108 Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les saisons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Venu de Dieuze",
+            "type": "MISC"
+        },
+        {
+            "mot": "La nuit d'avril 1915",
+            "type": "MISC"
+        },
+        {
+            "mot": "LUEURS DES TIRS La grâce exilée",
+            "type": "MISC"
+        },
+        {
+            "mot": "La boucle retrouvée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Refus de la colombe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les feux du bivouac",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les grenadines repentantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tourbillon de mouches",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'adieu du cavalier",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le palais du tonnerre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Photographie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'inscription anglaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dans l'abri-caverne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fusée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Désir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chant de l'horizon en Champagne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Océan de terre",
+            "type": "MISC"
+        },
+        {
+            "mot": "hamp",
+            "type": "PER"
+        },
+        {
+            "mot": "Océan de terre",
+            "type": "MISC"
+        },
+        {
+            "mot": "OBUS COULEUR DE LUNE Merveilles",
+            "type": "MISC"
+        },
+        {
+            "mot": "guerre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Exercice",
+            "type": "MISC"
+        },
+        {
+            "mot": "A l",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Il",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'espionne",
+            "type": "MISC"
+        },
+        {
+            "mot": "d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aussi bien que les cigales",
+            "type": "MISC"
+        },
+        {
+            "mot": "Simultanéités",
+            "type": "MISC"
+        },
+        {
+            "mot": "Du coton",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA T<unk>TE ÉTO:ILtE Le départ",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le",
+            "type": "MISC"
+        },
+        {
+            "mot": "Carte postale",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eventail des saveurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvenirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chevaux de frise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chant de l'honneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chef de section",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tristesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chef de section",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tristesse d'une étoile",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Victoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "La jolie rousse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lucien Chaffois",
+            "type": "PER"
+        },
+        {
+            "mot": "Georges Moos",
+            "type": "PER"
+        },
+        {
+            "mot": "Collection du Bouquet",
+            "type": "MISC"
+        },
+        {
+            "mot": "H.-L. Mermod",
+            "type": "PER"
+        },
+        {
+            "mot": "Lausanne",
+            "type": "LOC"
+        },
+        {
+            "mot": "en décembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Concorde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lausanne",
+            "type": "LOC"
+        },
+        {
+            "mot": "de La Concorde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lausanne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Frédéric Wahli",
+            "type": "PER"
+        },
+        {
+            "mot": "Arts Graphiques",
+            "type": "ORG"
+        },
+        {
+            "mot": "Prilly",
+            "type": "LOC"
+        },
+        {
+            "mot": "1500",
+            "type": "DATE"
+        },
+        {
+            "mot": "1 à 1500",
+            "type": "DATE"
+        },
+        {
+            "mot": "Suisse",
+            "type": "LOC"
+        }
+    ]
+}

@@ -1,0 +1,7744 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aujourd'hui, 1843-1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "Victor Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Victor",
+            "type": "PER"
+        },
+        {
+            "mot": "(1802-1885",
+            "type": "DATE"
+        },
+        {
+            "mot": "(Paris)",
+            "type": "LOC"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "01/07/2008",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS l'Ai! VICTOR HUGO TOME",
+            "type": "MISC"
+        },
+        {
+            "mot": "1843",
+            "type": "DATE"
+        },
+        {
+            "mot": "56",
+            "type": "DATE"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LEIPZIG",
+            "type": "PER"
+        },
+        {
+            "mot": "CHEZ WOLEGANG GERHARD",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS LES CONTEMPLATIONS VICTOR HUGO TOME",
+            "type": "MISC"
+        },
+        {
+            "mot": "1843",
+            "type": "DATE"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "PABIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LEIPZIG",
+            "type": "PER"
+        },
+        {
+            "mot": "CHEZ WOLFG",
+            "type": "PER"
+        },
+        {
+            "mot": "PABIS",
+            "type": "ORG"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LEIPZIG",
+            "type": "LOC"
+        },
+        {
+            "mot": "WOLFGANG GERHARD",
+            "type": "PER"
+        },
+        {
+            "mot": "WEM",
+            "type": "MISC"
+        },
+        {
+            "mot": "SIFTIMIK",
+            "type": "MISC"
+        },
+        {
+            "mot": "; 1841 à",
+            "type": "DATE"
+        },
+        {
+            "mot": "V",
+            "type": "MISC"
+        },
+        {
+            "mot": "wi",
+            "type": "PER"
+        },
+        {
+            "mot": "ï'",
+            "type": "MISC"
+        },
+        {
+            "mot": "III Trois ans après",
+            "type": "DATE"
+        },
+        {
+            "mot": "A vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dites-",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE QUATRI<unk>ME 15",
+            "type": "MISC"
+        },
+        {
+            "mot": "ou",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu som",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Viens!\" LIVRE QUATRI<unk>ME l",
+            "type": "MISC"
+        },
+        {
+            "mot": "Novembre 1846.",
+            "type": "DATE"
+        },
+        {
+            "mot": "Novembre 1846.",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas 1",
+            "type": "MISC"
+        },
+        {
+            "mot": "trois jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Silence",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE QUATRI<unk>ME 19 V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Si j'avais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Novembre 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS VI",
+            "type": "MISC"
+        },
+        {
+            "mot": "dix ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVKE QUATRIEME 21,",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVKE QUATRIEME 21",
+            "type": "MISC"
+        },
+        {
+            "mot": "Splendeurs du ciel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tillcquicr",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre 1844.",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS VII",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "Moïse",
+            "type": "PER"
+        },
+        {
+            "mot": "Salomon",
+            "type": "PER"
+        },
+        {
+            "mot": "Cyru.s",
+            "type": "PER"
+        },
+        {
+            "mot": "Perse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Moloch",
+            "type": "PER"
+        },
+        {
+            "mot": "Leviathan",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "IVRE QUATRI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Moi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Octobre 18-iO. 24",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fombre",
+            "type": "PER"
+        },
+        {
+            "mot": "Manès",
+            "type": "PER"
+        },
+        {
+            "mot": "Zordastres",
+            "type": "PER"
+        },
+        {
+            "mot": "Noirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Villequief",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre'1845",
+            "type": "DATE"
+        },
+        {
+            "mot": "25 IX",
+            "type": "DATE"
+        },
+        {
+            "mot": "Montligno",
+            "type": "LOC"
+        },
+        {
+            "mot": "Montlignon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Leu",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Arioste",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "Villequier",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avril 1847. 28'",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "11 juillet 1846, en",
+            "type": "DATE"
+        },
+        {
+            "mot": "en",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Heureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Octobre 1853",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE QUATM<unk>ME 31 Veni",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas",
+            "type": "MISC"
+        },
+        {
+            "mot": "Debout",
+            "type": "MISC"
+        },
+        {
+            "mot": "Morne",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Avril 1848",
+            "type": "DATE"
+        },
+        {
+            "mot": "33 Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Harfleur",
+            "type": "LOC"
+        },
+        {
+            "mot": "3 septembre 1847",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XV A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Villequicr",
+            "type": "LOC"
+        },
+        {
+            "mot": "1847",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XV A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Villequicr",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE QUATRI<unk>ME 35",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pioule",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMP",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE QUATRI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "ard",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE QUATRI<unk>ME 39",
+            "type": "MISC"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Villequier",
+            "type": "PER"
+        },
+        {
+            "mot": "4 se",
+            "type": "DATE"
+        },
+        {
+            "mot": "1847.",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tombaient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "Les roses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mars 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "TRI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ctolcs Vacqucric",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélas I",
+            "type": "PER"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ore",
+            "type": "PER"
+        },
+        {
+            "mot": "vingt ans Et",
+            "type": "DATE"
+        },
+        {
+            "mot": "et",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVBE QUATRI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVBE QUATRI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Un coup d'aile!",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Villequier",
+            "type": "LOC"
+        },
+        {
+            "mot": "Caudebec",
+            "type": "LOC"
+        },
+        {
+            "mot": "la Seine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélas",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIYBE CINQUI<unk>ME",
+            "type": "PER"
+        },
+        {
+            "mot": "'MA.&CHK'",
+            "type": "PER"
+        },
+        {
+            "mot": "A Aug",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Poëte",
+            "type": "PER"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine",
+            "type": "LOC"
+        },
+        {
+            "mot": "-Terrace",
+            "type": "ORG"
+        },
+        {
+            "mot": "4 septembre 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 49",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "souffle de Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONT",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bruxelles",
+            "type": "LOC"
+        },
+        {
+            "mot": "juillet 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "juillet 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 51 III",
+            "type": "MISC"
+        },
+        {
+            "mot": "en 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "Vendée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louis XVII",
+            "type": "PER"
+        },
+        {
+            "mot": "1827",
+            "type": "DATE"
+        },
+        {
+            "mot": "iteAla colonne",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "deGallicie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Convention",
+            "type": "ORG"
+        },
+        {
+            "mot": "Le marquis du C. d'E",
+            "type": "PER"
+        },
+        {
+            "mot": "...",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lettre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Victor Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "Coblenz",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Les Grâces",
+            "type": "MISC"
+        },
+        {
+            "mot": "avril",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Heur, malheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie-Antoinette",
+            "type": "PER"
+        },
+        {
+            "mot": "Rousseau",
+            "type": "PER"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Pigault-Lebrun",
+            "type": "PER"
+        },
+        {
+            "mot": "Diderot",
+            "type": "PER"
+        },
+        {
+            "mot": "Dubarry",
+            "type": "PER"
+        },
+        {
+            "mot": "Gabrielle d'Estrée",
+            "type": "PER"
+        },
+        {
+            "mot": "Sévigné",
+            "type": "PER"
+        },
+        {
+            "mot": "duc de Chaulnes",
+            "type": "PER"
+        },
+        {
+            "mot": "Jeune^",
+            "type": "PER"
+        },
+        {
+            "mot": "Montmorency",
+            "type": "PER"
+        },
+        {
+            "mot": "Choiseul",
+            "type": "PER"
+        },
+        {
+            "mot": "Noaille",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 53",
+            "type": "MISC"
+        },
+        {
+            "mot": "Brouilles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bérénice",
+            "type": "PER"
+        },
+        {
+            "mot": "Tite",
+            "type": "PER"
+        },
+        {
+            "mot": "La Révolution",
+            "type": "MISC"
+        },
+        {
+            "mot": "Talleyrand",
+            "type": "PER"
+        },
+        {
+            "mot": "Ligue",
+            "type": "PER"
+        },
+        {
+            "mot": "Fr",
+            "type": "PER"
+        },
+        {
+            "mot": "onde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ligue",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fronde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lafayette",
+            "type": "PER"
+        },
+        {
+            "mot": "Lévi",
+            "type": "PER"
+        },
+        {
+            "mot": "athan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mirabeau",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bastille",
+            "type": "LOC"
+        },
+        {
+            "mot": "faubourg Saint-Antoine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Et le vingt juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "le dix août",
+            "type": "DATE"
+        },
+        {
+            "mot": "le six octobre",
+            "type": "DATE"
+        },
+        {
+            "mot": "Boùfflers",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Révolution",
+            "type": "ORG"
+        },
+        {
+            "mot": "Paris Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "<unk>Montespan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marly",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maintenon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Gyrl",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Piévolution",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Fronsac",
+            "type": "PER"
+        },
+        {
+            "mot": "Terreur",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 55",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lambesc",
+            "type": "PER"
+        },
+        {
+            "mot": "Marat",
+            "type": "PER"
+        },
+        {
+            "mot": "Charette",
+            "type": "PER"
+        },
+        {
+            "mot": "Robespierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Gomorrhes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sodomes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vendée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Louis Dix-Sept",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vendée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chouan",
+            "type": "PER"
+        },
+        {
+            "mot": "Marceau",
+            "type": "PER"
+        },
+        {
+            "mot": "Stofflet",
+            "type": "PER"
+        },
+        {
+            "mot": "Danton",
+            "type": "PER"
+        },
+        {
+            "mot": "Marceau",
+            "type": "PER"
+        },
+        {
+            "mot": "Stofflet",
+            "type": "PER"
+        },
+        {
+            "mot": "Danton",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Loriquet",
+            "type": "PER"
+        },
+        {
+            "mot": "Loriquet",
+            "type": "PER"
+        },
+        {
+            "mot": "Laharpe",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Non que dit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Non",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oui",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Triomphant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Justici",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean Huss",
+            "type": "PER"
+        },
+        {
+            "mot": "Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "oire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint-Barthélémy",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Révolutions",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Révolutions",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quand",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tourner le Bas-Empire avec le.Moyen Age",
+            "type": "MISC"
+        },
+        {
+            "mot": "Du midi dans",
+            "type": "MISC"
+        },
+        {
+            "mot": "De Crécys",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rosbachs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Babel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Louis Onze et Tristan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louis Quinze",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lebel",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quand",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louis Quinze",
+            "type": "PER"
+        },
+        {
+            "mot": "Lebel",
+            "type": "PER"
+        },
+        {
+            "mot": "Féchafaud",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": ", un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Secoue",
+            "type": "LOC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "Louvre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luther",
+            "type": "PER"
+        },
+        {
+            "mot": "Mirabeau",
+            "type": "PER"
+        },
+        {
+            "mot": "L'écume",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les Révolutions",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marc-Aurè",
+            "type": "PER"
+        },
+        {
+            "mot": "Marc-Aurèle",
+            "type": "PER"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "depuis vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les faibles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pla",
+            "type": "PER"
+        },
+        {
+            "mot": "idé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Plaidé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Triboulet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marion",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tendre",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Esclave",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grève homicide",
+            "type": "MISC"
+        },
+        {
+            "mot": "Alcide",
+            "type": "PER"
+        },
+        {
+            "mot": "Perdu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Épiménide",
+            "type": "PER"
+        },
+        {
+            "mot": "Épiménide",
+            "type": "PER"
+        },
+        {
+            "mot": "Use à",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Hier",
+            "type": "MISC"
+        },
+        {
+            "mot": "Démain",
+            "type": "MISC"
+        },
+        {
+            "mot": "Falstaff",
+            "type": "PER"
+        },
+        {
+            "mot": "Splendide",
+            "type": "MISC"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gelte",
+            "type": "MISC"
+        },
+        {
+            "mot": "ien",
+            "type": "PER"
+        },
+        {
+            "mot": "Job",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Versailles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Liberté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Longwood",
+            "type": "PER"
+        },
+        {
+            "mot": "Goritz",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "en 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "Claremont",
+            "type": "PER"
+        },
+        {
+            "mot": "LIV",
+            "type": "MISC"
+        },
+        {
+            "mot": "CrN",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dans le bruit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dans l'aube",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "juin 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "en 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "après neuf ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Écueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Écueil",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "janvier 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 65 IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Goutte",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Avril 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "mademoiselle Louise B",
+            "type": "PER"
+        },
+        {
+            "mot": "Louise",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 67",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louise",
+            "type": "PER"
+        },
+        {
+            "mot": "Tomb",
+            "type": "MISC"
+        },
+        {
+            "mot": "Armand",
+            "type": "PER"
+        },
+        {
+            "mot": "0 jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "Les voilà disparus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Tenace",
+            "type": "MISC"
+        },
+        {
+            "mot": "juin 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 69",
+            "type": "MISC"
+        },
+        {
+            "mot": "Thébaïde",
+            "type": "PER"
+        },
+        {
+            "mot": "7G LES; CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ames",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ruisseaux",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine-Terracè",
+            "type": "PER"
+        },
+        {
+            "mot": "janvier 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 71 VII",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "<unk>nitus",
+            "type": "PER"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Caïphe",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Galilée",
+            "type": "PER"
+        },
+        {
+            "mot": "Songe",
+            "type": "PER"
+        },
+        {
+            "mot": "le",
+            "type": "MISC"
+        },
+        {
+            "mot": "Songe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Terraee",
+            "type": "PER"
+        },
+        {
+            "mot": "novembre 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "; GOMîTEMPLAiTIOUS VIII A Jules J.",
+            "type": "PER"
+        },
+        {
+            "mot": "beffroi de Bruxelles",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bruxelles",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Egmont",
+            "type": "LOC"
+        },
+        {
+            "mot": "Aujourd'hui, dans une",
+            "type": "DATE"
+        },
+        {
+            "mot": "Histoire de la Littérature dramatique",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE, CINQUI<unk>ME!.",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'éGueils",
+            "type": "LOC"
+        },
+        {
+            "mot": "VJM",
+            "type": "PER"
+        },
+        {
+            "mot": "VJM",
+            "type": "PER"
+        },
+        {
+            "mot": "Y",
+            "type": "PER"
+        },
+        {
+            "mot": "Té",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "éMzMZÉM<unk>à 74 LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Horace",
+            "type": "PER"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "décembre 18",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 75 IX",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pi",
+            "type": "PER"
+        },
+        {
+            "mot": "Décembre 1843",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS X",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abel",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Joseph",
+            "type": "PER"
+        },
+        {
+            "mot": "Ruth",
+            "type": "PER"
+        },
+        {
+            "mot": "Booz",
+            "type": "PER"
+        },
+        {
+            "mot": "bon Samaritain",
+            "type": "PER"
+        },
+        {
+            "mot": "Mai'ine-Terracc",
+            "type": "MISC"
+        },
+        {
+            "mot": "août 1S55",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES C",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mai'ine-Terracc",
+            "type": "MISC"
+        },
+        {
+            "mot": "août 1S55.",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ponto",
+            "type": "PER"
+        },
+        {
+            "mot": "Ponto",
+            "type": "PER"
+        },
+        {
+            "mot": "Froissard",
+            "type": "PER"
+        },
+        {
+            "mot": "Montluc",
+            "type": "PER"
+        },
+        {
+            "mot": "Tacite",
+            "type": "PER"
+        },
+        {
+            "mot": "Alexandre",
+            "type": "PER"
+        },
+        {
+            "mot": "César",
+            "type": "PER"
+        },
+        {
+            "mot": "Didier",
+            "type": "PER"
+        },
+        {
+            "mot": "Vitikind",
+            "type": "PER"
+        },
+        {
+            "mot": "Charlemagne",
+            "type": "PER"
+        },
+        {
+            "mot": "Charles-Quint",
+            "type": "PER"
+        },
+        {
+            "mot": "Caton",
+            "type": "PER"
+        },
+        {
+            "mot": "Titus",
+            "type": "PER"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Turenne",
+            "type": "PER"
+        },
+        {
+            "mot": "Héros",
+            "type": "PER"
+        },
+        {
+            "mot": "Bayard",
+            "type": "PER"
+        },
+        {
+            "mot": "Catinat",
+            "type": "PER"
+        },
+        {
+            "mot": "Nordlingue",
+            "type": "PER"
+        },
+        {
+            "mot": "Palatinat",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nordlingue",
+            "type": "PER"
+        },
+        {
+            "mot": "Palatinat",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jarnac",
+            "type": "PER"
+        },
+        {
+            "mot": "Carrouge",
+            "type": "PER"
+        },
+        {
+            "mot": "Louis Neuf",
+            "type": "PER"
+        },
+        {
+            "mot": "Cromwell",
+            "type": "PER"
+        },
+        {
+            "mot": "Millon",
+            "type": "PER"
+        },
+        {
+            "mot": "Calvin",
+            "type": "PER"
+        },
+        {
+            "mot": "Servet",
+            "type": "PER"
+        },
+        {
+            "mot": "Ponto",
+            "type": "PER"
+        },
+        {
+            "mot": "Ponto",
+            "type": "PER"
+        },
+        {
+            "mot": "Ponto",
+            "type": "PER"
+        },
+        {
+            "mot": "M,irine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "mars 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "Me",
+            "type": "MISC"
+        },
+        {
+            "mot": "'!TJsK LIVRE CWQpiÉME 79 XII Dolorosae",
+            "type": "MISC"
+        },
+        {
+            "mot": "douze ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "un",
+            "type": "DATE"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Tcrrace",
+            "type": "PER"
+        },
+        {
+            "mot": "août 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES",
+            "type": "MISC"
+        },
+        {
+            "mot": "NS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paroles sw la dune",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Le lendemain",
+            "type": "DATE"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "Ge'",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "5 août 1854,",
+            "type": "DATE"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Claire P",
+            "type": "PER"
+        },
+        {
+            "mot": "hier? Vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Et",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure a",
+            "type": "DATE"
+        },
+        {
+            "mot": "Merci",
+            "type": "MISC"
+        },
+        {
+            "mot": "années",
+            "type": "DATE"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "et",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Saint-Mandé",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Flamande qui",
+            "type": "MISC"
+        },
+        {
+            "mot": "Douce Claire",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 83",
+            "type": "MISC"
+        },
+        {
+            "mot": "Murmure dans l'azur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas! et le",
+            "type": "MISC"
+        },
+        {
+            "mot": "Carrare",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "PER"
+        },
+        {
+            "mot": "Et Pudeur",
+            "type": "PER"
+        },
+        {
+            "mot": "Ombre et Jour",
+            "type": "PER"
+        },
+        {
+            "mot": "Vierge",
+            "type": "PER"
+        },
+        {
+            "mot": "Déesse",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grèce",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélasl",
+            "type": "PER"
+        },
+        {
+            "mot": "Hélasl",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Claire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Juin 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 85 XV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Alexandre D.",
+            "type": "PER"
+        },
+        {
+            "mot": "La Conscience",
+            "type": "MISC"
+        },
+        {
+            "mot": "Merci",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Conscience",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Anvers",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "décembre 18",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES- 'CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lu",
+            "type": "MISC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Heureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Horace",
+            "type": "PER"
+        },
+        {
+            "mot": "Eschyle",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Horace",
+            "type": "PER"
+        },
+        {
+            "mot": "Eschyle",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Fazurj",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "la-Seine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Anankè",
+            "type": "PER"
+        },
+        {
+            "mot": "Champs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Panthéon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Panthéon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 87",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louvre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Champ-de-Mars",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chaillot",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grève",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fourmillaient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Champs-Elysées",
+            "type": "LOC"
+        },
+        {
+            "mot": "Champs-Elysées",
+            "type": "LOC"
+        },
+        {
+            "mot": "Causaient",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Romes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marine-Ten-ace",
+            "type": "PER"
+        },
+        {
+            "mot": "juillet 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mugitus",
+            "type": "PER"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui, le",
+            "type": "DATE"
+        },
+        {
+            "mot": "bes",
+            "type": "PER"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 89",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgile",
+            "type": "PER"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "juillet 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XVIII Apparition",
+            "type": "MISC"
+        },
+        {
+            "mot": "S'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "septembre 1865",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Plume",
+            "type": "MISC"
+        },
+        {
+            "mot": "11 décembre. 92",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cérigo",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cythère",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cythère",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cythère",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cypris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grèce",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cythère",
+            "type": "PER"
+        },
+        {
+            "mot": "Tête",
+            "type": "PER"
+        },
+        {
+            "mot": "de mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "plaisir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lemnos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lépante",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mars",
+            "type": "PER"
+        },
+        {
+            "mot": "Éros",
+            "type": "PER"
+        },
+        {
+            "mot": "Psyché",
+            "type": "PER"
+        },
+        {
+            "mot": "Cérigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Cérigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Cythère",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Flambeau",
+            "type": "PER"
+        },
+        {
+            "mot": "M LES CONTEMPLATIONS Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hymens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malheurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Malh",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cythère",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cérigo",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "LOC"
+        },
+        {
+            "mot": "Juin 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CIMQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "LOC"
+        },
+        {
+            "mot": "Juin 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "CIMQUI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paul M.",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Calvaire",
+            "type": "LOC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paul",
+            "type": "PER"
+        },
+        {
+            "mot": "Paul",
+            "type": "PER"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "août 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "L'",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vis",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "grève d'Aïelte",
+            "type": "LOC"
+        },
+        {
+            "mot": "juillet 1865",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 97 XX",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pasteurs et troupeaux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louise C",
+            "type": "PER"
+        },
+        {
+            "mot": "Rit",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "/.,F^ncense",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Laisse aux buissons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grouville",
+            "type": "LOC"
+        },
+        {
+            "mot": "avril 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Be de Sert",
+            "type": "PER"
+        },
+        {
+            "mot": "août 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "Hameau",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Averne",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Et maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Assise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pxo.serpine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "novembre 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "<unk>J Plaign",
+            "type": "PER"
+        },
+        {
+            "mot": "Plaignaient",
+            "type": "PER"
+        },
+        {
+            "mot": "Passa",
+            "type": "PER"
+        },
+        {
+            "mot": "Sembla",
+            "type": "PER"
+        },
+        {
+            "mot": "Un-vieux",
+            "type": "PER"
+        },
+        {
+            "mot": "Bon père",
+            "type": "PER"
+        },
+        {
+            "mot": "Fils",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME ' 103",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Méditant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Le destin",
+            "type": "MISC"
+        },
+        {
+            "mot": "C",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Florence",
+            "type": "LOC"
+        },
+        {
+            "mot": "Caton",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Caton",
+            "type": "PER"
+        },
+        {
+            "mot": "Caton",
+            "type": "PER"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Jeanne",
+            "type": "PER"
+        },
+        {
+            "mot": "Jeanne d'Arc",
+            "type": "PER"
+        },
+        {
+            "mot": "Campanella",
+            "type": "PER"
+        },
+        {
+            "mot": "Thomas Morus",
+            "type": "PER"
+        },
+        {
+            "mot": "Lavoisier",
+            "type": "PER"
+        },
+        {
+            "mot": "Loiserolle",
+            "type": "PER"
+        },
+        {
+            "mot": "Jane Gray",
+            "type": "PER"
+        },
+        {
+            "mot": "Jane Gray",
+            "type": "PER"
+        },
+        {
+            "mot": "Charlotte Corday",
+            "type": "PER"
+        },
+        {
+            "mot": "madame Roland",
+            "type": "PER"
+        },
+        {
+            "mot": "Camille Desmoulins",
+            "type": "PER"
+        },
+        {
+            "mot": "Robespierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Danton",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean",
+            "type": "PER"
+        },
+        {
+            "mot": "Malesherbes",
+            "type": "PER"
+        },
+        {
+            "mot": "• - Egmont",
+            "type": "PER"
+        },
+        {
+            "mot": "André Chénier",
+            "type": "PER"
+        },
+        {
+            "mot": "Coligny",
+            "type": "PER"
+        },
+        {
+            "mot": "Soçrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Soçrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Huss",
+            "type": "PER"
+        },
+        {
+            "mot": "Thraséas",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "Saint-Just",
+            "type": "PER"
+        },
+        {
+            "mot": "Phocion",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Savonarole",
+            "type": "PER"
+        },
+        {
+            "mot": "Sortait",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVniï",
+            "type": "PER"
+        },
+        {
+            "mot": "CINQUI<unk>ME 105",
+            "type": "MISC"
+        },
+        {
+            "mot": "En",
+            "type": "MISC"
+        },
+        {
+            "mot": "Etienne",
+            "type": "PER"
+        },
+        {
+            "mot": "Rayonne",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": ": CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Golgotha",
+            "type": "LOC"
+        },
+        {
+            "mot": "Christ",
+            "type": "LOC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Trimalcion",
+            "type": "PER"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Jean Huss",
+            "type": "PER"
+        },
+        {
+            "mot": "Messie",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME ^ 10?",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rayon",
+            "type": "PER"
+        },
+        {
+            "mot": "Météore",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Choix",
+            "type": "MISC"
+        },
+        {
+            "mot": "La pourpre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Samson'",
+            "type": "PER"
+        },
+        {
+            "mot": "Gaza",
+            "type": "LOC"
+        },
+        {
+            "mot": "Épictète",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pr.ométhée",
+            "type": "PER"
+        },
+        {
+            "mot": "Job",
+            "type": "PER"
+        },
+        {
+            "mot": "Caucase",
+            "type": "LOC"
+        },
+        {
+            "mot": "Caucase",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME . 103",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Victoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Victoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Kremlin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Kremlin",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nil",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME 111",
+            "type": "MISC"
+        },
+        {
+            "mot": "Espèrel",
+            "type": "PER"
+        },
+        {
+            "mot": "Père",
+            "type": "PER"
+        },
+        {
+            "mot": "Ésope",
+            "type": "PER"
+        },
+        {
+            "mot": "Scarron",
+            "type": "PER"
+        },
+        {
+            "mot": "Zenon",
+            "type": "PER"
+        },
+        {
+            "mot": "Nôn",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Édèn",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Émus",
+            "type": "PER"
+        },
+        {
+            "mot": "Eve",
+            "type": "PER"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abel",
+            "type": "PER"
+        },
+        {
+            "mot": "Caïn",
+            "type": "PER"
+        },
+        {
+            "mot": "Marine-Tcrrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "septembre 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "décembre 1852",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rampe",
+            "type": "PER"
+        },
+        {
+            "mot": "Rampe",
+            "type": "PER"
+        },
+        {
+            "mot": "Justice",
+            "type": "MISC"
+        },
+        {
+            "mot": "J",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Raison",
+            "type": "MISC"
+        },
+        {
+            "mot": "Foi",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lueurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lueurs de Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ame",
+            "type": "PER"
+        },
+        {
+            "mot": "Qu'Amos",
+            "type": "PER"
+        },
+        {
+            "mot": "saint Marc",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Prométhée",
+            "type": "PER"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "dolmen de Rozel",
+            "type": "LOC"
+        },
+        {
+            "mot": "janvier 1853",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chiffre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nombre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "D",
+            "type": "LOC"
+        },
+        {
+            "mot": "dolmen do Rozol",
+            "type": "LOC"
+        },
+        {
+            "mot": "avril 1S53",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jean",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rampe",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "eigneu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Serk",
+            "type": "LOC"
+        },
+        {
+            "mot": "juillet 1853",
+            "type": "DATE"
+        },
+        {
+            "mot": "IVRE SIXI<unk>ME 12S",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ser",
+            "type": "LOC"
+        },
+        {
+            "mot": "k",
+            "type": "PER"
+        },
+        {
+            "mot": "juillet 1853",
+            "type": "DATE"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "SIXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cro",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Fégoïsme",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Incréé",
+            "type": "PER"
+        },
+        {
+            "mot": "Comptons surlui",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Juste",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "que Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marihe-Terracc",
+            "type": "PER"
+        },
+        {
+            "mot": "décembre 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "SIXI<unk>ME 125 VI Pleurs dans la nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Doute",
+            "type": "PER"
+        },
+        {
+            "mot": "Sagesse",
+            "type": "PER"
+        },
+        {
+            "mot": "I",
+            "type": "PER"
+        },
+        {
+            "mot": "Mal",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "mai",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 127 Qu'importe la",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "mai",
+            "type": "DATE"
+        },
+        {
+            "mot": "Alexandre",
+            "type": "PER"
+        },
+        {
+            "mot": "César",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vivons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Peut-<unk>tre",
+            "type": "LOC"
+        },
+        {
+            "mot": "IVRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "'",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "C0NTEAIPLATI0NS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Cambyses",
+            "type": "PER"
+        },
+        {
+            "mot": "Nérons",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE Srxi<unk>ME 131",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "plié six mille ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Nemrod",
+            "type": "PER"
+        },
+        {
+            "mot": "Sforc",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Nemrod",
+            "type": "PER"
+        },
+        {
+            "mot": "Sforce",
+            "type": "PER"
+        },
+        {
+            "mot": "Messaline",
+            "type": "PER"
+        },
+        {
+            "mot": "Cléopâtre",
+            "type": "PER"
+        },
+        {
+            "mot": "Caligula",
+            "type": "PER"
+        },
+        {
+            "mot": "Macrin",
+            "type": "PER"
+        },
+        {
+            "mot": "Achabs",
+            "type": "PER"
+        },
+        {
+            "mot": "Sodomes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Phalaris",
+            "type": "PER"
+        },
+        {
+            "mot": "Charles Neuf",
+            "type": "PER"
+        },
+        {
+            "mot": "Constantin",
+            "type": "PER"
+        },
+        {
+            "mot": "Louis Onze",
+            "type": "PER"
+        },
+        {
+            "mot": "Vitellius",
+            "type": "PER"
+        },
+        {
+            "mot": "Busiris",
+            "type": "PER"
+        },
+        {
+            "mot": "Cyrus",
+            "type": "PER"
+        },
+        {
+            "mot": "Égystes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Électres",
+            "type": "PER"
+        },
+        {
+            "mot": "millions d'années",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Thèbe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Suze",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélus",
+            "type": "PER"
+        },
+        {
+            "mot": "Tyr",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sylla",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sylla",
+            "type": "PER"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Informe",
+            "type": "PER"
+        },
+        {
+            "mot": "Tibère",
+            "type": "PER"
+        },
+        {
+            "mot": "Borgia",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Miséricorde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Miséricorde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Grâce",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grâce",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 133Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "133Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "noui",
+            "type": "PER"
+        },
+        {
+            "mot": "Vésuve",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Oc",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vésuve",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Océan superbe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "terner",
+            "type": "PER"
+        },
+        {
+            "mot": "Abîme de douleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Derrière le tombeau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Terre",
+            "type": "LOC"
+        },
+        {
+            "mot": "éantes",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gla",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grelotte",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XII",
+            "type": "MISC"
+        },
+        {
+            "mot": "Puissant",
+            "type": "LOC"
+        },
+        {
+            "mot": "Je",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pyramide",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chéops",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chéops",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ville",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ville",
+            "type": "LOC"
+        },
+        {
+            "mot": "Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luire",
+            "type": "PER"
+        },
+        {
+            "mot": "Thè",
+            "type": "PER"
+        },
+        {
+            "mot": "Thèbes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "Thèbes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ninive",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ninive",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tyr",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "s",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vivre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Évanouissement",
+            "type": "LOC"
+        },
+        {
+            "mot": "<unk>xvi-.",
+            "type": "PER"
+        },
+        {
+            "mot": "Éternité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nombre",
+            "type": "PER"
+        },
+        {
+            "mot": "Destin",
+            "type": "PER"
+        },
+        {
+            "mot": "Deutz",
+            "type": "PER"
+        },
+        {
+            "mot": "Judas",
+            "type": "PER"
+        },
+        {
+            "mot": "Nemrod",
+            "type": "PER"
+        },
+        {
+            "mot": "Schinderhannès",
+            "type": "PER"
+        },
+        {
+            "mot": "Hoppes",
+            "type": "PER"
+        },
+        {
+            "mot": "Kant",
+            "type": "PER"
+        },
+        {
+            "mot": "Kant",
+            "type": "PER"
+        },
+        {
+            "mot": "Immobiles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ta",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk> ME <unk>4fr",
+            "type": "MISC"
+        },
+        {
+            "mot": "Zenon",
+            "type": "PER"
+        },
+        {
+            "mot": "Pyrrhon",
+            "type": "PER"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Spinosa",
+            "type": "PER"
+        },
+        {
+            "mot": "Gouffres",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oui",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Médite",
+            "type": "PER"
+        },
+        {
+            "mot": "Ru",
+            "type": "PER"
+        },
+        {
+            "mot": "Pardon, Seigneur!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "cimetière de Saint Jean",
+            "type": "LOC"
+        },
+        {
+            "mot": "avril 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Patmos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jean",
+            "type": "PER"
+        },
+        {
+            "mot": "H",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "septembre 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "Claire",
+            "type": "PER"
+        },
+        {
+            "mot": "Errer",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ruth",
+            "type": "PER"
+        },
+        {
+            "mot": "Ruth",
+            "type": "PER"
+        },
+        {
+            "mot": "MeNe",
+            "type": "PER"
+        },
+        {
+            "mot": "MeNe",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jiagaïd",
+            "type": "PER"
+        },
+        {
+            "mot": "Fombre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Belle",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lueur",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Am",
+            "type": "MISC"
+        },
+        {
+            "mot": "e",
+            "type": "PER"
+        },
+        {
+            "mot": "'Ame",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant en",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mère",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "azurr",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Jacobi",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": ".Pierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus à.Pierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "COH",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tristes",
+            "type": "PER"
+        },
+        {
+            "mot": "Lejirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "encore un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Décembre 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CO",
+            "type": "MISC"
+        },
+        {
+            "mot": "Décembre 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le monde",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "II Nuits,",
+            "type": "MISC"
+        },
+        {
+            "mot": "II Nuits",
+            "type": "MISC"
+        },
+        {
+            "mot": "Aldebaran",
+            "type": "PER"
+        },
+        {
+            "mot": "Saturne",
+            "type": "PER"
+        },
+        {
+            "mot": "Gés",
+            "type": "PER"
+        },
+        {
+            "mot": "Sirius",
+            "type": "PER"
+        },
+        {
+            "mot": "Orion",
+            "type": "PER"
+        },
+        {
+            "mot": "V.énus",
+            "type": "PER"
+        },
+        {
+            "mot": "avril",
+            "type": "DATE"
+        },
+        {
+            "mot": "D",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Midi",
+            "type": "LOC"
+        },
+        {
+            "mot": "LES: CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Éternels",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Cal",
+            "type": "PER"
+        },
+        {
+            "mot": "al",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Vit",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 157 IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain le",
+            "type": "DATE"
+        },
+        {
+            "mot": "Créatur",
+            "type": "PER"
+        },
+        {
+            "mot": "Infini",
+            "type": "LOC"
+        },
+        {
+            "mot": "1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS X Éclaircie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Onde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Aime!",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dore les champs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dore",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "juillet 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XI",
+            "type": "MISC"
+        },
+        {
+            "mot": "ster",
+            "type": "PER"
+        },
+        {
+            "mot": "Juin 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME ïël_ XII Aux anges",
+            "type": "MISC"
+        },
+        {
+            "mot": "voient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Juin 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Innomme",
+            "type": "PER"
+        },
+        {
+            "mot": "Forme,'WE",
+            "type": "PER"
+        },
+        {
+            "mot": "LtVRE SIXI<unk>ME 163",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "août 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "1853",
+            "type": "DATE"
+        },
+        {
+            "mot": "16j",
+            "type": "DATE"
+        },
+        {
+            "mot": "eTombre",
+            "type": "PER"
+        },
+        {
+            "mot": "Me",
+            "type": "PER"
+        },
+        {
+            "mot": "Me",
+            "type": "PER"
+        },
+        {
+            "mot": "Flambeau",
+            "type": "PER"
+        },
+        {
+            "mot": "Ame",
+            "type": "PER"
+        },
+        {
+            "mot": "'-HToi",
+            "type": "PER"
+        },
+        {
+            "mot": "lTnconnù",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Idéal",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Amour! Marine-Terrace",
+            "type": "MISC"
+        },
+        {
+            "mot": "janvier 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVI H o",
+            "type": "MISC"
+        },
+        {
+            "mot": "minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "Passent",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Abîme",
+            "type": "PER"
+        },
+        {
+            "mot": "Ab",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 17J",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Job",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Césars",
+            "type": "PER"
+        },
+        {
+            "mot": "quatre mjlle ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Saturne",
+            "type": "PER"
+        },
+        {
+            "mot": "Téther taciturne",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu'Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Jéhovah!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "30 mars 1864",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Création",
+            "type": "MISC"
+        },
+        {
+            "mot": "Isis",
+            "type": "PER"
+        },
+        {
+            "mot": "Ha",
+            "type": "LOC"
+        },
+        {
+            "mot": "Corbeaux",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE S1XIJ<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "3ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Incréé",
+            "type": "PER"
+        },
+        {
+            "mot": ";Msspniie",
+            "type": "PER"
+        },
+        {
+            "mot": "Stupide",
+            "type": "MISC"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "I'<unk>tre",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "'",
+            "type": "MISC"
+        },
+        {
+            "mot": "<unk>tre",
+            "type": "PER"
+        },
+        {
+            "mot": "Ahl",
+            "type": "PER"
+        },
+        {
+            "mot": "d?Éve",
+            "type": "PER"
+        },
+        {
+            "mot": "Les.souffrances",
+            "type": "MISC"
+        },
+        {
+            "mot": "Monter",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Olympe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Calvaire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jésus-Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Piien",
+            "type": "PER"
+        },
+        {
+            "mot": "us",
+            "type": "PER"
+        },
+        {
+            "mot": "Piien",
+            "type": "PER"
+        },
+        {
+            "mot": "DIEU",
+            "type": "PER"
+        },
+        {
+            "mot": "Marinc-Terrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "31 mars 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "31 mars 1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "O",
+            "type": "PER"
+        },
+        {
+            "mot": "i",
+            "type": "LOC"
+        },
+        {
+            "mot": "ion",
+            "type": "PER"
+        },
+        {
+            "mot": "Sirius",
+            "type": "PER"
+        },
+        {
+            "mot": "Mars",
+            "type": "PER"
+        },
+        {
+            "mot": "Jupiter",
+            "type": "PER"
+        },
+        {
+            "mot": ",",
+            "type": "LOC"
+        },
+        {
+            "mot": "-Mercure",
+            "type": "PER"
+        },
+        {
+            "mot": "ternité",
+            "type": "PER"
+        },
+        {
+            "mot": "Faigle",
+            "type": "MISC"
+        },
+        {
+            "mot": "dolmen de la Corbière",
+            "type": "LOC"
+        },
+        {
+            "mot": "juin 1S55",
+            "type": "DATE"
+        },
+        {
+            "mot": "IVRE SIXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un aveugle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus-Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Rousseau",
+            "type": "PER"
+        },
+        {
+            "mot": "Maistre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Ton",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "PER"
+        },
+        {
+            "mot": "octobre 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME-",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Néant",
+            "type": "PER"
+        },
+        {
+            "mot": "Néant",
+            "type": "PER"
+        },
+        {
+            "mot": "Songeur",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermann",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Marine-Terrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "octobre 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS XXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "S CONTEMPLATIONS XXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'immensité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Janvier 1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "La sombre égalité",
+            "type": "MISC"
+        },
+        {
+            "mot": "tour Blanche",
+            "type": "LOC"
+        },
+        {
+            "mot": "Morls",
+            "type": "MISC"
+        },
+        {
+            "mot": "1854",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XXIII",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgiles",
+            "type": "PER"
+        },
+        {
+            "mot": "Isaïes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Virgiles",
+            "type": "PER"
+        },
+        {
+            "mot": "Isaïes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Concentre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Horebs",
+            "type": "LOC"
+        },
+        {
+            "mot": "Thabors",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "David",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Hésiode",
+            "type": "PER"
+        },
+        {
+            "mot": "Moïse",
+            "type": "PER"
+        },
+        {
+            "mot": "Manès",
+            "type": "PER"
+        },
+        {
+            "mot": "Patmos",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tyatie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Demain 1 demain!",
+            "type": "DATE"
+        },
+        {
+            "mot": "Eschyle",
+            "type": "PER"
+        },
+        {
+            "mot": "Dodone",
+            "type": "PER"
+        },
+        {
+            "mot": "Milton",
+            "type": "PER"
+        },
+        {
+            "mot": "Whitehall",
+            "type": "PER"
+        },
+        {
+            "mot": "Shakspeâre",
+            "type": "PER"
+        },
+        {
+            "mot": "Whitehall",
+            "type": "PER"
+        },
+        {
+            "mot": "Shakspeâre",
+            "type": "PER"
+        },
+        {
+            "mot": "Archimède",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Euclide",
+            "type": "PER"
+        },
+        {
+            "mot": "Kopernic",
+            "type": "PER"
+        },
+        {
+            "mot": "Thaïes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pythagores",
+            "type": "PER"
+        },
+        {
+            "mot": "Pythagores",
+            "type": "PER"
+        },
+        {
+            "mot": "Aristophane",
+            "type": "PER"
+        },
+        {
+            "mot": "Lucrèce",
+            "type": "PER"
+        },
+        {
+            "mot": "Uaurore",
+            "type": "PER"
+        },
+        {
+            "mot": "Thébaïdes",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIVRE SIX",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jérôme",
+            "type": "PER"
+        },
+        {
+            "mot": "Élie",
+            "type": "PER"
+        },
+        {
+            "mot": "Amos",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Saint Paul",
+            "type": "PER"
+        },
+        {
+            "mot": "Cythérée",
+            "type": "PER"
+        },
+        {
+            "mot": "Isis",
+            "type": "PER"
+        },
+        {
+            "mot": "Astarté",
+            "type": "PER"
+        },
+        {
+            "mot": "Géant",
+            "type": "PER"
+        },
+        {
+            "mot": "Orphée",
+            "type": "PER"
+        },
+        {
+            "mot": "Barucb",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mettez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pindares",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pelions",
+            "type": "LOC"
+        },
+        {
+            "mot": "Daniel",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tacite",
+            "type": "PER"
+        },
+        {
+            "mot": "Perse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Archiloque",
+            "type": "PER"
+        },
+        {
+            "mot": "Jérémie",
+            "type": "PER"
+        },
+        {
+            "mot": "Scarron",
+            "type": "PER"
+        },
+        {
+            "mot": "Ésope",
+            "type": "PER"
+        },
+        {
+            "mot": "Cervante",
+            "type": "PER"
+        },
+        {
+            "mot": "Molière",
+            "type": "PER"
+        },
+        {
+            "mot": "Démocrite",
+            "type": "PER"
+        },
+        {
+            "mot": "Térence",
+            "type": "PER"
+        },
+        {
+            "mot": "Rabelais",
+            "type": "PER"
+        },
+        {
+            "mot": "Adam",
+            "type": "PER"
+        },
+        {
+            "mot": "Plaute",
+            "type": "PER"
+        },
+        {
+            "mot": "Arioste",
+            "type": "PER"
+        },
+        {
+            "mot": "Médor",
+            "type": "PER"
+        },
+        {
+            "mot": "Catulle",
+            "type": "PER"
+        },
+        {
+            "mot": "Horace",
+            "type": "PER"
+        },
+        {
+            "mot": "Dioscure",
+            "type": "PER"
+        },
+        {
+            "mot": "Anacréon",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Épicure",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Etna",
+            "type": "PER"
+        },
+        {
+            "mot": "IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "SIXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gluck",
+            "type": "PER"
+        },
+        {
+            "mot": "Beethoven",
+            "type": "PER"
+        },
+        {
+            "mot": "Jacob",
+            "type": "PER"
+        },
+        {
+            "mot": "Mozart",
+            "type": "PER"
+        },
+        {
+            "mot": "Pergolèse",
+            "type": "PER"
+        },
+        {
+            "mot": "Stabat",
+            "type": "MISC"
+        },
+        {
+            "mot": "Piranèse",
+            "type": "PER"
+        },
+        {
+            "mot": "J",
+            "type": "LOC"
+        },
+        {
+            "mot": "Babel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bramante",
+            "type": "PER"
+        },
+        {
+            "mot": "Vaticane",
+            "type": "LOC"
+        },
+        {
+            "mot": "Phidias",
+            "type": "PER"
+        },
+        {
+            "mot": "Parthénon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Buonarotti",
+            "type": "PER"
+        },
+        {
+            "mot": "Michel-Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "Lysippe",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Ithome",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rembrandt",
+            "type": "PER"
+        },
+        {
+            "mot": "Primatice",
+            "type": "MISC"
+        },
+        {
+            "mot": "Job",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 193",
+            "type": "MISC"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES! CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "-",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ténèbres!",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Inconnu",
+            "type": "MISC"
+        },
+        {
+            "mot": "- V",
+            "type": "PER"
+        },
+        {
+            "mot": "V",
+            "type": "PER"
+        },
+        {
+            "mot": "<unk>V",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 195",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'océan plein de Jéhovah",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fange",
+            "type": "MISC"
+        },
+        {
+            "mot": "Shakspeare",
+            "type": "PER"
+        },
+        {
+            "mot": "Newton",
+            "type": "PER"
+        },
+        {
+            "mot": "Ptolémée",
+            "type": "PER"
+        },
+        {
+            "mot": "Zoroastre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Scalpel",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bretagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Archipel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pléiades",
+            "type": "LOC"
+        },
+        {
+            "mot": "Herschell",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jéh",
+            "type": "PER"
+        },
+        {
+            "mot": "ova",
+            "type": "MISC"
+        },
+        {
+            "mot": "h",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Salomôns",
+            "type": "PER"
+        },
+        {
+            "mot": "V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ézéchiel",
+            "type": "PER"
+        },
+        {
+            "mot": "Ézéchiel",
+            "type": "PER"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'",
+            "type": "PER"
+        },
+        {
+            "mot": "Ouragan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Création",
+            "type": "MISC"
+        },
+        {
+            "mot": "Création",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jb LIVRE SIXI<unk>ME 201",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quito",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Hekla",
+            "type": "LOC"
+        },
+        {
+            "mot": "Barbarie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Esprit",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "PER"
+        },
+        {
+            "mot": "'Esprit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Homère",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Volta",
+            "type": "PER"
+        },
+        {
+            "mot": "Fluides",
+            "type": "MISC"
+        },
+        {
+            "mot": "Franklin",
+            "type": "PER"
+        },
+        {
+            "mot": "Tonnerre",
+            "type": "PER"
+        },
+        {
+            "mot": "Franklin",
+            "type": "PER"
+        },
+        {
+            "mot": "Tonnerre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Flot",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fulton",
+            "type": "PER"
+        },
+        {
+            "mot": "Rousseau",
+            "type": "PER"
+        },
+        {
+            "mot": "Haine",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Esclavage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "La Grève",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tyburn",
+            "type": "MISC"
+        },
+        {
+            "mot": "Montfaucon",
+            "type": "MISC"
+        },
+        {
+            "mot": "On meurt",
+            "type": "MISC"
+        },
+        {
+            "mot": "Beccaria",
+            "type": "PER"
+        },
+        {
+            "mot": "Silence",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Blanchir la voile",
+            "type": "MISC"
+        },
+        {
+            "mot": "Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "Orphée",
+            "type": "PER"
+        },
+        {
+            "mot": "Jason",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Gama",
+            "type": "PER"
+        },
+        {
+            "mot": "Camoëns",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caucase",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dansd'infin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dansd",
+            "type": "MISC"
+        },
+        {
+            "mot": "Prométhée",
+            "type": "PER"
+        },
+        {
+            "mot": "XI Ohl",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Légion",
+            "type": "PER"
+        },
+        {
+            "mot": "Légion",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Enfer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Ixion",
+            "type": "PER"
+        },
+        {
+            "mot": "Inde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Egypte",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grèce",
+            "type": "LOC"
+        },
+        {
+            "mot": "Judée",
+            "type": "LOC"
+        },
+        {
+            "mot": "Inde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Egypte",
+            "type": "LOC"
+        },
+        {
+            "mot": "Grèce",
+            "type": "LOC"
+        },
+        {
+            "mot": "Judée",
+            "type": "LOC"
+        },
+        {
+            "mot": "montagné",
+            "type": "PER"
+        },
+        {
+            "mot": "Faile",
+            "type": "PER"
+        },
+        {
+            "mot": "Janvier 1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES, CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mariae-Terrace",
+            "type": "LOC"
+        },
+        {
+            "mot": "4 septembre 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS XX",
+            "type": "MISC"
+        },
+        {
+            "mot": "JÉHOVAH",
+            "type": "MISC"
+        },
+        {
+            "mot": "Minuit",
+            "type": "LOC"
+        },
+        {
+            "mot": "dolmen du Faldouet",
+            "type": "LOC"
+        },
+        {
+            "mot": "mars 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "aldouet",
+            "type": "PER"
+        },
+        {
+            "mot": "mars 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "SIXI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rozel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "210' LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ragan",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Verbe",
+            "type": "PER"
+        },
+        {
+            "mot": "Tout",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tout",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieti",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk> ME 2<unk>1",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Or,;la-première-Lfaute",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Fuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "fro",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jacob",
+            "type": "PER"
+        },
+        {
+            "mot": "Caton",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Don",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour,",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LESCOMiESrPl.A<unk>'IOIVS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Suffit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crime",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "As",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVKE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tibère",
+            "type": "PER"
+        },
+        {
+            "mot": "Séjan",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nemrod",
+            "type": "PER"
+        },
+        {
+            "mot": "Dalila",
+            "type": "PER"
+        },
+        {
+            "mot": "Phryné",
+            "type": "PER"
+        },
+        {
+            "mot": "Clytemnestre",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Égysthe",
+            "type": "PER"
+        },
+        {
+            "mot": "Clytemnestre",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Égysthe",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Anitus",
+            "type": "PER"
+        },
+        {
+            "mot": "Zoïle",
+            "type": "PER"
+        },
+        {
+            "mot": "Ganelon",
+            "type": "PER"
+        },
+        {
+            "mot": "Brunehaut",
+            "type": "PER"
+        },
+        {
+            "mot": "Frédégonde",
+            "type": "PER"
+        },
+        {
+            "mot": "duc d'Albe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe Deux",
+            "type": "PER"
+        },
+        {
+            "mot": "Farinace",
+            "type": "PER"
+        },
+        {
+            "mot": "L'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jeffryes",
+            "type": "PER"
+        },
+        {
+            "mot": "Tristan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Macbeth",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ezzelin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Richard",
+            "type": "MISC"
+        },
+        {
+            "mot": "Trois",
+            "type": "PER"
+        },
+        {
+            "mot": "Carrier",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ludovic Sforee",
+            "type": "PER"
+        },
+        {
+            "mot": "Messaline",
+            "type": "MISC"
+        },
+        {
+            "mot": "Isabeau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Claude",
+            "type": "PER"
+        },
+        {
+            "mot": "Xerxès",
+            "type": "PER"
+        },
+        {
+            "mot": "Charles Neuf",
+            "type": "PER"
+        },
+        {
+            "mot": "Hérode",
+            "type": "PER"
+        },
+        {
+            "mot": "Judas",
+            "type": "PER"
+        },
+        {
+            "mot": "dix-huit cents ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sodomes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mêle",
+            "type": "PER"
+        },
+        {
+            "mot": "Érostrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Néron",
+            "type": "PER"
+        },
+        {
+            "mot": "Néron",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tâche",
+            "type": "LOC"
+        },
+        {
+            "mot": "Octave",
+            "type": "PER"
+        },
+        {
+            "mot": "Attila",
+            "type": "PER"
+        },
+        {
+            "mot": "Cléopâtre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pierre",
+            "type": "PER"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Inde",
+            "type": "LOC"
+        },
+        {
+            "mot": "Horribl",
+            "type": "PER"
+        },
+        {
+            "mot": "Horrible",
+            "type": "PER"
+        },
+        {
+            "mot": "Efface",
+            "type": "PER"
+        },
+        {
+            "mot": "rbre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "L'",
+            "type": "PER"
+        },
+        {
+            "mot": "L'",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermès",
+            "type": "PER"
+        },
+        {
+            "mot": "Sourd",
+            "type": "MISC"
+        },
+        {
+            "mot": "Babel",
+            "type": "LOC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Socrate",
+            "type": "PER"
+        },
+        {
+            "mot": "Aspasie",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME 223",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voit Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Eve",
+            "type": "PER"
+        },
+        {
+            "mot": "c",
+            "type": "MISC"
+        },
+        {
+            "mot": "Néron",
+            "type": "PER"
+        },
+        {
+            "mot": "Louvre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Or,",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Creuse",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Typhon",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPL",
+            "type": "MISC"
+        },
+        {
+            "mot": "Domitien",
+            "type": "PER"
+        },
+        {
+            "mot": "César",
+            "type": "PER"
+        },
+        {
+            "mot": "Tigre",
+            "type": "PER"
+        },
+        {
+            "mot": "Verres",
+            "type": "PER"
+        },
+        {
+            "mot": "Verres",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "ig",
+            "type": "PER"
+        },
+        {
+            "mot": "Assassin",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seul,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tombent",
+            "type": "MISC"
+        },
+        {
+            "mot": "2.30.",
+            "type": "DATE"
+        },
+        {
+            "mot": "CON",
+            "type": "MISC"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Àtrée",
+            "type": "PER"
+        },
+        {
+            "mot": "Tjmour",
+            "type": "PER"
+        },
+        {
+            "mot": "-Caïphe",
+            "type": "PER"
+        },
+        {
+            "mot": ". Pilate",
+            "type": "PER"
+        },
+        {
+            "mot": "Alaric",
+            "type": "PER"
+        },
+        {
+            "mot": "Henri Huit",
+            "type": "PER"
+        },
+        {
+            "mot": ".Morus;.en",
+            "type": "PER"
+        },
+        {
+            "mot": "vain",
+            "type": "PER"
+        },
+        {
+            "mot": "Selim",
+            "type": "PER"
+        },
+        {
+            "mot": "Borgia",
+            "type": "PER"
+        },
+        {
+            "mot": "Selim",
+            "type": "PER"
+        },
+        {
+            "mot": "Borgia",
+            "type": "PER"
+        },
+        {
+            "mot": "Pardon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Esp",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "cieL",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jéh",
+            "type": "PER"
+        },
+        {
+            "mot": "ova",
+            "type": "MISC"
+        },
+        {
+            "mot": "h",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "bagnes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LES. CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Job",
+            "type": "PER"
+        },
+        {
+            "mot": ".H",
+            "type": "LOC"
+        },
+        {
+            "mot": "auteur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Bélial",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Ces",
+            "type": "PER"
+        },
+        {
+            "mot": "era",
+            "type": "PER"
+        },
+        {
+            "mot": "Criera",
+            "type": "PER"
+        },
+        {
+            "mot": "Commencement!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jersey",
+            "type": "LOC"
+        },
+        {
+            "mot": "1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Tout",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Hélas!...",
+            "type": "MISC"
+        },
+        {
+            "mot": "quatre ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "ierre",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Attentive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quelqu",
+            "type": "PER"
+        },
+        {
+            "mot": "'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quelqu'un",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Harfleur",
+            "type": "LOC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lazare",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "Murmure",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Forage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Humanité",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "années",
+            "type": "DATE"
+        },
+        {
+            "mot": "CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "aujourd'hui dans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Solime",
+            "type": "LOC"
+        },
+        {
+            "mot": "NotrerDame",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rouen",
+            "type": "LOC"
+        },
+        {
+            "mot": "Villequier",
+            "type": "LOC"
+        },
+        {
+            "mot": "Caudebec",
+            "type": "LOC"
+        },
+        {
+            "mot": "Horeb",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cédron",
+            "type": "LOC"
+        },
+        {
+            "mot": "Balbeck",
+            "type": "LOC"
+        },
+        {
+            "mot": "II",
+            "type": "MISC"
+        },
+        {
+            "mot": "LES CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ahl",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "une seconde",
+            "type": "DATE"
+        },
+        {
+            "mot": "Et",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tempête",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mers, nuits!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mers, nuits",
+            "type": "MISC"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "V'TII Oh",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gethsémani",
+            "type": "PER"
+        },
+        {
+            "mot": "Quelqu",
+            "type": "PER"
+        },
+        {
+            "mot": "LÉS CONTEMPLATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paix à l",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Ombré",
+            "type": "PER"
+        },
+        {
+            "mot": "Dormez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paix",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Ombré",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dormez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dormez!",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "ligion",
+            "type": "PER"
+        },
+        {
+            "mot": "l'<unk>tre",
+            "type": "PER"
+        },
+        {
+            "mot": "P",
+            "type": "MISC"
+        },
+        {
+            "mot": "FRANCE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Guernesey",
+            "type": "LOC"
+        },
+        {
+            "mot": "2 novembre 1S",
+            "type": "DATE"
+        },
+        {
+            "mot": "IN DE L'OUVBAG",
+            "type": "PER"
+        },
+        {
+            "mot": "1843—1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE QUATRIEME PAUCAIM",
+            "type": "MISC"
+        },
+        {
+            "mot": "1843—1856",
+            "type": "DATE"
+        },
+        {
+            "mot": "LIVRE QUATRIEME PAUCAIM",
+            "type": "MISC"
+        },
+        {
+            "mot": "II 15 février 1843 9 III Trois ans après",
+            "type": "DATE"
+        },
+        {
+            "mot": "OI",
+            "type": "MISC"
+        },
+        {
+            "mot": "Lqui",
+            "type": "MISC"
+        },
+        {
+            "mot": "25",
+            "type": "DATE"
+        },
+        {
+            "mot": "X",
+            "type": "MISC"
+        },
+        {
+            "mot": "27 XI",
+            "type": "DATE"
+        },
+        {
+            "mot": "XII",
+            "type": "DATE"
+        },
+        {
+            "mot": "XIII",
+            "type": "DATE"
+        },
+        {
+            "mot": "<unk>V",
+            "type": "MISC"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Villequier",
+            "type": "PER"
+        },
+        {
+            "mot": "Mors",
+            "type": "MISC"
+        },
+        {
+            "mot": "Charles Vacquerie",
+            "type": "PER"
+        },
+        {
+            "mot": "LIVRE CINQUI<unk>ME",
+            "type": "MISC"
+        },
+        {
+            "mot": "MARCHE",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Aug. V",
+            "type": "MISC"
+        },
+        {
+            "mot": "en 1846",
+            "type": "DATE"
+        },
+        {
+            "mot": "en 1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "V A",
+            "type": "MISC"
+        },
+        {
+            "mot": "mademoiselle Louise B",
+            "type": "PER"
+        },
+        {
+            "mot": "VI",
+            "type": "MISC"
+        },
+        {
+            "mot": "V A mademoiselle Louise B",
+            "type": "MISC"
+        },
+        {
+            "mot": "VI A vous",
+            "type": "MISC"
+        },
+        {
+            "mot": "VII Pour",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIII A Jules J",
+            "type": "MISC"
+        },
+        {
+            "mot": "IX Le mendiant",
+            "type": "MISC"
+        },
+        {
+            "mot": "X Aux feuillantines",
+            "type": "MISC"
+        },
+        {
+            "mot": "XI Ponto",
+            "type": "MISC"
+        },
+        {
+            "mot": "XII Dolorosa",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIII Paroles sur la dune",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIV Claire P •",
+            "type": "MISC"
+        },
+        {
+            "mot": "XV A Alexandre D S5 XVI Lueur au couchant",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVII Slugitusque boum",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVIII Apparition",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIX Au poëtô",
+            "type": "MISC"
+        },
+        {
+            "mot": "Céngo -",
+            "type": "MISC"
+        },
+        {
+            "mot": "TABLE Pap(!S XXI A Paul M",
+            "type": "MISC"
+        },
+        {
+            "mot": "Relieur",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXI A Paul M",
+            "type": "MISC"
+        },
+        {
+            "mot": "Relieur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Heur",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVI Les malheureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "LIVRE SIXI<unk>ME AD BORD DE L'INFINI I Le",
+            "type": "MISC"
+        },
+        {
+            "mot": "Écoutez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jean",
+            "type": "MISC"
+        },
+        {
+            "mot": "Croire",
+            "type": "MISC"
+        },
+        {
+            "mot": "VI Pleurs dans la nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "VII Un jour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vin Claire",
+            "type": "MISC"
+        },
+        {
+            "mot": "X Éclaircie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oh",
+            "type": "MISC"
+        },
+        {
+            "mot": "XII Aux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cadaver",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIV",
+            "type": "MISC"
+        },
+        {
+            "mot": "XVI Horror",
+            "type": "MISC"
+        },
+        {
+            "mot": "I Dolor",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vovagedenuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIX Vovagedenuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXUeiligio",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXI Spes",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXII Ce",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXIII Les mages",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXIV En",
+            "type": "MISC"
+        },
+        {
+            "mot": "XXV Nomen",
+            "type": "MISC"
+        },
+        {
+            "mot": "8",
+            "type": "DATE"
+        },
+        {
+            "mot": "XXVI Ce",
+            "type": "MISC"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Leipzig",
+            "type": "LOC"
+        },
+        {
+            "mot": "Splmimsfi",
+            "type": "LOC"
+        },
+        {
+            "mot": "Librairie",
+            "type": "LOC"
+        },
+        {
+            "mot": "AlCX. Dlin",
+            "type": "MISC"
+        },
+        {
+            "mot": "i",
+            "type": "PER"
+        },
+        {
+            "mot": "ilS, LE LI<unk> VRE DE MON GRAND-P<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tll. Gautier",
+            "type": "PER"
+        },
+        {
+            "mot": "AVATAR",
+            "type": "MISC"
+        },
+        {
+            "mot": "X. de MOlltëp<unk>l",
+            "type": "PER"
+        },
+        {
+            "mot": "UN DRAME DANS LES MONTAGNES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Eugène SUC",
+            "type": "PER"
+        },
+        {
+            "mot": ", LES FILS DE FAMILLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Quatre Nouvelles couronnées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sociéié des Gens de lettres",
+            "type": "ORG"
+        },
+        {
+            "mot": "Mine d'AuilCt",
+            "type": "PER"
+        },
+        {
+            "mot": "UN MARIAGE EN PROVINCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mme la Comtesse Nathalie, LA VILLA GALI<unk> TT<unk>",
+            "type": "MISC"
+        },
+        {
+            "mot": "flunià'",
+            "type": "MISC"
+        },
+        {
+            "mot": "f",
+            "type": "MISC"
+        },
+        {
+            "mot": "S",
+            "type": "MISC"
+        },
+        {
+            "mot": "halie,",
+            "type": "PER"
+        },
+        {
+            "mot": "LA VILLA GALI<unk> TT<unk>",
+            "type": "MISC"
+        },
+        {
+            "mot": "A. flunià's fïlS",
+            "type": "PER"
+        },
+        {
+            "mot": "SO",
+            "type": "PER"
+        },
+        {
+            "mot": "PH",
+            "type": "MISC"
+        },
+        {
+            "mot": "IE PRINTEMS",
+            "type": "PER"
+        },
+        {
+            "mot": "Amedéc Achai'd",
+            "type": "PER"
+        },
+        {
+            "mot": "MLLE DU HOSIER. --THÉR<unk>SE",
+            "type": "MISC"
+        },
+        {
+            "mot": ".",
+            "type": "PER"
+        },
+        {
+            "mot": "PaulFéval",
+            "type": "PER"
+        },
+        {
+            "mot": ", MADAME PISTACHE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mme la PrinCCSSe BelgiOJOSO",
+            "type": "PER"
+        },
+        {
+            "mot": "É.MINA",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA NI<unk>CE DE MADAME DE SALLEBRON",
+            "type": "MISC"
+        },
+        {
+            "mot": "Camille llulilC",
+            "type": "PER"
+        },
+        {
+            "mot": "Mme de GrandfOl't",
+            "type": "PER"
+        },
+        {
+            "mot": ", MADAME N'EST PAS CHEZ ELLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "UNE ..; :s.. BONNE FORTUNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cliàrles Grandvallet",
+            "type": "PER"
+        },
+        {
+            "mot": "ilënri Conscience",
+            "type": "PER"
+        },
+        {
+            "mot": ", LE BONHEUR D'<unk>TRE RICHE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Théodore Anne",
+            "type": "PER"
+        },
+        {
+            "mot": ", LA REINE DE PARIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Edmond AbOUt",
+            "type": "PER"
+        },
+        {
+            "mot": ", L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Anne",
+            "type": "PER"
+        },
+        {
+            "mot": "LA REINE DE PARIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Edmond AbOUt",
+            "type": "PER"
+        },
+        {
+            "mot": "LES MARIAGES DE PARIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA M<unk>RE DE LA MARQUISE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mme Ana'<unk>S SegalaS",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MIROIR DU DIAI<unk>LE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE MOULIN •-.--'•<unk>AiîANDoraÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "niiipolyte Castiljër",
+            "type": "PER"
+        },
+        {
+            "mot": "Pâul'DupleSSiS",
+            "type": "PER"
+        },
+        {
+            "mot": "LES BOUCANIERS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Emile Carrcy",
+            "type": "PER"
+        },
+        {
+            "mot": "L'AMAZONE",
+            "type": "MISC"
+        }
+    ]
+}

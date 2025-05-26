@@ -1,0 +1,6668 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poésie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madame d'Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Sophie d'Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "P. de Barante",
+            "type": "PER"
+        },
+        {
+            "mot": "Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Sophie d'",
+            "type": "PER"
+        },
+        {
+            "mot": "(1810-1850)",
+            "type": "DATE"
+        },
+        {
+            "mot": ".",
+            "type": "PER"
+        },
+        {
+            "mot": "Amyot",
+            "type": "ORG"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1855",
+            "type": "DATE"
+        },
+        {
+            "mot": "Barante, Prosper Brugière baron de",
+            "type": "PER"
+        },
+        {
+            "mot": "(1782-1866",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Littérature",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "27/01/2019",
+            "type": "DATE"
+        },
+        {
+            "mot": "POÉSIES ET NOUVELLES TYPOGRAPHIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "CH. LAHURE",
+            "type": "PER"
+        },
+        {
+            "mot": "Imprim",
+            "type": "ORG"
+        },
+        {
+            "mot": "Sénat",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cour de Cassation rue de Vaugirard",
+            "type": "LOC"
+        },
+        {
+            "mot": "POÉSIES ET NOUVELLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "MADAME D'ARBOUVILLE",
+            "type": "PER"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LIBRAIRIE D’AMYOT",
+            "type": "ORG"
+        },
+        {
+            "mot": "EDIT",
+            "type": "ORG"
+        },
+        {
+            "mot": "rue de la Paix W<unk> B<unk>M",
+            "type": "LOC"
+        },
+        {
+            "mot": "W<unk>B",
+            "type": "PER"
+        },
+        {
+            "mot": "M",
+            "type": "PER"
+        },
+        {
+            "mot": "M me d’ARBOU VILLE",
+            "type": "PER"
+        },
+        {
+            "mot": "Nouvelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nouvelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "M mc d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Nouvelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Nouvelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Sophie de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "le 29 octobre 1810",
+            "type": "DATE"
+        },
+        {
+            "mot": "Élisa de Houdetot",
+            "type": "PER"
+        },
+        {
+            "mot": "l’année précédente",
+            "type": "DATE"
+        },
+        {
+            "mot": "baron de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "dix ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "comtesse de Houdetot",
+            "type": "PER"
+        },
+        {
+            "mot": "M lle de Houdetot",
+            "type": "PER"
+        },
+        {
+            "mot": "dernières années",
+            "type": "DATE"
+        },
+        {
+            "mot": "premières années",
+            "type": "DATE"
+        },
+        {
+            "mot": "M ile de Houdelot",
+            "type": "PER"
+        },
+        {
+            "mot": "Sophie",
+            "type": "PER"
+        },
+        {
+            "mot": "M me de Houdetot",
+            "type": "PER"
+        },
+        {
+            "mot": "M me de La Briclie",
+            "type": "PER"
+        },
+        {
+            "mot": "M rne Molé",
+            "type": "PER"
+        },
+        {
+            "mot": "Révolu",
+            "type": "PER"
+        },
+        {
+            "mot": "la Révolution",
+            "type": "MISC"
+        },
+        {
+            "mot": "M lle de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "Restauration",
+            "type": "MISC"
+        },
+        {
+            "mot": "M Ue de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "Méditations de",
+            "type": "MISC"
+        },
+        {
+            "mot": "M. de Lamartine",
+            "type": "PER"
+        },
+        {
+            "mot": "Méditations de M",
+            "type": "MISC"
+        },
+        {
+            "mot": ". de",
+            "type": "PER"
+        },
+        {
+            "mot": "Lamartine",
+            "type": "MISC"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sont à quinze ans",
+            "type": "MISC"
+        },
+        {
+            "mot": "M\" e de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "Providence",
+            "type": "PER"
+        },
+        {
+            "mot": "En 1830",
+            "type": "DATE"
+        },
+        {
+            "mot": "M lle de Bazancourt",
+            "type": "PER"
+        },
+        {
+            "mot": "Deux ans après",
+            "type": "DATE"
+        },
+        {
+            "mot": "1832",
+            "type": "DATE"
+        },
+        {
+            "mot": "M. d’Ar",
+            "type": "PER"
+        },
+        {
+            "mot": "bouville",
+            "type": "PER"
+        },
+        {
+            "mot": "dix-huit années",
+            "type": "DATE"
+        },
+        {
+            "mot": "M me d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Pyrénées",
+            "type": "LOC"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Afrique",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Algérie",
+            "type": "LOC"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "M me d",
+            "type": "PER"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "M me d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "Nouvelles",
+            "type": "MISC"
+        },
+        {
+            "mot": "après plusieurs années",
+            "type": "DATE"
+        },
+        {
+            "mot": "M. d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Afrique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Maintenant la",
+            "type": "DATE"
+        },
+        {
+            "mot": "guerre d’Afrique",
+            "type": "MISC"
+        },
+        {
+            "mot": "M nie d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "deux cruelles années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "XIV",
+            "type": "PER"
+        },
+        {
+            "mot": "1848",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lyon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "XV",
+            "type": "PER"
+        },
+        {
+            "mot": "père de Ravignan",
+            "type": "PER"
+        },
+        {
+            "mot": "Le 22 mars 1850",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA GRANDTANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "En 1840",
+            "type": "DATE"
+        },
+        {
+            "mot": "M me d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "veauté",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "le",
+            "type": "PER"
+        },
+        {
+            "mot": "«M\"' 9 la marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "marquise d’",
+            "type": "PER"
+        },
+        {
+            "mot": "Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "7 d",
+            "type": "PER"
+        },
+        {
+            "mot": "’Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "7",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "plusieurs années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Languedoc",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nîmes",
+            "type": "LOC"
+        },
+        {
+            "mot": "marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "château d’Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "M mc",
+            "type": "PER"
+        },
+        {
+            "mot": "Madame",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "marquise d’Ebersae",
+            "type": "PER"
+        },
+        {
+            "mot": "cinq ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "puis cinq ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE MANUSCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "le dimanche",
+            "type": "DATE"
+        },
+        {
+            "mot": "le dimanche et",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Monsieur",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "des années",
+            "type": "DATE"
+        },
+        {
+            "mot": "des années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Phi*- lippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MANUSCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "soixante ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "l’année dernière",
+            "type": "DATE"
+        },
+        {
+            "mot": "marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "M. le marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Al. le marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "M. le marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Gotlion",
+            "type": "PER"
+        },
+        {
+            "mot": "Gotlion",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "AI.",
+            "type": "PER"
+        },
+        {
+            "mot": "d",
+            "type": "DATE"
+        },
+        {
+            "mot": "années",
+            "type": "DATE"
+        },
+        {
+            "mot": "quatre jours à",
+            "type": "DATE"
+        },
+        {
+            "mot": "Carcassonne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Deux jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Deux jours après",
+            "type": "DATE"
+        },
+        {
+            "mot": "M. le marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ebersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gothon",
+            "type": "PER"
+        },
+        {
+            "mot": "M. le",
+            "type": "PER"
+        },
+        {
+            "mot": "DE MA GRAND’TANTE",
+            "type": "LOC"
+        },
+        {
+            "mot": "M. le",
+            "type": "PER"
+        },
+        {
+            "mot": "M lle Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": ", un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "M. le marquis",
+            "type": "PER"
+        },
+        {
+            "mot": "Gotlion",
+            "type": "PER"
+        },
+        {
+            "mot": "M lle Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "Un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "M rae la marquise",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ebtrsac",
+            "type": "LOC"
+        },
+        {
+            "mot": "Madame",
+            "type": "PER"
+        },
+        {
+            "mot": "un",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MANUSCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "M me la marquise",
+            "type": "PER"
+        },
+        {
+            "mot": "M me la marquise",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "M",
+            "type": "PER"
+        },
+        {
+            "mot": "DE MA",
+            "type": "PER"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "marquise d’Ebersac",
+            "type": "PER"
+        },
+        {
+            "mot": "isais",
+            "type": "PER"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "tenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "pendant vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "1. 34",
+            "type": "DATE"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ANGE DE POESIE ET LA JEUNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’ANGE DE POESIE ET LA JEUNE FEMME. L’ANGE DE POÉSIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "JEUNE FEMME",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND’!’ANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "ANGE",
+            "type": "MISC"
+        },
+        {
+            "mot": "POÉSIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Chante",
+            "type": "MISC"
+        },
+        {
+            "mot": "ntaine",
+            "type": "PER"
+        },
+        {
+            "mot": "JEUNE FEMME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pbilomèle",
+            "type": "PER"
+        },
+        {
+            "mot": "LE POETE ODE COURONNÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE POETE ODE COURONNÉE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JEUX FLORAUX",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poète",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poète",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Poètes",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’HIRON<unk>ELLU",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "ubli",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vierge",
+            "type": "PER"
+        },
+        {
+            "mot": "delle",
+            "type": "PER"
+        },
+        {
+            "mot": "GHANA",
+            "type": "PER"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "seize ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "d",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "d’une heure!",
+            "type": "DATE"
+        },
+        {
+            "mot": "Que Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "RISTESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Heurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "à demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Foi",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Espoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Descende",
+            "type": "MISC"
+        },
+        {
+            "mot": "Radieuse d",
+            "type": "MISC"
+        },
+        {
+            "mot": "espoir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Et sans jeter ses Heur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Heurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vieillissant",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amitié",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Regret",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crépuscule d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vertu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’T",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "FILLE",
+            "type": "PER"
+        },
+        {
+            "mot": "L'HOTESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "IMITE DE L’ALLEMAND",
+            "type": "PER"
+        },
+        {
+            "mot": "Hôtes",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "RIT",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "MA GR AND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Hôtesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hôtesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Oli",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon aine",
+            "type": "PER"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "’un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "COURSE AU CHAMP DE MARS",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "MANUS",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE",
+            "type": "PER"
+        },
+        {
+            "mot": "PAS",
+            "type": "MISC"
+        },
+        {
+            "mot": "SÉ. Oli",
+            "type": "PER"
+        },
+        {
+            "mot": "LE",
+            "type": "PER"
+        },
+        {
+            "mot": "MAN",
+            "type": "MISC"
+        },
+        {
+            "mot": "USCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "Passé",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "ODE",
+            "type": "MISC"
+        },
+        {
+            "mot": "PAROLES D’UN CROYANT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "N CROYANT",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ingrat",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "DE MA GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu de l’Évangile",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ose",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Saint-Pierre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saïil",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Oint",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneu",
+            "type": "PER"
+        },
+        {
+            "mot": "Saïil",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "PER"
+        },
+        {
+            "mot": "Oint",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "MA GRAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "LOC"
+        },
+        {
+            "mot": "TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Qu’Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "La",
+            "type": "PER"
+        },
+        {
+            "mot": "mennais",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND'TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Esprit",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "JOUR D’ABSENCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "raîne",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "ce soir",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "LA SÉRÉNADE",
+            "type": "MISC"
+        },
+        {
+            "mot": "BALLADE IMITÉE DE L’ALLEMAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mèr",
+            "type": "PER"
+        },
+        {
+            "mot": "Veiller",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "core",
+            "type": "PER"
+        },
+        {
+            "mot": "LE CHANT DU CYGNE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "LOC"
+        },
+        {
+            "mot": "Heurs du soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "VOIX DU CIEL",
+            "type": "MISC"
+        },
+        {
+            "mot": "S",
+            "type": "MISC"
+        },
+        {
+            "mot": "aiment",
+            "type": "MISC"
+        },
+        {
+            "mot": "Iront",
+            "type": "PER"
+        },
+        {
+            "mot": "Plus tard",
+            "type": "DATE"
+        },
+        {
+            "mot": "Errantes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Di",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ames",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MADAME *",
+            "type": "PER"
+        },
+        {
+            "mot": "Vienne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRANDM<unk>RE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ROMANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "D28 LE MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "à quinze ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Julien",
+            "type": "PER"
+        },
+        {
+            "mot": "Heurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Soleil",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Premier",
+            "type": "DATE"
+        },
+        {
+            "mot": "jour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "’",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT II",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Étoile",
+            "type": "PER"
+        },
+        {
+            "mot": "Étoile",
+            "type": "PER"
+        },
+        {
+            "mot": "deux ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "loi",
+            "type": "LOC"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "ert",
+            "type": "PER"
+        },
+        {
+            "mot": "GRAND’T AN",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "emin",
+            "type": "PER"
+        },
+        {
+            "mot": "mai",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND",
+            "type": "PER"
+        },
+        {
+            "mot": "DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "MA GilAND’TAINTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "AMOUR DE JEUNE FILLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "JE",
+            "type": "MISC"
+        },
+        {
+            "mot": "J.'i8 LE MANUSCRIT",
+            "type": "PER"
+        },
+        {
+            "mot": "vierge Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "vierge Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "bal",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Cieux",
+            "type": "LOC"
+        },
+        {
+            "mot": "MANUSCRIT DE MA G H AN D’T ANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "MEMOIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MEMOIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mémoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mémoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je me souviens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mémoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je me souviens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je me souviens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Je me souviens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Kifi LE MANUSCRIT DE MA GU AND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LETOILE QUI FILE",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MONT ROSA",
+            "type": "LOC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Blanche",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "GRAND TANTE",
+            "type": "LOC"
+        },
+        {
+            "mot": "blanche Montagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Atome",
+            "type": "PER"
+        },
+        {
+            "mot": "un",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE MANUSCRIT DE MA GRAND’T AN TE",
+            "type": "MISC"
+        },
+        {
+            "mot": "eura",
+            "type": "PER"
+        },
+        {
+            "mot": "Montagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui;",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "DIMANCHE DES RAMEAUX LE PR<unk>TRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Israël",
+            "type": "MISC"
+        },
+        {
+            "mot": "David",
+            "type": "PER"
+        },
+        {
+            "mot": "Rameau",
+            "type": "PER"
+        },
+        {
+            "mot": "PR<unk>TRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "GRAND’TAN",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "sainte Prédiction",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "MISC"
+        },
+        {
+            "mot": "sainte Prédiction",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "David",
+            "type": "PER"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "JE",
+            "type": "MISC"
+        },
+        {
+            "mot": "UNE FEMME",
+            "type": "PER"
+        },
+        {
+            "mot": "Rameau",
+            "type": "PER"
+        },
+        {
+            "mot": "MANUSC",
+            "type": "MISC"
+        },
+        {
+            "mot": "RIT",
+            "type": "PER"
+        },
+        {
+            "mot": "Rameau",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Très-Haut",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "JEUNE FEMME",
+            "type": "MISC"
+        },
+        {
+            "mot": "GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Saint Rameau",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Éternel Marqua",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Israël",
+            "type": "LOC"
+        },
+        {
+            "mot": "Saint Rameau",
+            "type": "PER"
+        },
+        {
+            "mot": "PR<unk>TRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Jérusalem",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sion",
+            "type": "LOC"
+        },
+        {
+            "mot": "MANUSCRIT",
+            "type": "MISC"
+        },
+        {
+            "mot": "MA GRAND’TANTE",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Juifs",
+            "type": "MISC"
+        },
+        {
+            "mot": "En accusant le ciel,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Voix",
+            "type": "PER"
+        },
+        {
+            "mot": "Mystérieuse",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "Enferm",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gliss",
+            "type": "PER"
+        },
+        {
+            "mot": "Près",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "d’Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "Crois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ui liberté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Harpe dorée",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Entre le Ciel et nous",
+            "type": "MISC"
+        },
+        {
+            "mot": "MANUSCRIT DE MA GRAND’TANTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "MANUSCRIT DE MA G R",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Ébersac",
+            "type": "LOC"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Pairuaient",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "Philippe",
+            "type": "PER"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval d’Espagne",
+            "type": "PER"
+        },
+        {
+            "mot": ". 13",
+            "type": "DATE"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval d’Espagne",
+            "type": "PER"
+        },
+        {
+            "mot": "Caval d’Espagne",
+            "type": "PER"
+        },
+        {
+            "mot": "Caval d’Espagne",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Espagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval d",
+            "type": "PER"
+        },
+        {
+            "mot": "’Espagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval d’Espagne",
+            "type": "PER"
+        },
+        {
+            "mot": "BRIG",
+            "type": "MISC"
+        },
+        {
+            "mot": "AND",
+            "type": "PER"
+        },
+        {
+            "mot": "DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "PYRÉNÉES",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "z",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "IGAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "P",
+            "type": "MISC"
+        },
+        {
+            "mot": "YRÉNÉES",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Providence",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE BRIGAND DES PY",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval",
+            "type": "PER"
+        },
+        {
+            "mot": "Caval",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Caval",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "BRIGAND",
+            "type": "MISC"
+        },
+        {
+            "mot": "PYRENEES",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND DES PYRÉNÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "BRIGAND DES PYRENEES",
+            "type": "MISC"
+        },
+        {
+            "mot": "M me d’Arbouville",
+            "type": "PER"
+        },
+        {
+            "mot": "OE<unk>R D’ANGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Éternel",
+            "type": "PER"
+        },
+        {
+            "mot": "Très-Haut",
+            "type": "PER"
+        },
+        {
+            "mot": "Très-Haut",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mort",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Éternel",
+            "type": "PER"
+        },
+        {
+            "mot": "CHOEUR D’ANGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "ROLOG",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Éternel",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "aître",
+            "type": "LOC"
+        },
+        {
+            "mot": "dans un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA -'X",
+            "type": "PER"
+        },
+        {
+            "mot": "Norwége",
+            "type": "LOC"
+        },
+        {
+            "mot": "Christiana",
+            "type": "PER"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "PER"
+        },
+        {
+            "mot": "Norwége",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nonvôge",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nuit",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "oir",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Jaillir",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Vide",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Nulle",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Angélus",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Tout",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "La foi",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Ismaël",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "David",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "cinq ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Nourrice",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Quand ma mère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Vignore",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Allemagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Belgique",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Stel",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Suisse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Gênes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Fuyez",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luizzi d'Ornano",
+            "type": "PER"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi d'Ornano",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Paolo",
+            "type": "PER"
+        },
+        {
+            "mot": "Pénétrer",
+            "type": "LOC"
+        },
+        {
+            "mot": "de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Constance",
+            "type": "LOC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Vive Dieu !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luizzi d’Ornano",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ornano",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Lejeune",
+            "type": "PER"
+        },
+        {
+            "mot": "minuit",
+            "type": "DATE"
+        },
+        {
+            "mot": "rès",
+            "type": "PER"
+        },
+        {
+            "mot": "O11",
+            "type": "PER"
+        },
+        {
+            "mot": "iel",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Presqu’un assassinat",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paolo",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Paolo",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "esse",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour obscur un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "STELLA",
+            "type": "LOC"
+        },
+        {
+            "mot": "palais Ornano",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Suédois",
+            "type": "LOC"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Suède",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luizz",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Norvège",
+            "type": "LOC"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Ouvre donc !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sens-tu quel doux parfum?",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ec",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tracée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "D",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Chant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "R",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Espagnes",
+            "type": "LOC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "La",
+            "type": "PER"
+        },
+        {
+            "mot": "rodigue",
+            "type": "PER"
+        },
+        {
+            "mot": "Roller",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Gênes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizziy",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "isse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "CHANT D’AMOUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mai",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Gênes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Débris",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Adieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "STELLA",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Stella",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Sœur Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chants",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "ème",
+            "type": "PER"
+        },
+        {
+            "mot": "Olème",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "MISC"
+        },
+        {
+            "mot": "un soir",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "Elvire",
+            "type": "PER"
+        },
+        {
+            "mot": "STELLA",
+            "type": "LOC"
+        },
+        {
+            "mot": "Très-Haut",
+            "type": "PER"
+        },
+        {
+            "mot": "Luizzi",
+            "type": "PER"
+        },
+        {
+            "mot": "Stella",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉFIANCE N’EST",
+            "type": "MISC"
+        },
+        {
+            "mot": "SAGES",
+            "type": "MISC"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Salamanque",
+            "type": "LOC"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Madrid",
+            "type": "LOC"
+        },
+        {
+            "mot": "MÉFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "HERMANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "GESSE ACT",
+            "type": "MISC"
+        },
+        {
+            "mot": "HERMANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HEP. MAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Dans une heure, le",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "H ER M ANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "ER M ANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "quarante jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "deux mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "AN TON 10",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ÉFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "H E RMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Prado",
+            "type": "LOC"
+        },
+        {
+            "mot": "H ERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Il ERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Il ERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER M AN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "DATE"
+        },
+        {
+            "mot": "autre jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "1IERM AND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "IIERMAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "IIERMAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "A dix-huit ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "autre jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE II",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "H E R MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "EZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTON",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN IO",
+            "type": "PER"
+        },
+        {
+            "mot": "î. ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "en une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "en un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "U7 STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "H ERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Madrid",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mar",
+            "type": "PER"
+        },
+        {
+            "mot": "iquita",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mar",
+            "type": "PER"
+        },
+        {
+            "mot": "iquita",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉFIANCE SC<unk>NE III",
+            "type": "MISC"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QU IT A",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Estramadure",
+            "type": "LOC"
+        },
+        {
+            "mot": "M A",
+            "type": "PER"
+        },
+        {
+            "mot": "UIT",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Demain, demain matin",
+            "type": "DATE"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE IV",
+            "type": "MISC"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "IIERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Une minute",
+            "type": "DATE"
+        },
+        {
+            "mot": "IIERMAND<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "IIERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sténio!",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Y. MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO. MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rêve",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE",
+            "type": "MISC"
+        },
+        {
+            "mot": "STENIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "siMariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "siMariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Salamanque",
+            "type": "LOC"
+        },
+        {
+            "mot": "ATIIÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "c",
+            "type": "LOC"
+        },
+        {
+            "mot": "ans",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mari",
+            "type": "PER"
+        },
+        {
+            "mot": "ta Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRI",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "éni",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "T F",
+            "type": "PER"
+        },
+        {
+            "mot": "N",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH ÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MAT HÉ",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Pygmalion",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Slénio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "TÉ N10",
+            "type": "PER"
+        },
+        {
+            "mot": "M ATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Madrid",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita He",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita Heriliandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "ATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "un mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "ST É N I O",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "ÉFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "DOMESTIQUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "T",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH ÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "N’",
+            "type": "MISC"
+        },
+        {
+            "mot": "PAS SAGESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "M AT HÉO",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ma- riquita",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAT HÉ O",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "DRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE Vllï",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR I QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "RI QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH ÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "don Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Merci",
+            "type": "MISC"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ARI QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Matliéo",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGES",
+            "type": "PER"
+        },
+        {
+            "mot": "M ATHÉO",
+            "type": "LOC"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNI<unk>",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QUI T A",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "M A",
+            "type": "PER"
+        },
+        {
+            "mot": "M",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "iTeil puis plus",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "3",
+            "type": "MISC"
+        },
+        {
+            "mot": "MEFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une heure après",
+            "type": "DATE"
+        },
+        {
+            "mot": "Indes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sierra Morena",
+            "type": "LOC"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sata",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉFIANCE HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HE RM AN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "A demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "MAR IQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR I QUI TA",
+            "type": "PER"
+        },
+        {
+            "mot": "AR I QUI TA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "R",
+            "type": "PER"
+        },
+        {
+            "mot": "UIT",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "don Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "H E II MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "M A R I Q U I T A",
+            "type": "PER"
+        },
+        {
+            "mot": "cette année",
+            "type": "DATE"
+        },
+        {
+            "mot": "HE RM AND <unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Ma- riquita",
+            "type": "PER"
+        },
+        {
+            "mot": "M A RI QUI TA",
+            "type": "PER"
+        },
+        {
+            "mot": "M A RI QUI TA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "M AR IQU ITA. D’ailleu",
+            "type": "PER"
+        },
+        {
+            "mot": "M AR IQU ITA",
+            "type": "PER"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "don Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "H E RMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "à cinq heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mari",
+            "type": "PER"
+        },
+        {
+            "mot": "quita",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "à cinq heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Trois heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "trois",
+            "type": "DATE"
+        },
+        {
+            "mot": "cinq",
+            "type": "DATE"
+        },
+        {
+            "mot": "deux heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "SC<unk>NE III. MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO. RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "don Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "LOC"
+        },
+        {
+            "mot": "I GO",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "D R IGO",
+            "type": "LOC"
+        },
+        {
+            "mot": "forme",
+            "type": "PER"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "IGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR1QU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "M AR I QUI TA",
+            "type": "MISC"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR I QUITA",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Trente ans",
+            "type": "DATE"
+        },
+        {
+            "mot": ". Trente ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "et un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "ona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "ARI",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Madrid",
+            "type": "LOC"
+        },
+        {
+            "mot": "Madrid",
+            "type": "LOC"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "un mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "MA RI QUI T A",
+            "type": "MISC"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QU ITA",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "M A.RIQU ITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "M",
+            "type": "MISC"
+        },
+        {
+            "mot": "ARI",
+            "type": "PER"
+        },
+        {
+            "mot": "QUI",
+            "type": "MISC"
+        },
+        {
+            "mot": "TA",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "MAR I QU ITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "M ARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "M ARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MATH É0",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "l’autre jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "don Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "M ATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MAT HÉ O",
+            "type": "PER"
+        },
+        {
+            "mot": "M A RIQU I TA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MA.THÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MA.THÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Haut",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "A T H É O",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "l",
+            "type": "DATE"
+        },
+        {
+            "mot": "autre jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "autre jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "R I Q UIT A",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "M ARIQU I TA",
+            "type": "PER"
+        },
+        {
+            "mot": "M AT H É",
+            "type": "PER"
+        },
+        {
+            "mot": "sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉ N i o",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN<unk>O",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "R IQ",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE V",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN<unk>O",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "M A R IQ UI T",
+            "type": "PER"
+        },
+        {
+            "mot": "TÉ N",
+            "type": "PER"
+        },
+        {
+            "mot": "io",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉN io",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR1QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QU IT A",
+            "type": "PER"
+        },
+        {
+            "mot": "Indes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "M A R IQ U I T",
+            "type": "PER"
+        },
+        {
+            "mot": "M A R IQ U I T A",
+            "type": "LOC"
+        },
+        {
+            "mot": "sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "M A R I Q UIT A",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "M A R I QU I TA",
+            "type": "LOC"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QUI TA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sténiosort",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE VI",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "cinq heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "MÉFIANCE ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "HERMAN <unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HE R",
+            "type": "PER"
+        },
+        {
+            "mot": "HE R MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "MEFIANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SC<unk>NE Vil",
+            "type": "LOC"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "antonio",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "N’EST PAS SAGESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "KOURIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "KOURIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Camarade",
+            "type": "PER"
+        },
+        {
+            "mot": "HE RM AND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dona Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "ITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Don Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR1QU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR1QU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "HER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bas à Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "Rodrigo",
+            "type": "PER"
+        },
+        {
+            "mot": "D II",
+            "type": "PER"
+        },
+        {
+            "mot": "MAT il ÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Il ER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QU I T A",
+            "type": "PER"
+        },
+        {
+            "mot": "MAT II ÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTON",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTON",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "Dona Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "mat hé o",
+            "type": "PER"
+        },
+        {
+            "mot": "Madame",
+            "type": "PER"
+        },
+        {
+            "mot": "O MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "TA",
+            "type": "PER"
+        },
+        {
+            "mot": "don Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "dona Maria",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE IX",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "Il ER MAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Ali",
+            "type": "PER"
+        },
+        {
+            "mot": "Il ER MAN D<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Ali",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "D RI GO",
+            "type": "LOC"
+        },
+        {
+            "mot": "Mathéo",
+            "type": "PER"
+        },
+        {
+            "mot": "Sténio",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "MATHÉO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd",
+            "type": "DATE"
+        },
+        {
+            "mot": "hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "RODRIGO",
+            "type": "PER"
+        },
+        {
+            "mot": "STÉNIO",
+            "type": "PER"
+        },
+        {
+            "mot": "SC<unk>NE X",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "SAGES",
+            "type": "PER"
+        },
+        {
+            "mot": "MAR1QU<unk>TA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "ARIQU1TA",
+            "type": "PER"
+        },
+        {
+            "mot": "Hermandèz",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "dè",
+            "type": "PER"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "HERMAND<unk>Z",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "deux heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "H ER MANDEZ",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mariquita",
+            "type": "PER"
+        },
+        {
+            "mot": "MARI QUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "ANTONIO",
+            "type": "PER"
+        },
+        {
+            "mot": "MARIQUITA",
+            "type": "PER"
+        },
+        {
+            "mot": "Antoni",
+            "type": "PER"
+        },
+        {
+            "mot": "ARIQUITA",
+            "type": "MISC"
+        },
+        {
+            "mot": "m",
+            "type": "MISC"
+        },
+        {
+            "mot": "Antonio",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "PREMIER VOLUME",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Manuscrit de ma guand’tante",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Ange de la poésie et la jeune femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Poète : ode",
+            "type": "MISC"
+        },
+        {
+            "mot": "e",
+            "type": "MISC"
+        },
+        {
+            "mot": "I/Hirondelle",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Gitana ... 55 Tristesse 01 .Te crois",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Fille de l’hôtesse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ne m’aimez pas 77 Anxiété",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une course au champ de Mars",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Passé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ode sur les Paroles d’un croyant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour d’absence",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Sérénade",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un jour d’absence",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Sérénade",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Chant du cygne",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Erreur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Voix du ciel",
+            "type": "MISC"
+        },
+        {
+            "mot": "* Sur un enfant qui priait",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Madame ***",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Grand’mère",
+            "type": "MISC"
+        },
+        {
+            "mot": "Séparation",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Croix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pétition d’une fleur à une",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour de jeune fille.. Page",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mémoire",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Étoile qui file",
+            "type": "MISC"
+        },
+        {
+            "mot": "Au Mont Rosa",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le dimanche des Rameaux",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Imagination",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Brigand des Pyrénées",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "MISC"
+        },
+        {
+            "mot": "Méfiance n’",
+            "type": "MISC"
+        },
+        {
+            "mot": "Stella",
+            "type": "MISC"
+        },
+        {
+            "mot": "Méfiance",
+            "type": "MISC"
+        },
+        {
+            "mot": "OLUME",
+            "type": "MISC"
+        }
+    ]
+}

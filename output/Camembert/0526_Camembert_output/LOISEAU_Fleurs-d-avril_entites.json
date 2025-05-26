@@ -1,0 +1,1616 @@
+{
+    "entites": [
+        {
+            "mot": "Texte Vues",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d'avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jeanne Loiseau",
+            "type": "PER"
+        },
+        {
+            "mot": "Loiseau, Jeanne",
+            "type": "PER"
+        },
+        {
+            "mot": "(1854-1921",
+            "type": "DATE"
+        },
+        {
+            "mot": "(Paris)",
+            "type": "LOC"
+        },
+        {
+            "mot": "1882",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "23/02/2020",
+            "type": "DATE"
+        },
+        {
+            "mot": "JEANNE LOISEAU",
+            "type": "PER"
+        },
+        {
+            "mot": "Fleurs d’Avril POESIES A Fleurs d ’ Av",
+            "type": "MISC"
+        },
+        {
+            "mot": "<unk>i JEANNE LOISEAU",
+            "type": "PER"
+        },
+        {
+            "mot": "Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "POESIES PARIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ALPHONSE LEMERRE",
+            "type": "PER"
+        },
+        {
+            "mot": "T",
+            "type": "ORG"
+        },
+        {
+            "mot": "ASSAGE",
+            "type": "MISC"
+        },
+        {
+            "mot": "CH",
+            "type": "LOC"
+        },
+        {
+            "mot": "OISE",
+            "type": "PER"
+        },
+        {
+            "mot": "UL",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "PROLOG",
+            "type": "MISC"
+        },
+        {
+            "mot": "2 Fleurs ci’ Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avril",
+            "type": "DATE"
+        },
+        {
+            "mot": "Mon Livre Bleu 3 Mon Livre Bleu",
+            "type": "MISC"
+        },
+        {
+            "mot": "3 Mon Livre Bleu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hélas !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Encore aujourd’hui, L’étonnant soudain",
+            "type": "MISC"
+        },
+        {
+            "mot": "hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "L’",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un",
+            "type": "MISC"
+        },
+        {
+            "mot": "amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Que sera-ce un jour?",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mai",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril Paysage d’Octobre O",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dé",
+            "type": "MISC"
+        },
+        {
+            "mot": "ouille",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Octobre",
+            "type": "MISC"
+        },
+        {
+            "mot": "9",
+            "type": "DATE"
+        },
+        {
+            "mot": "Là-bas",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fleurs d'Avril Le Crépuscule L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crépuscule",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Valse",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Gracieuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Grand’mére",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Vole",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cinquante ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Cinquante ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Monte",
+            "type": "MISC"
+        },
+        {
+            "mot": "’",
+            "type": "PER"
+        },
+        {
+            "mot": "Ses vingt ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Valse",
+            "type": "PER"
+        },
+        {
+            "mot": "La Valse",
+            "type": "PER"
+        },
+        {
+            "mot": "Bébé V",
+            "type": "MISC"
+        },
+        {
+            "mot": "un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "Un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "20 Fleurs d'Avril Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bébé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "Fleurs d’Avril Une Soirée au bois de Boulogne",
+            "type": "MISC"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "Soirée au",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bois de Boulogne",
+            "type": "LOC"
+        },
+        {
+            "mot": "d",
+            "type": "PER"
+        },
+        {
+            "mot": "Endymion",
+            "type": "PER"
+        },
+        {
+            "mot": "Flot",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Soirée au Bois de Boulogne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Soirée ail Bois de Boulogne",
+            "type": "MISC"
+        },
+        {
+            "mot": "ent",
+            "type": "PER"
+        },
+        {
+            "mot": "4SWPSB 2S Fleurs d’Avril Deux Voix",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Étern",
+            "type": "PER"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Océan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "9SS* Refus 3i Refus C",
+            "type": "MISC"
+        },
+        {
+            "mot": "-9SS* Refus 3i Refus C",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une seconde",
+            "type": "DATE"
+        },
+        {
+            "mot": "Victor Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Poète",
+            "type": "PER"
+        },
+        {
+            "mot": "Maître",
+            "type": "PER"
+        },
+        {
+            "mot": "Pro",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Poète!",
+            "type": "PER"
+        },
+        {
+            "mot": "Victor Hugo",
+            "type": "PER"
+        },
+        {
+            "mot": "Panthéon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dante",
+            "type": "PER"
+        },
+        {
+            "mot": "Milton",
+            "type": "PER"
+        },
+        {
+            "mot": "Maître",
+            "type": "PER"
+        },
+        {
+            "mot": "Oh",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Enfant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Va",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril Dix-",
+            "type": "MISC"
+        },
+        {
+            "mot": "huit ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Menton",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nice",
+            "type": "LOC"
+        },
+        {
+            "mot": "Midi",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Huret",
+            "type": "PER"
+        },
+        {
+            "mot": "Grave",
+            "type": "MISC"
+        },
+        {
+            "mot": "Droite",
+            "type": "MISC"
+        },
+        {
+            "mot": "sept ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Michel-Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "coup d’archet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Strauss",
+            "type": "PER"
+        },
+        {
+            "mot": "Joyeuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "En",
+            "type": "MISC"
+        },
+        {
+            "mot": "Deux mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "un an",
+            "type": "DATE"
+        },
+        {
+            "mot": "La Madone",
+            "type": "PER"
+        },
+        {
+            "mot": "Raphaël",
+            "type": "PER"
+        },
+        {
+            "mot": "six mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "A Madame",
+            "type": "MISC"
+        },
+        {
+            "mot": "K. M",
+            "type": "PER"
+        },
+        {
+            "mot": ".",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sal",
+            "type": "MISC"
+        },
+        {
+            "mot": "ra",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Coffret",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "8 Fleurs d’Avril De",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vains",
+            "type": "MISC"
+        },
+        {
+            "mot": "le Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mer",
+            "type": "LOC"
+        },
+        {
+            "mot": "Prés",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "50 Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "de Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Ascension dans UOberland S 1 Une Ascension dans VOberland Q",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "lais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Heureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "Défaillir! Heureux",
+            "type": "MISC"
+        },
+        {
+            "mot": "d’Interlake",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "dix heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ascension",
+            "type": "MISC"
+        },
+        {
+            "mot": "VOberland",
+            "type": "MISC"
+        },
+        {
+            "mot": "deux jours",
+            "type": "DATE"
+        },
+        {
+            "mot": "Lutschine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ar",
+            "type": "MISC"
+        },
+        {
+            "mot": "Joyeuse",
+            "type": "MISC"
+        },
+        {
+            "mot": "Willie",
+            "type": "PER"
+        },
+        {
+            "mot": "Willie",
+            "type": "PER"
+        },
+        {
+            "mot": "Une Ascension dans UOberland",
+            "type": "MISC"
+        },
+        {
+            "mot": "Willie",
+            "type": "PER"
+        },
+        {
+            "mot": "Alpes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Willie",
+            "type": "PER"
+        },
+        {
+            "mot": "d’Ossa",
+            "type": "PER"
+        },
+        {
+            "mot": "Pélion",
+            "type": "LOC"
+        },
+        {
+            "mot": "Infini",
+            "type": "LOC"
+        },
+        {
+            "mot": "Em",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ascension",
+            "type": "MISC"
+        },
+        {
+            "mot": "UOberlaad",
+            "type": "MISC"
+        },
+        {
+            "mot": "une minute",
+            "type": "DATE"
+        },
+        {
+            "mot": "Suisse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Auprès du feu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Énormes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Ascension dans VOberland La petite",
+            "type": "MISC"
+        },
+        {
+            "mot": "eil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Monte",
+            "type": "PER"
+        },
+        {
+            "mot": "Grands",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Une Ascension dans VOberland",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Oberland",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mademoiselle Alice K.",
+            "type": "PER"
+        },
+        {
+            "mot": "Mademoiselle Alice K.",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "L’Attente",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "pâle novembre",
+            "type": "DATE"
+        },
+        {
+            "mot": "L'Attente",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souffles d’Orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souffles d’Orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "Mercié",
+            "type": "PER"
+        },
+        {
+            "mot": "Mercié",
+            "type": "PER"
+        },
+        {
+            "mot": "Muse",
+            "type": "PER"
+        },
+        {
+            "mot": "Michelet 7i San",
+            "type": "PER"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "en une heure à",
+            "type": "DATE"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Christianisme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "Moyen Age",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "Colomb",
+            "type": "PER"
+        },
+        {
+            "mot": "Newton",
+            "type": "PER"
+        },
+        {
+            "mot": "Galilée",
+            "type": "PER"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Gange",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gange",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nirvâna",
+            "type": "LOC"
+        },
+        {
+            "mot": "L’Arabe",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Espagnol",
+            "type": "LOC"
+        },
+        {
+            "mot": "Alhambra",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Par",
+            "type": "PER"
+        },
+        {
+            "mot": "le",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "dans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Michelet",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd’hui le",
+            "type": "DATE"
+        },
+        {
+            "mot": "Christ",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Évangile",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voltaire",
+            "type": "PER"
+        },
+        {
+            "mot": "Ruban V",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ruban 77",
+            "type": "MISC"
+        },
+        {
+            "mot": "uban",
+            "type": "PER"
+        },
+        {
+            "mot": "Anton",
+            "type": "PER"
+        },
+        {
+            "mot": "So Fleurs d'Avril Une Goutte d'Eau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Goutte d’Eau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rien",
+            "type": "MISC"
+        },
+        {
+            "mot": "l’Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Avenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "jeunes années",
+            "type": "DATE"
+        },
+        {
+            "mot": "années",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tourmentés",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Église",
+            "type": "LOC"
+        },
+        {
+            "mot": "Haute",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Contradictoires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Contradictoires",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avenir",
+            "type": "PER"
+        },
+        {
+            "mot": "demain",
+            "type": "DATE"
+        },
+        {
+            "mot": "Homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avan",
+            "type": "PER"
+        },
+        {
+            "mot": "Avance",
+            "type": "MISC"
+        },
+        {
+            "mot": "Marche",
+            "type": "MISC"
+        },
+        {
+            "mot": "La douce nuit d",
+            "type": "MISC"
+        },
+        {
+            "mot": "Les étoiles",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "air du soir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Coupe",
+            "type": "LOC"
+        },
+        {
+            "mot": "s",
+            "type": "MISC"
+        },
+        {
+            "mot": "SS Fleurs d'Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "umine",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "90 Fleurs d’Avril O cœ",
+            "type": "MISC"
+        },
+        {
+            "mot": "90 Fleurs d’Avril O",
+            "type": "MISC"
+        },
+        {
+            "mot": "Voyageur",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier en",
+            "type": "DATE"
+        },
+        {
+            "mot": "Trois Choses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Trois Choses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "92 Fleurs d’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Il",
+            "type": "MISC"
+        },
+        {
+            "mot": "Il",
+            "type": "MISC"
+        },
+        {
+            "mot": "amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris sous la Neige",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fleurs d’Avril Non",
+            "type": "MISC"
+        },
+        {
+            "mot": "Décembre 1879",
+            "type": "DATE"
+        },
+        {
+            "mot": "Souvent Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvent Femme",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Égl ise de la Madeleine L ’heure du Bois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "L'Eglise de la Madeleine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "La grande Madeleine",
+            "type": "PER"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "L’Eglise de la Madeleine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Tadmor",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rome",
+            "type": "LOC"
+        },
+        {
+            "mot": "le Caire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Athènes",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’Acropole",
+            "type": "LOC"
+        },
+        {
+            "mot": "Pyramides",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Frémit",
+            "type": "PER"
+        },
+        {
+            "mot": "Timide",
+            "type": "PER"
+        },
+        {
+            "mot": "Parthénon",
+            "type": "LOC"
+        },
+        {
+            "mot": "Amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Tantoum d’un Amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sous",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un",
+            "type": "MISC"
+        },
+        {
+            "mot": "P an tou ni d’un Amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pleurs d'Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'Art Consolateur",
+            "type": "MISC"
+        },
+        {
+            "mot": "olateur A M lle A. B. V",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "Art",
+            "type": "MISC"
+        },
+        {
+            "mot": "ioS Fleurs d’Avril Un Regard à ceux qui travaillent",
+            "type": "MISC"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "Luttes,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un Regard à ceux qui travaillent",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Temps",
+            "type": "MISC"
+        },
+        {
+            "mot": "juillet",
+            "type": "DATE"
+        },
+        {
+            "mot": "Na",
+            "type": "MISC"
+        },
+        {
+            "mot": "OMI",
+            "type": "ORG"
+        },
+        {
+            "mot": "Un Rega",
+            "type": "MISC"
+        },
+        {
+            "mot": "OMI Un Regard à ceux qui travail 1",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ames",
+            "type": "PER"
+        },
+        {
+            "mot": "J 12 Fleurs ci'Avril Nos Larmes P",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs ci'Avril Nos Larmes P",
+            "type": "MISC"
+        },
+        {
+            "mot": "mon Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "Captive",
+            "type": "LOC"
+        },
+        {
+            "mot": "mez",
+            "type": "PER"
+        },
+        {
+            "mot": "Aimez",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd’hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Paysages Normands",
+            "type": "LOC"
+        },
+        {
+            "mot": "l’herb",
+            "type": "LOC"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Corot",
+            "type": "PER"
+        },
+        {
+            "mot": "Galope",
+            "type": "PER"
+        },
+        {
+            "mot": "POMMIERS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA MER",
+            "type": "MISC"
+        },
+        {
+            "mot": "onger",
+            "type": "PER"
+        },
+        {
+            "mot": "Fleurs ci’Avril",
+            "type": "MISC"
+        },
+        {
+            "mot": "mer de Normandie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Hélas!",
+            "type": "MISC"
+        },
+        {
+            "mot": "Entre les tamaris",
+            "type": "MISC"
+        },
+        {
+            "mot": "O mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "ton",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fleurs d’Avril i Mon Livre bleu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paysage de Mai",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paysage d’Octobre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Le Crépuscule 10 La Valse 14 A Bébé . . 19 Une Soirée au Bois de Boulogne",
+            "type": "MISC"
+        },
+        {
+            "mot": "Deux Voix 28 Refus 31 A Victor Hugo",
+            "type": "MISC"
+        },
+        {
+            "mot": "Réponse à deux mots 36 Dix-huit ans 38 A Madame K. M 43 Le Coffret , 46 Au bord de la Mer 49 Une ascension dans l’Oberland",
+            "type": "MISC"
+        },
+        {
+            "mot": "A Mademoiselle Alice K 62 L’Att",
+            "type": "MISC"
+        },
+        {
+            "mot": "dans l’Oberland 51 A Mademoiselle Alice K 62 L’Attente 64 Souffles d’orage",
+            "type": "MISC"
+        },
+        {
+            "mot": "Michelet 69 Pour un Ruban",
+            "type": "MISC"
+        },
+        {
+            "mot": "Trésors d’amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Goutte d’eau",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ce que répond l’Avenir",
+            "type": "MISC"
+        },
+        {
+            "mot": "Trois Choses",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris sous la Neige",
+            "type": "MISC"
+        },
+        {
+            "mot": "Souvent Femme varie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Église de la Madeleine",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pantoum d’un Amant",
+            "type": "MISC"
+        },
+        {
+            "mot": "L’Art consolateur ....",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un Regard à ceux qui travaillent 108 Nos Larmes",
+            "type": "MISC"
+        },
+        {
+            "mot": "I. L’Herbage",
+            "type": "MISC"
+        },
+        {
+            "mot": "IL Les Pommiers",
+            "type": "MISC"
+        },
+        {
+            "mot": "III",
+            "type": "MISC"
+        },
+        {
+            "mot": "La Mer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Charles Unsinger",
+            "type": "PER"
+        },
+        {
+            "mot": "rue du Bac",
+            "type": "LOC"
+        },
+        {
+            "mot": "rue du Bac",
+            "type": "LOC"
+        }
+    ]
+}

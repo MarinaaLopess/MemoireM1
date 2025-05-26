@@ -1,0 +1,2212 @@
+{
+    "entites": [
+        {
+            "mot": "Vue",
+            "type": "MISC"
+        },
+        {
+            "mot": "les Illuminations",
+            "type": "MISC"
+        },
+        {
+            "mot": "Une Saison en Enfer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paul Verlaine",
+            "type": "PER"
+        },
+        {
+            "mot": "Une Saison en Enfer",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rimbaud, Arthur",
+            "type": "PER"
+        },
+        {
+            "mot": "(1854-1891",
+            "type": "DATE"
+        },
+        {
+            "mot": "L. Vanier",
+            "type": "ORG"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "1892",
+            "type": "DATE"
+        },
+        {
+            "mot": "Verlaine, Paul",
+            "type": "PER"
+        },
+        {
+            "mot": "(1844-1896",
+            "type": "DATE"
+        },
+        {
+            "mot": "bnf",
+            "type": "ORG"
+        },
+        {
+            "mot": ".fr",
+            "type": "LOC"
+        },
+        {
+            "mot": "Langu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Français",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "RESP-Z-2180",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bibliothèque nationale de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "11/07/2011",
+            "type": "DATE"
+        },
+        {
+            "mot": "UNE SAISON EN ENFER LES ILLUMINATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ARTHUR RIMBAUD",
+            "type": "PER"
+        },
+        {
+            "mot": "PO<unk>MES LES ILLUMINATIONS UNE SAISON EN ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paul Verlaine",
+            "type": "PER"
+        },
+        {
+            "mot": "PARIS",
+            "type": "LOC"
+        },
+        {
+            "mot": "LÉON VANIER",
+            "type": "PER"
+        },
+        {
+            "mot": "LIBRAIRE-ÉDITEUR",
+            "type": "ORG"
+        },
+        {
+            "mot": "QUAI SAINT-MICIIEL",
+            "type": "LOC"
+        },
+        {
+            "mot": "19 1802",
+            "type": "DATE"
+        },
+        {
+            "mot": "PRÉFACE",
+            "type": "MISC"
+        },
+        {
+            "mot": "LA PREMI<unk>RE ÉDITION DES ILLUMINATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "PREMI<unk>RE ÉDITION DES ILLUMINATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "1873 à 1875",
+            "type": "DATE"
+        },
+        {
+            "mot": "Belgique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Angleterre",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Allemagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "ILLU",
+            "type": "MISC"
+        },
+        {
+            "mot": "ATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rimbaud",
+            "type": "PER"
+        },
+        {
+            "mot": "Arthur Rimbaud",
+            "type": "PER"
+        },
+        {
+            "mot": "Charleville",
+            "type": "LOC"
+        },
+        {
+            "mot": "Ardennes",
+            "type": "LOC"
+        },
+        {
+            "mot": "seize ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Les Poètes maudits",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "trente-sept ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Asie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Faust",
+            "type": "MISC"
+        },
+        {
+            "mot": "Faust",
+            "type": "MISC"
+        },
+        {
+            "mot": "Méphistophélès",
+            "type": "PER"
+        },
+        {
+            "mot": "Marguerite",
+            "type": "PER"
+        },
+        {
+            "mot": "Fantin-Latour",
+            "type": "PER"
+        },
+        {
+            "mot": "Coin de table",
+            "type": "MISC"
+        },
+        {
+            "mot": "Manchester",
+            "type": "LOC"
+        },
+        {
+            "mot": ". Rimbaud",
+            "type": "PER"
+        },
+        {
+            "mot": "ILLUMINATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "PAUL VERLAINE",
+            "type": "PER"
+        },
+        {
+            "mot": "ILLUMINATIONS",
+            "type": "MISC"
+        },
+        {
+            "mot": "LE DÉLUGE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Déluge",
+            "type": "MISC"
+        },
+        {
+            "mot": "Déluge",
+            "type": "MISC"
+        },
+        {
+            "mot": "Un lièvre",
+            "type": "MISC"
+        },
+        {
+            "mot": "Barbe-Bleue",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Madame ***",
+            "type": "PER"
+        },
+        {
+            "mot": "Alpes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Splendide-Hôtel",
+            "type": "LOC"
+        },
+        {
+            "mot": "Lune",
+            "type": "LOC"
+        },
+        {
+            "mot": "Eucharis",
+            "type": "PER"
+        },
+        {
+            "mot": "Reine",
+            "type": "PER"
+        },
+        {
+            "mot": "Sorcière",
+            "type": "PER"
+        },
+        {
+            "mot": "BARBARE",
+            "type": "PER"
+        },
+        {
+            "mot": "Le pavillon en viande sa",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oh ! le pavillon en viande",
+            "type": "MISC"
+        },
+        {
+            "mot": "Douceurs !",
+            "type": "MISC"
+        },
+        {
+            "mot": "Douceurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "rottes arctiques",
+            "type": "LOC"
+        },
+        {
+            "mot": "Derrière",
+            "type": "LOC"
+        },
+        {
+            "mot": "AUBE",
+            "type": "MISC"
+        },
+        {
+            "mot": "FLEURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "BEING BEAUTEOUS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTIQUE Gracieux fils de Pan",
+            "type": "PER"
+        },
+        {
+            "mot": "ROYAUTÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "ENFANCE",
+            "type": "MISC"
+        },
+        {
+            "mot": "joux",
+            "type": "PER"
+        },
+        {
+            "mot": "Indes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Indes",
+            "type": "LOC"
+        },
+        {
+            "mot": "hasse",
+            "type": "PER"
+        },
+        {
+            "mot": "mer de Palestine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Proverbes",
+            "type": "MISC"
+        },
+        {
+            "mot": "heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "arlates",
+            "type": "PER"
+        },
+        {
+            "mot": "à douze ans",
+            "type": "DATE"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "ORNI<unk>RES",
+            "type": "LOC"
+        },
+        {
+            "mot": "Carrosses anciens",
+            "type": "MISC"
+        },
+        {
+            "mot": "Contes",
+            "type": "MISC"
+        },
+        {
+            "mot": "MARINE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nymphes",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Horace",
+            "type": "PER"
+        },
+        {
+            "mot": "Premier Empire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ronde",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chinoises",
+            "type": "MISC"
+        },
+        {
+            "mot": "Boucher",
+            "type": "PER"
+        },
+        {
+            "mot": "strom",
+            "type": "LOC"
+        },
+        {
+            "mot": "Monstrueux,",
+            "type": "MISC"
+        },
+        {
+            "mot": "Monstrueux",
+            "type": "LOC"
+        },
+        {
+            "mot": "Alleghanys",
+            "type": "LOC"
+        },
+        {
+            "mot": "Libans",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rolands",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rolands",
+            "type": "PER"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Mabs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Diane",
+            "type": "PER"
+        },
+        {
+            "mot": "Bacchantes",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Fête de la Nuit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Et",
+            "type": "DATE"
+        },
+        {
+            "mot": "une heure",
+            "type": "DATE"
+        },
+        {
+            "mot": "Bagdad",
+            "type": "LOC"
+        },
+        {
+            "mot": "eu",
+            "type": "LOC"
+        },
+        {
+            "mot": "VILLES",
+            "type": "LOC"
+        },
+        {
+            "mot": "qu'Hampt",
+            "type": "LOC"
+        },
+        {
+            "mot": "qu'Hampton-Court",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nabuchodonosor",
+            "type": "PER"
+        },
+        {
+            "mot": "Brennus",
+            "type": "PER"
+        },
+        {
+            "mot": "dôme",
+            "type": "LOC"
+        },
+        {
+            "mot": "La Sainte-Chapelle",
+            "type": "LOC"
+        },
+        {
+            "mot": "iliers",
+            "type": "LOC"
+        },
+        {
+            "mot": "dimanche",
+            "type": "DATE"
+        },
+        {
+            "mot": "Londres",
+            "type": "LOC"
+        },
+        {
+            "mot": "Londres",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paris",
+            "type": "LOC"
+        },
+        {
+            "mot": "Comté",
+            "type": "LOC"
+        },
+        {
+            "mot": "MÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "TROPOL",
+            "type": "LOC"
+        },
+        {
+            "mot": "ITAIN",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Ossian",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Japonaises",
+            "type": "LOC"
+        },
+        {
+            "mot": "Guaranies",
+            "type": "LOC"
+        },
+        {
+            "mot": "PROMONTO",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Epire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Péloponèse",
+            "type": "LOC"
+        },
+        {
+            "mot": "Japon",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Arabie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Carthage",
+            "type": "LOC"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Carthage",
+            "type": "LOC"
+        },
+        {
+            "mot": "Venise",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Etnas",
+            "type": "LOC"
+        },
+        {
+            "mot": "d'Allemagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Royal",
+            "type": "LOC"
+        },
+        {
+            "mot": "« Grand",
+            "type": "LOC"
+        },
+        {
+            "mot": "Brooklin",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Italie",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Asie",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Asie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Palais Promontoire",
+            "type": "LOC"
+        },
+        {
+            "mot": "SC<unk>NES L'",
+            "type": "LOC"
+        },
+        {
+            "mot": "Comédie",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Orient ancien",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Orient ancien",
+            "type": "MISC"
+        },
+        {
+            "mot": "Béotiens",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chérubin",
+            "type": "PER"
+        },
+        {
+            "mot": "Paradis",
+            "type": "LOC"
+        },
+        {
+            "mot": "Paradis de la grimace enragée",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fakirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chinois",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hottentots",
+            "type": "MISC"
+        },
+        {
+            "mot": "Molochs",
+            "type": "MISC"
+        },
+        {
+            "mot": "une minute",
+            "type": "DATE"
+        },
+        {
+            "mot": "Continent",
+            "type": "LOC"
+        },
+        {
+            "mot": "Erynnies",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mort sans pleurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour désespéré",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crime",
+            "type": "MISC"
+        },
+        {
+            "mot": "Amour désespéré",
+            "type": "MISC"
+        },
+        {
+            "mot": "Crime piaulant dans",
+            "type": "MISC"
+        },
+        {
+            "mot": "Rumeurs et Visions",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Hortense",
+            "type": "MISC"
+        },
+        {
+            "mot": "Hortense",
+            "type": "PER"
+        },
+        {
+            "mot": "ANGOISSE",
+            "type": "PER"
+        },
+        {
+            "mot": "'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "qu'un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "BOTTOM",
+            "type": "PER"
+        },
+        {
+            "mot": "juin",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sabine",
+            "type": "MISC"
+        },
+        {
+            "mot": "s",
+            "type": "LOC"
+        },
+        {
+            "mot": "VEILLÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Amélie",
+            "type": "MISC"
+        },
+        {
+            "mot": "NOCTURNE VULGAIRE",
+            "type": "PER"
+        },
+        {
+            "mot": "Sodomes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Solymes",
+            "type": "LOC"
+        },
+        {
+            "mot": "Postillon",
+            "type": "PER"
+        },
+        {
+            "mot": "INÉE D'IVRESSE O mon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bien",
+            "type": "PER"
+        },
+        {
+            "mot": "Beau",
+            "type": "PER"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "PHRASES",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Amour",
+            "type": "MISC"
+        },
+        {
+            "mot": "en Juillet",
+            "type": "DATE"
+        },
+        {
+            "mot": "de Chine",
+            "type": "LOC"
+        },
+        {
+            "mot": "Génie",
+            "type": "PER"
+        },
+        {
+            "mot": "Prince",
+            "type": "PER"
+        },
+        {
+            "mot": "Génie",
+            "type": "PER"
+        },
+        {
+            "mot": "Prince",
+            "type": "PER"
+        },
+        {
+            "mot": "Génie",
+            "type": "PER"
+        },
+        {
+            "mot": "Le Génie",
+            "type": "PER"
+        },
+        {
+            "mot": "Prince",
+            "type": "PER"
+        },
+        {
+            "mot": "Ah",
+            "type": "PER"
+        },
+        {
+            "mot": "Lui",
+            "type": "PER"
+        },
+        {
+            "mot": "Nez",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gêneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Monts-Rocheux",
+            "type": "LOC"
+        },
+        {
+            "mot": "Monts-Rocheux",
+            "type": "LOC"
+        },
+        {
+            "mot": "D'empuantir",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "PER"
+        },
+        {
+            "mot": "VAGABONDS",
+            "type": "PER"
+        },
+        {
+            "mot": "Soleil",
+            "type": "LOC"
+        },
+        {
+            "mot": "Païennes",
+            "type": "MISC"
+        },
+        {
+            "mot": "ands",
+            "type": "PER"
+        },
+        {
+            "mot": "Ondines",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Ondines",
+            "type": "MISC"
+        },
+        {
+            "mot": "Di",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Émeus",
+            "type": "PER"
+        },
+        {
+            "mot": "Norwège",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dites-",
+            "type": "MISC"
+        },
+        {
+            "mot": "Chansonnier",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gagnons",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "CHANSON",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oisive",
+            "type": "MISC"
+        },
+        {
+            "mot": "Notre-Dame",
+            "type": "PER"
+        },
+        {
+            "mot": "La vierge Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "février",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sud",
+            "type": "LOC"
+        },
+        {
+            "mot": "Henrika",
+            "type": "PER"
+        },
+        {
+            "mot": "Sud",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sud",
+            "type": "LOC"
+        },
+        {
+            "mot": "hâteaux",
+            "type": "PER"
+        },
+        {
+            "mot": "BRUXELLES",
+            "type": "LOC"
+        },
+        {
+            "mot": "Juillet",
+            "type": "DATE"
+        },
+        {
+            "mot": "Boulevart du Régent",
+            "type": "PER"
+        },
+        {
+            "mot": "Jupiter",
+            "type": "PER"
+        },
+        {
+            "mot": "Jupiter",
+            "type": "PER"
+        },
+        {
+            "mot": "Bleu",
+            "type": "LOC"
+        },
+        {
+            "mot": "Sahara",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cage",
+            "type": "LOC"
+        },
+        {
+            "mot": "la Folle",
+            "type": "LOC"
+        },
+        {
+            "mot": "Juliette",
+            "type": "MISC"
+        },
+        {
+            "mot": "Juliette",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Henriette",
+            "type": "LOC"
+        },
+        {
+            "mot": "Irlandaise",
+            "type": "MISC"
+        },
+        {
+            "mot": "Bavardage",
+            "type": "MISC"
+        },
+        {
+            "mot": "C",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muet",
+            "type": "MISC"
+        },
+        {
+            "mot": "Réunion",
+            "type": "MISC"
+        },
+        {
+            "mot": "merce",
+            "type": "MISC"
+        },
+        {
+            "mot": "Muet",
+            "type": "MISC"
+        },
+        {
+            "mot": "AGE D'OR",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vertement s'explique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Terque quaterque Reconnais",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vertement s'explique",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pluries",
+            "type": "MISC"
+        },
+        {
+            "mot": "Age",
+            "type": "MISC"
+        },
+        {
+            "mot": "Indesinenter",
+            "type": "PER"
+        },
+        {
+            "mot": "Soldats",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Claire",
+            "type": "PER"
+        },
+        {
+            "mot": "Claire",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "MICHEL ET CHRISTINE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L",
+            "type": "MISC"
+        },
+        {
+            "mot": "Fuyez",
+            "type": "MISC"
+        },
+        {
+            "mot": "noir",
+            "type": "LOC"
+        },
+        {
+            "mot": "Fuyez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Nuages",
+            "type": "LOC"
+        },
+        {
+            "mot": "s",
+            "type": "LOC"
+        },
+        {
+            "mot": "Solognes",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rougis",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chevauche",
+            "type": "PER"
+        },
+        {
+            "mot": "L'Épouse",
+            "type": "PER"
+        },
+        {
+            "mot": "aux yeux bleus",
+            "type": "MISC"
+        },
+        {
+            "mot": "Gaule",
+            "type": "PER"
+        },
+        {
+            "mot": "Agneau",
+            "type": "PER"
+        },
+        {
+            "mot": "cal",
+            "type": "PER"
+        },
+        {
+            "mot": "Michel",
+            "type": "PER"
+        },
+        {
+            "mot": "Christine",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Idylle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Louise Vanaen de Voringhem",
+            "type": "PER"
+        },
+        {
+            "mot": "mer du Nord",
+            "type": "LOC"
+        },
+        {
+            "mot": "Léonie Aubois d'Ashby",
+            "type": "PER"
+        },
+        {
+            "mot": "Léonie Aubois d'Ashby",
+            "type": "PER"
+        },
+        {
+            "mot": "Lulu",
+            "type": "PER"
+        },
+        {
+            "mot": "Amies",
+            "type": "MISC"
+        },
+        {
+            "mot": "***",
+            "type": "PER"
+        },
+        {
+            "mot": "Circeto",
+            "type": "LOC"
+        },
+        {
+            "mot": "les dix mois",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Allemagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Céleste Empire",
+            "type": "LOC"
+        },
+        {
+            "mot": "Afrique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Occidents",
+            "type": "LOC"
+        },
+        {
+            "mot": "Bible",
+            "type": "MISC"
+        },
+        {
+            "mot": "Nornes",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Aquilon",
+            "type": "MISC"
+        },
+        {
+            "mot": "Périssez",
+            "type": "MISC"
+        },
+        {
+            "mot": "Républiques",
+            "type": "LOC"
+        },
+        {
+            "mot": "Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Asie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Amérique",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cités",
+            "type": "LOC"
+        },
+        {
+            "mot": "Cités et campagnes",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Océan",
+            "type": "LOC"
+        },
+        {
+            "mot": "Noirs",
+            "type": "MISC"
+        },
+        {
+            "mot": "En avant",
+            "type": "MISC"
+        },
+        {
+            "mot": "route",
+            "type": "MISC"
+        },
+        {
+            "mot": "AIS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "SAISON EN ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "FER",
+            "type": "LOC"
+        },
+        {
+            "mot": "Beauté",
+            "type": "MISC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "MAUVAIS SANG",
+            "type": "PER"
+        },
+        {
+            "mot": "Gau",
+            "type": "LOC"
+        },
+        {
+            "mot": "lois",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "déclaration des Droits de l'homme",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'histoire de",
+            "type": "ORG"
+        },
+        {
+            "mot": "France",
+            "type": "LOC"
+        },
+        {
+            "mot": "toire de France",
+            "type": "LOC"
+        },
+        {
+            "mot": "la France",
+            "type": "LOC"
+        },
+        {
+            "mot": "l",
+            "type": "MISC"
+        },
+        {
+            "mot": "'Eglise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Byzance",
+            "type": "LOC"
+        },
+        {
+            "mot": "Solyme",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Crucifié",
+            "type": "PER"
+        },
+        {
+            "mot": "Crucifié",
+            "type": "PER"
+        },
+        {
+            "mot": "d'Allemagne",
+            "type": "LOC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneurs",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "MISC"
+        },
+        {
+            "mot": "'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'",
+            "type": "LOC"
+        },
+        {
+            "mot": "Esprit",
+            "type": "MISC"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Évangile",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Évangile",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Évangile",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Europe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Nager",
+            "type": "MISC"
+        },
+        {
+            "mot": "mons",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "Sauvé",
+            "type": "MISC"
+        },
+        {
+            "mot": "Maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "n",
+            "type": "PER"
+        },
+        {
+            "mot": "profundis Domine",
+            "type": "PER"
+        },
+        {
+            "mot": "Jeanne d'Arc",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Cham",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Jésus-Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "NUIT DE L'ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'",
+            "type": "LOC"
+        },
+        {
+            "mot": "L",
+            "type": "LOC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Orgueil",
+            "type": "MISC"
+        },
+        {
+            "mot": "Oisif",
+            "type": "LOC"
+        },
+        {
+            "mot": "Marie",
+            "type": "PER"
+        },
+        {
+            "mot": "Sainte Vierge",
+            "type": "PER"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Ferdinand",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Jésus",
+            "type": "PER"
+        },
+        {
+            "mot": "Saxe",
+            "type": "LOC"
+        },
+        {
+            "mot": "Satan",
+            "type": "PER"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉLIRES",
+            "type": "MISC"
+        },
+        {
+            "mot": "VIERGE FOLLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "'",
+            "type": "MISC"
+        },
+        {
+            "mot": "ÉPOUX",
+            "type": "PER"
+        },
+        {
+            "mot": "Époux",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Ép",
+            "type": "PER"
+        },
+        {
+            "mot": "oux",
+            "type": "MISC"
+        },
+        {
+            "mot": "maintenant",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Époux infernal",
+            "type": "PER"
+        },
+        {
+            "mot": "Seigneur",
+            "type": "PER"
+        },
+        {
+            "mot": "Démon",
+            "type": "PER"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Scandinaves",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mongol",
+            "type": "MISC"
+        },
+        {
+            "mot": "Mongol",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Ange",
+            "type": "PER"
+        },
+        {
+            "mot": "out",
+            "type": "MISC"
+        },
+        {
+            "mot": "Paradis",
+            "type": "LOC"
+        },
+        {
+            "mot": "Gomme",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Duval, Dufour",
+            "type": "PER"
+        },
+        {
+            "mot": "Duval",
+            "type": "PER"
+        },
+        {
+            "mot": "Dufour",
+            "type": "PER"
+        },
+        {
+            "mot": "Armand",
+            "type": "PER"
+        },
+        {
+            "mot": "Maurice",
+            "type": "PER"
+        },
+        {
+            "mot": "Un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "DÉLIRES II",
+            "type": "MISC"
+        },
+        {
+            "mot": "ALCHIMIE DU VERBE",
+            "type": "MISC"
+        },
+        {
+            "mot": "un jour",
+            "type": "DATE"
+        },
+        {
+            "mot": "Oise",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chérie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Chérie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "A quatre heures",
+            "type": "DATE"
+        },
+        {
+            "mot": "Hespérides",
+            "type": "LOC"
+        },
+        {
+            "mot": "Déjà",
+            "type": "PER"
+        },
+        {
+            "mot": "Charpenti",
+            "type": "PER"
+        },
+        {
+            "mot": "Charpentiers",
+            "type": "PER"
+        },
+        {
+            "mot": "Déserts",
+            "type": "LOC"
+        },
+        {
+            "mot": "Babylone",
+            "type": "LOC"
+        },
+        {
+            "mot": "Vénus",
+            "type": "PER"
+        },
+        {
+            "mot": "Bergers",
+            "type": "LOC"
+        },
+        {
+            "mot": "sprit",
+            "type": "PER"
+        },
+        {
+            "mot": "CHANSON DE LA PLUS HAUTE TOUR Qu",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu'",
+            "type": "MISC"
+        },
+        {
+            "mot": "Qu'",
+            "type": "MISC"
+        },
+        {
+            "mot": "qu'il",
+            "type": "MISC"
+        },
+        {
+            "mot": "alsaine",
+            "type": "PER"
+        },
+        {
+            "mot": "Ob",
+            "type": "MISC"
+        },
+        {
+            "mot": "Salomon",
+            "type": "PER"
+        },
+        {
+            "mot": "Cédron",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Éternité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Science",
+            "type": "MISC"
+        },
+        {
+            "mot": "patience",
+            "type": "MISC"
+        },
+        {
+            "mot": "Braises",
+            "type": "MISC"
+        },
+        {
+            "mot": "satin",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Éternité",
+            "type": "MISC"
+        },
+        {
+            "mot": "Cimmérie",
+            "type": "LOC"
+        },
+        {
+            "mot": "Christus",
+            "type": "PER"
+        },
+        {
+            "mot": "venit",
+            "type": "MISC"
+        },
+        {
+            "mot": "bonheur",
+            "type": "MISC"
+        },
+        {
+            "mot": "Que chante le coq gaulois",
+            "type": "MISC"
+        },
+        {
+            "mot": "coq",
+            "type": "MISC"
+        },
+        {
+            "mot": "Sera",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Ah",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "Hier",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Orient",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Orient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Orient",
+            "type": "MISC"
+        },
+        {
+            "mot": "Coran",
+            "type": "MISC"
+        },
+        {
+            "mot": "M. Prudhomme",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "Christ",
+            "type": "PER"
+        },
+        {
+            "mot": "l'Orient",
+            "type": "MISC"
+        },
+        {
+            "mot": "d'Église",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Éden",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Éden",
+            "type": "LOC"
+        },
+        {
+            "mot": "l'Éden",
+            "type": "LOC"
+        },
+        {
+            "mot": "Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "Orient",
+            "type": "LOC"
+        },
+        {
+            "mot": "Occident",
+            "type": "LOC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "l'Ecclésiaste",
+            "type": "PER"
+        },
+        {
+            "mot": "Tout",
+            "type": "MISC"
+        },
+        {
+            "mot": "Pater",
+            "type": "MISC"
+        },
+        {
+            "mot": "Ave Maria",
+            "type": "MISC"
+        },
+        {
+            "mot": "aujourd'hui",
+            "type": "DATE"
+        },
+        {
+            "mot": "l'étoile d'argent",
+            "type": "LOC"
+        },
+        {
+            "mot": "Rois de la vie",
+            "type": "MISC"
+        },
+        {
+            "mot": "Noël",
+            "type": "MISC"
+        },
+        {
+            "mot": "oi",
+            "type": "PER"
+        },
+        {
+            "mot": "Paysan",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Dieu",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avril-août 1873",
+            "type": "DATE"
+        },
+        {
+            "mot": "e",
+            "type": "MISC"
+        },
+        {
+            "mot": "Avril-août 1873",
+            "type": "DATE"
+        },
+        {
+            "mot": "LES ILLUMINATIONS APR<unk>S LE DÉLUGE",
+            "type": "MISC"
+        },
+        {
+            "mot": "BARBARE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MYSTIQUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "FLEURS",
+            "type": "MISC"
+        },
+        {
+            "mot": "BEING BEAUTEOUS",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANTIQUE IL ROYAUTÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "ORNI<unk>RES",
+            "type": "MISC"
+        },
+        {
+            "mot": "MOUVEMENT 2I VILLES",
+            "type": "MISC"
+        },
+        {
+            "mot": "I 4 MÉTROPOLITAIN",
+            "type": "MISC"
+        },
+        {
+            "mot": "PROMONTOIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "SC<unk>NES",
+            "type": "MISC"
+        },
+        {
+            "mot": "PARADE",
+            "type": "MISC"
+        },
+        {
+            "mot": "VILLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉPART",
+            "type": "MISC"
+        },
+        {
+            "mot": "A UNE RAISON",
+            "type": "MISC"
+        },
+        {
+            "mot": "ANGOISSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "BOTTOM",
+            "type": "MISC"
+        },
+        {
+            "mot": "VEILLÉES",
+            "type": "MISC"
+        },
+        {
+            "mot": "NOCTURNE VULGAIRE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MATINÉE D'IVRESSE",
+            "type": "MISC"
+        },
+        {
+            "mot": "PHRASES",
+            "type": "MISC"
+        },
+        {
+            "mot": "HONTE",
+            "type": "MISC"
+        },
+        {
+            "mot": "CHANSON DE LA PLUS HAUTE TOUR",
+            "type": "MISC"
+        },
+        {
+            "mot": "OUVRIERS",
+            "type": "MISC"
+        },
+        {
+            "mot": "TOUR",
+            "type": "LOC"
+        },
+        {
+            "mot": "OUVRIERS",
+            "type": "LOC"
+        },
+        {
+            "mot": "BRUXELLES",
+            "type": "LOC"
+        },
+        {
+            "mot": "AGE D'OR",
+            "type": "MISC"
+        },
+        {
+            "mot": "ETERNITÉ",
+            "type": "MISC"
+        },
+        {
+            "mot": "MICHEL ET CHRISTINE",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉVOTION",
+            "type": "MISC"
+        },
+        {
+            "mot": "SOIR HISTORIQUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "Qu",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉMOCRATIE",
+            "type": "MISC"
+        },
+        {
+            "mot": "UNE SAISON EN ENFER PROLOGUE",
+            "type": "MISC"
+        },
+        {
+            "mot": "MAUVAIS SANG LOI NUIT DE L'ENFER",
+            "type": "MISC"
+        },
+        {
+            "mot": "DÉLIRES",
+            "type": "MISC"
+        },
+        {
+            "mot": "Vierge folle",
+            "type": "MISC"
+        },
+        {
+            "mot": "Alchimie",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'IMPOSSIBLE",
+            "type": "MISC"
+        },
+        {
+            "mot": "L'ÉCLAIR",
+            "type": "MISC"
+        },
+        {
+            "mot": "J ADIEU",
+            "type": "MISC"
+        },
+        {
+            "mot": "ÉVREUX",
+            "type": "LOC"
+        },
+        {
+            "mot": "IMPRIMERIE DE",
+            "type": "LOC"
+        },
+        {
+            "mot": "CHARLES",
+            "type": "PER"
+        },
+        {
+            "mot": "HÉRISSEY",
+            "type": "LOC"
+        },
+        {
+            "mot": "VREUX",
+            "type": "LOC"
+        },
+        {
+            "mot": "IMPRIMERIE DE CHARLES HÉRISSEY",
+            "type": "LOC"
+        }
+    ]
+}

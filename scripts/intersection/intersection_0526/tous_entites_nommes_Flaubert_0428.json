@@ -1,0 +1,952 @@
+{
+    "APPOLINAIRE_Caligrammes.txt": {
+        "auteur": "Appolinaire",
+        "entités": [
+            {
+                "texte": "Calligrammes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Guillaume Apollinaire",
+                "type": "PER"
+            },
+            {
+                "texte": "La Fresnaye",
+                "type": "PER"
+            },
+            {
+                "texte": "Apollinaire",
+                "type": "PER"
+            },
+            {
+                "texte": "Guillaume",
+                "type": "PER"
+            },
+            {
+                "texte": "Lausanne",
+                "type": "LOC"
+            },
+            {
+                "texte": "La Fresnaye",
+                "type": "PER"
+            },
+            {
+                "texte": "Roger de",
+                "type": "PER"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "Calligrammes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Collection du Bouquet",
+                "type": "MISC"
+            },
+            {
+                "texte": "Collection : Collection du Bouquet",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Dessins de",
+                "type": "MISC"
+            },
+            {
+                "texte": "La Fresnaye",
+                "type": "PER"
+            },
+            {
+                "texte": "GU",
+                "type": "MISC"
+            },
+            {
+                "texte": "Dessins",
+                "type": "MISC"
+            },
+            {
+                "texte": "La Fresnaye",
+                "type": "PER"
+            },
+            {
+                "texte": "RENÉ DALIZE",
+                "type": "PER"
+            },
+            {
+                "texte": "Champ d",
+                "type": "LOC"
+            },
+            {
+                "texte": "Honneur",
+                "type": "LOC"
+            },
+            {
+                "texte": "Europe",
+                "type": "LOC"
+            }
+        ]
+    },
+    "DARBOUVILLE_Poesies-et-nouvelles.txt": {
+        "auteur": "Darbourville",
+        "entités": [
+            {
+                "texte": "Poésies et nouvelles",
+                "type": "MISC"
+            },
+            {
+                "texte": "Madame d",
+                "type": "PER"
+            },
+            {
+                "texte": "Arbouville",
+                "type": "PER"
+            },
+            {
+                "texte": "Sophie d",
+                "type": "PER"
+            },
+            {
+                "texte": "Arbouville",
+                "type": "PER"
+            },
+            {
+                "texte": "P. de Barante",
+                "type": "PER"
+            },
+            {
+                "texte": "Arbouville",
+                "type": "PER"
+            },
+            {
+                "texte": "Sophie d'",
+                "type": "PER"
+            },
+            {
+                "texte": "Amyot",
+                "type": "ORG"
+            },
+            {
+                "texte": "Barante",
+                "type": "PER"
+            },
+            {
+                "texte": "Prosper Brugière baron de",
+                "type": "PER"
+            },
+            {
+                "texte": "Droits",
+                "type": "MISC"
+            },
+            {
+                "texte": "Public domain",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "POÉSIES ET NOUVELLES TYPOGRAPHIE",
+                "type": "MISC"
+            },
+            {
+                "texte": "CH. LAHURE",
+                "type": "PER"
+            },
+            {
+                "texte": "Imprimeur du Sénat",
+                "type": "ORG"
+            },
+            {
+                "texte": "et de la Cour de Cassation rue de Vaugirard",
+                "type": "LOC"
+            },
+            {
+                "texte": "POÉSIES ET NOUVELLES",
+                "type": "MISC"
+            },
+            {
+                "texte": "MADAME D'ARBOUVILLE",
+                "type": "PER"
+            },
+            {
+                "texte": "PARIS",
+                "type": "LOC"
+            },
+            {
+                "texte": "LIBRAIRIE D’AMYOT",
+                "type": "ORG"
+            },
+            {
+                "texte": "EDITEUR",
+                "type": "LOC"
+            },
+            {
+                "texte": "rue de la Paix WÈÈÈBÈÈÈÈÈÊÊÈÈËM",
+                "type": "LOC"
+            },
+            {
+                "texte": "me d",
+                "type": "PER"
+            },
+            {
+                "texte": "ARBOU VILLE",
+                "type": "PER"
+            }
+        ]
+    },
+    "DESBORDES-VALMORE_Poesies-1820.txt": {
+        "auteur": "Desbordes",
+        "entités": [
+            {
+                "texte": "Poésies",
+                "type": "MISC"
+            },
+            {
+                "texte": "Mme Desbordes-Valmore",
+                "type": "PER"
+            },
+            {
+                "texte": "Desbordes-Valmore",
+                "type": "PER"
+            },
+            {
+                "texte": "Marceline",
+                "type": "PER"
+            },
+            {
+                "texte": "F. Louis",
+                "type": "PER"
+            },
+            {
+                "texte": "GTextes1",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "FRANÇOIS LOUIS",
+                "type": "PER"
+            },
+            {
+                "texte": "L’ARBRISSEAU",
+                "type": "LOC"
+            },
+            {
+                "texte": "MONSIEUR ALIBERT",
+                "type": "PER"
+            },
+            {
+                "texte": "DOCTEUR",
+                "type": "PER"
+            },
+            {
+                "texte": "C",
+                "type": "PER"
+            }
+        ]
+    },
+    "HUGO_Contemplations-T2.txt": {
+        "auteur": "Hugo",
+        "entités": [
+            {
+                "texte": "Aujourd",
+                "type": "MISC"
+            },
+            {
+                "texte": "hui",
+                "type": "MISC"
+            },
+            {
+                "texte": "Victor Hugo",
+                "type": "PER"
+            },
+            {
+                "texte": "Hugo",
+                "type": "PER"
+            },
+            {
+                "texte": "Victor",
+                "type": "PER"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "LES CONTEMPLATIONS l'Ai! VI",
+                "type": "MISC"
+            },
+            {
+                "texte": "CTOR HUGO TOME",
+                "type": "PER"
+            },
+            {
+                "texte": "PARIS",
+                "type": "LOC"
+            },
+            {
+                "texte": "LEIPZIG",
+                "type": "PER"
+            },
+            {
+                "texte": "EZ WOLEGANG GERHARD",
+                "type": "PER"
+            },
+            {
+                "texte": "LES CONTEMPLATIONS LES CONTEMPLATIONS",
+                "type": "MISC"
+            },
+            {
+                "texte": "VICTOR HUGO TOME",
+                "type": "PER"
+            },
+            {
+                "texte": "PABIS",
+                "type": "LOC"
+            },
+            {
+                "texte": "LEIPZIG",
+                "type": "PER"
+            },
+            {
+                "texte": "CHEZ WOLFGANG GERHARD",
+                "type": "PER"
+            },
+            {
+                "texte": "LITRE QUATEIEME PA",
+                "type": "MISC"
+            },
+            {
+                "texte": "À WEM",
+                "type": "MISC"
+            }
+        ]
+    },
+    "LOISEAU_Fleurs-d-avril.txt": {
+        "auteur": "Loiseau",
+        "entités": [
+            {
+                "texte": "Fleurs d",
+                "type": "MISC"
+            },
+            {
+                "texte": "avril : poésies",
+                "type": "MISC"
+            },
+            {
+                "texte": "Jeanne Loiseau",
+                "type": "PER"
+            },
+            {
+                "texte": "Loiseau",
+                "type": "PER"
+            },
+            {
+                "texte": "Jeanne",
+                "type": "PER"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "JEANNE LOISEAU",
+                "type": "PER"
+            },
+            {
+                "texte": "Fleurs d’Avril POESIES A Fleurs d ’ Av r",
+                "type": "MISC"
+            },
+            {
+                "texte": "JEANNE LOISEAU",
+                "type": "PER"
+            },
+            {
+                "texte": "Fleurs cTAvril m",
+                "type": "MISC"
+            },
+            {
+                "texte": "POESIES PARIS ALPHONSE",
+                "type": "MISC"
+            },
+            {
+                "texte": "LEMERRE",
+                "type": "PER"
+            },
+            {
+                "texte": "CHOISEUL",
+                "type": "MISC"
+            },
+            {
+                "texte": "Fleurs (TAvril PROLOGUE",
+                "type": "MISC"
+            },
+            {
+                "texte": "Fleurs ci’ Avril",
+                "type": "MISC"
+            },
+            {
+                "texte": "f Mon Livre Bleu",
+                "type": "MISC"
+            },
+            {
+                "texte": "Mon Livre Bleu",
+                "type": "MISC"
+            }
+        ]
+    },
+    "NOAILLES_Derniers-vers.txt": {
+        "auteur": "Noialles",
+        "entités": [
+            {
+                "texte": "Derniers vers",
+                "type": "MISC"
+            },
+            {
+                "texte": "Comtesse de Noailles",
+                "type": "PER"
+            },
+            {
+                "texte": "Noailles",
+                "type": "PER"
+            },
+            {
+                "texte": "Anna de",
+                "type": "PER"
+            },
+            {
+                "texte": "Public do",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "TESSE DE NOAILLES",
+                "type": "LOC"
+            },
+            {
+                "texte": "GRASSE",
+                "type": "LOC"
+            },
+            {
+                "texte": "T",
+                "type": "PER"
+            },
+            {
+                "texte": "DE NOAILLES",
+                "type": "LOC"
+            },
+            {
+                "texte": "GRASSET",
+                "type": "LOC"
+            },
+            {
+                "texte": "ANNE-JULES & HÉLÈNE",
+                "type": "PER"
+            },
+            {
+                "texte": "Constantin PHOTIADÈS",
+                "type": "PER"
+            },
+            {
+                "texte": "comtesse de Noailles",
+                "type": "PER"
+            },
+            {
+                "texte": "Poème de P amour",
+                "type": "MISC"
+            },
+            {
+                "texte": "V Honneur de souffrir",
+                "type": "MISC"
+            },
+            {
+                "texte": "Souvenirs d^un jardin d^Angleterre^",
+                "type": "MISC"
+            },
+            {
+                "texte": "Vivants et des morts",
+                "type": "MISC"
+            },
+            {
+                "texte": "Un soir à Londres",
+                "type": "MISC"
+            },
+            {
+                "texte": "Forces éternelles",
+                "type": "MISC"
+            },
+            {
+                "texte": "Revue de Paris",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bonaparte^",
+                "type": "MISC"
+            },
+            {
+                "texte": "Napoléon",
+                "type": "PER"
+            },
+            {
+                "texte": "Revue",
+                "type": "MISC"
+            }
+        ]
+    },
+    "RIMBAUD_ILLUMINATIONS_ETC.txt": {
+        "auteur": "Rimbaud",
+        "entités": [
+            {
+                "texte": "les Illuminations",
+                "type": "MISC"
+            },
+            {
+                "texte": "Une Saison en Enfer",
+                "type": "MISC"
+            },
+            {
+                "texte": "Paul Verlaine",
+                "type": "PER"
+            },
+            {
+                "texte": "Une Saison en Enfer",
+                "type": "MISC"
+            },
+            {
+                "texte": "Rimbaud",
+                "type": "PER"
+            },
+            {
+                "texte": "Arthur",
+                "type": "PER"
+            },
+            {
+                "texte": "L. Vanier",
+                "type": "PER"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Verlaine",
+                "type": "PER"
+            },
+            {
+                "texte": "Paul",
+                "type": "PER"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "UNE SAISON EN ENFER LES ILLUMINATIONS",
+                "type": "MISC"
+            },
+            {
+                "texte": "ARTHUR RIMBAUD",
+                "type": "PER"
+            },
+            {
+                "texte": "POÈMES LES ILLUMINATIONS UNE SAISON EN ENFER",
+                "type": "MISC"
+            },
+            {
+                "texte": "Paul Verlaine",
+                "type": "PER"
+            },
+            {
+                "texte": "PARIS LÉON VANIER",
+                "type": "LOC"
+            },
+            {
+                "texte": "QUAI SAINT-MICIIEL",
+                "type": "LOC"
+            },
+            {
+                "texte": "Belgique",
+                "type": "LOC"
+            },
+            {
+                "texte": "Angleterre",
+                "type": "LOC"
+            },
+            {
+                "texte": "Allemagne",
+                "type": "LOC"
+            },
+            {
+                "texte": "Rimbaud",
+                "type": "PER"
+            }
+        ]
+    },
+    "SAUVAGE_Tandis-que-la-terre-tourne.txt": {
+        "auteur": "Sauvage",
+        "entités": [
+            {
+                "texte": "Tandis que la terre tourne :",
+                "type": "MISC"
+            },
+            {
+                "texte": "Cécile Sauvage",
+                "type": "PER"
+            },
+            {
+                "texte": "Sauvage",
+                "type": "PER"
+            },
+            {
+                "texte": "Cécile",
+                "type": "PER"
+            },
+            {
+                "texte": "Mercure de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "CÉCILE SAUVAGE",
+                "type": "PER"
+            },
+            {
+                "texte": "’andis que la terre tourne sTOnifè POEMES — PARIS MERCVRE DE FRANGE XXVI, RVE DE CONDÉ, XXVI",
+                "type": "MISC"
+            },
+            {
+                "texte": "Hollande",
+                "type": "LOC"
+            },
+            {
+                "texte": "C. S. I",
+                "type": "PER"
+            },
+            {
+                "texte": "PLEINE LUNE OU CROISSANT DONNONS",
+                "type": "MISC"
+            },
+            {
+                "texte": "MA DOUBLE FLUTE",
+                "type": "MISC"
+            },
+            {
+                "texte": "Juin",
+                "type": "MISC"
+            }
+        ]
+    },
+    "VERLAINE_Sagesse.txt": {
+        "auteur": "Verlaine",
+        "entités": [
+            {
+                "texte": "Sagesse",
+                "type": "MISC"
+            },
+            {
+                "texte": "Paul Verlaine",
+                "type": "PER"
+            },
+            {
+                "texte": "Verlaine",
+                "type": "PER"
+            },
+            {
+                "texte": "Paul",
+                "type": "PER"
+            },
+            {
+                "texte": "L. Vanier",
+                "type": "PER"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "Sagesse",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "PAUL VERLAINE",
+                "type": "PER"
+            },
+            {
+                "texte": "SAGESSE _I' TROISIÈME ÉDITIUA REVUE",
+                "type": "MISC"
+            },
+            {
+                "texte": "El CORUIUKE PARIS LEON VA NI EH",
+                "type": "LOC"
+            },
+            {
+                "texte": "LI HUA ME-fi DIT KUH 1U",
+                "type": "LOC"
+            },
+            {
+                "texte": "QUAI SAINT-MIC II KL",
+                "type": "LOC"
+            },
+            {
+                "texte": "SAGESSE",
+                "type": "LOC"
+            },
+            {
+                "texte": "PAUL VERLAIE ",
+                "type": "PER"
+            },
+            {
+                "texte": "èmes",
+                "type": "MISC"
+            },
+            {
+                "texte": "La bonne Chanson",
+                "type": "MISC"
+            },
+            {
+                "texte": "Fêtes galantes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Romances sans paroles",
+                "type": "MISC"
+            },
+            {
+                "texte": "Sagesse",
+                "type": "MISC"
+            },
+            {
+                "texte": "Jadis et naguère",
+                "type": "MISC"
+            },
+            {
+                "texte": "Amour",
+                "type": "MISC"
+            },
+            {
+                "texte": "3 Il Bonheur",
+                "type": "MISC"
+            },
+            {
+                "texte": "EN PRÉPARATION",
+                "type": "MISC"
+            },
+            {
+                "texte": "Odes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Il",
+                "type": "MISC"
+            },
+            {
+                "texte": "Elégies",
+                "type": "MISC"
+            }
+        ]
+    },
+    "VIVIEN_Etudes-et-preludes.txt": {
+        "auteur": "Vivien",
+        "entités": [
+            {
+                "texte": "Poèmes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Renée Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "Études et préludes",
+                "type": "MISC"
+            },
+            {
+                "texte": "Cendres et poussières",
+                "type": "MISC"
+            },
+            {
+                "texte": "Évocations",
+                "type": "MISC"
+            },
+            {
+                "texte": "Sapho",
+                "type": "MISC"
+            },
+            {
+                "texte": "La Vénus des aveugles",
+                "type": "MISC"
+            },
+            {
+                "texte": "Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "Renée",
+                "type": "PER"
+            },
+            {
+                "texte": "A. Lemerre",
+                "type": "PER"
+            },
+            {
+                "texte": "Paris",
+                "type": "LOC"
+            },
+            {
+                "texte": "Français",
+                "type": "MISC"
+            },
+            {
+                "texte": "XML DTBook",
+                "type": "MISC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Bibliothèque nationale de France",
+                "type": "LOC"
+            },
+            {
+                "texte": "Renée Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "ÉTUDES et \"P ré u des – Cendres et Poussières Évocations Sapho",
+                "type": "MISC"
+            },
+            {
+                "texte": "La Venus des Aveugles",
+                "type": "MISC"
+            },
+            {
+                "texte": "PARIS LI",
+                "type": "LOC"
+            },
+            {
+                "texte": "BRAIRIE ALPHONSE",
+                "type": "ORG"
+            },
+            {
+                "texte": "LE MERRE r",
+                "type": "LOC"
+            },
+            {
+                "texte": "Renée Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "MES",
+                "type": "MISC"
+            },
+            {
+                "texte": "Renée Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "Études et Préludes – Cendres et Poussières Évocations Sapho",
+                "type": "MISC"
+            },
+            {
+                "texte": "La Vénus des Aveugles",
+                "type": "MISC"
+            },
+            {
+                "texte": "PARIS LIBRAIRIE ALPHONSE LE M ERRE",
+                "type": "LOC"
+            },
+            {
+                "texte": "Renée Vivien",
+                "type": "PER"
+            },
+            {
+                "texte": "ETUDES ET PRÉLUDES",
+                "type": "MISC"
+            }
+        ]
+    }
+}

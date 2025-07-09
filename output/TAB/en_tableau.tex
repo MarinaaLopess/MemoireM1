@@ -2,29 +2,36 @@
 \centering
     \caption{\small NOMBRE D'ENTITÉS NOMMÉES PAR OUVRAGE}
     \captionsetup{skip=0.5cm}
+    %todo: gérer largeur colonnes
     \begin{tblr}{
       colspec={@{}X[4,l,font=\bfseries]X[c]X[c]X[c]X[c]X[c]},
       row{1}={font=\itshape}
     }
         \hline
-        \textbf{Ouvrage} & \textbf{Nb EN spaCy (sm)} & \textbf{Nb ENs spaCy (lg)} & \textbf{Nb ENs Flaubert} & \textbf{Nb ENs Camembert} & \textbf{Nb ENs Stanza} \\
-        \hline
-\textbf{Poésies et nouvelles} \\ \normalfont D'Arbouville, XIX & 55910 & 55910 & 60937 & 67415 & 55462 \\
+\textbf{Ouvrage} & \textbf{Nb ENs spaCy (sm)} & \textbf{Nb ENs spaCy (lg)} & \textbf{Nb ENs Flaub. + Camemb.} & \textbf{Nb ENs Camembert} & \textbf{Nb ENs Stanza} \\
 \hline
-\textbf{Poésies} \\ \normalfont Desbordes, 1820 & 31130 & 31130 & 35102 & 39210 & 30825 \\
+\textbf{Poésies et nouvelles} \\ \normalfont D'Arbouville, XIX & 4087 & 2712 & 127 & 27 & 1064 \\
 \hline
-\textbf{Les Contemplations, Tome 2} \\ \normalfont Hugo, 1856 & 66426 & 66426 & 75902 & 85303 & 65385 \\
+\textbf{Poésies} \\ \normalfont Desbordes, 1820 & 2640 & 1936 & 54 & 13 & 905 \\
 \hline
-\textbf{Illuminations ; Une saison en enfer} \\ \normalfont Rimbaud, 1873-1875 & 20809 & 20809 & 23008 & 25456 & 20685 \\
+\textbf{Les Contemplations, Tome 2} \\ \normalfont Hugo, 1856 & 3753 & 3746 & 94 & 21 & 1531 \\
 \hline
-\textbf{Sagesse} \\ \normalfont Verlaine, 1881 & 14257 & 14257 & 15719 & 17342 & 14122 \\
+\textbf{Illuminations ; Une saison en enfer} \\ \normalfont Rimbaud, 1873-1875 & 753 & 670 & 91 & 23 & 463 \\
 \hline
-\textbf{Calligrammes} \\ \normalfont Apollinaire, 1918 & 16834 & 16834 & 19808 & 21297 & 16683 \\
+\textbf{Sagesse} \\ \normalfont Verlaine, 1881 & 1067 & 1067 & 125 & 29 & 603 \\
 \hline
-\textbf{Fleurs d'avril} \\ \normalfont Loiseau, XXe & 20742 & 20742 & 22432 & 24761 & 20602 \\
+\textbf{Calligrammes} \\ \normalfont Apollinaire, 1918 & 1260 & 1171 & 75 & 23 & 1064 \\
 \hline
-\textbf{Derniers vers} \\ \normalfont Noailles, XXe & 12901 & 12901 & 14641 & 16332 & 12820 \\
+\textbf{Fleurs d'avril} \\ \normalfont Loiseau, XXe & 1513 & 1251 & 97 & 20 & 538 \\
 \hline
+\textbf{Derniers vers} \\ \normalfont Noailles, XXe & 1083 & 874 & 101 & 25 & 479 \\
+\hline
+\textbf{Tandis que la terre tourne} \\ \normalfont Sauvage, 1910 & 1552 & 1353 & 90 & 15 & 481 \\
+\hline
+\textbf{Études et préludes} \\ \normalfont Vivien, 1901 & 3331 & 3382 & 157 & 29 & 1468 \\
+\hline
+\end{tblr}
+\end{table}
 \textbf{Tandis que la terre tourne} \\ \normalfont Sauvage, 1910 & 20854 & 20854 & 24103 & 26774 & 20726 \\
 \hline
 \textbf{Études et préludes} \\ \normalfont Vivien, 1901 & 39110 & 39110 & 45851 & 51282 & 38881 \\

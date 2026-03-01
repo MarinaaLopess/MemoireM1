@@ -4,8 +4,8 @@
 Ce projet est un mémoire de **Master 1 Sciences du Langage, parcours Langue et Informatique** réalisé à **Sorbonne Université**.
 
 * **Titre du mémoire** : Reconnaissance d'Entités Nommées sur un corpus de poèmes des XIXe et XXe siècles.
-* **Auteurs** : Marina CARVALHO LOPES & Ruixing ZHENG.
-* **Direction** : Caroline KOUDORO-PARFAIT, Ljudmila PETKOVIC et Gaël LEJEUNE.
+* **Auteurs** :  Ruixing ZHENG & Marina CARVALHO LOPES
+* **Direction** : Gaël LEJEUN, Ljudmila PETKOVIC et Caroline KOUDORO-PARFAIT.
 * **Année universitaire** : 2024-2025.
 
 ## 🎯 Objectifs de la recherche
